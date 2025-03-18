@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/ashwagandha.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-10-10T12:11:49-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4635392147531</id>
+    <published>2024-10-10T12:11:49-07:00</published>
+    <updated>2024-10-10T12:11:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-lovin-libido"/>
+    <title>Lovin&apos; Libido</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lovin-libido-main_0ac636c6-0d43-4a68-8353-c632ffe7aadd.jpg?v=1728916556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><meta charset="utf-8"><span>Lovin’ Libido is for women uninterested in and unsatisfied with sex. Here’s hope. Lovin’ Libido is formulated with traditional ingredients, including Ashwagandha to help boost desire, enhance arousal and even support satisfaction for women.* In other words, we’ll take two.</span></p>
+<ul>
+<li>40 Count | 20-day Supply</li>
+<li>A blend of Ashwagandha, Damiana &amp; Maca</li>
+<li>Vegetarian</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>ATTV_GLOBAL_EXCLUSION_TAG</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392147531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817197981771</id>
+    <published>2023-03-25T13:31:40-07:00</published>
+    <updated>2023-03-25T13:31:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-chill"/>
+    <title>Plant Powered Chill</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-chill-main.jpg?v=1679593146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This soothing blend has benefits-a-plenty, helping you deal with life’s stresses and strains by keeping your mind calm, your mood cool and your outlook upbeat.*</span></p>
+<ul>
+<li>
+<span>30 Vegan Certified Capsules</span><span></span>
+</li>
+<li><span>Ashwagandha</span></li>
+<li>Rhodiola</li>
+<li>Schisandra</li>
+</ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>Rhodiola</s:tag>
+    <s:tag>Schisandra</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817197981771</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092686923</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-stress"/>
+    <title>Ultra Strength Goodbye Stress Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-goodbye-stress-60ct-main.jpg?v=1730137576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Mindful master. This multi-benefit blend helps you stay calm when you need it—while keeping you centered &amp; balanced.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Ashwagandha, GABA, L-Theanine &amp; Lemon Balm Extract</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092686923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,677 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/ultras-capsules.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-10-10T12:11:49-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4635392147531</id>
+    <published>2024-10-10T12:11:49-07:00</published>
+    <updated>2024-10-10T12:11:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-lovin-libido"/>
+    <title>Lovin&apos; Libido</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lovin-libido-main_0ac636c6-0d43-4a68-8353-c632ffe7aadd.jpg?v=1728916556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><meta charset="utf-8"><span>Lovin’ Libido is for women uninterested in and unsatisfied with sex. Here’s hope. Lovin’ Libido is formulated with traditional ingredients, including Ashwagandha to help boost desire, enhance arousal and even support satisfaction for women.* In other words, we’ll take two.</span></p>
+<ul>
+<li>40 Count | 20-day Supply</li>
+<li>A blend of Ashwagandha, Damiana &amp; Maca</li>
+<li>Vegetarian</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>ATTV_GLOBAL_EXCLUSION_TAG</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392147531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7139986866251</id>
+    <published>2024-08-26T13:48:54-07:00</published>
+    <updated>2024-08-26T13:48:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mellow-menopause"/>
+    <title>Mellow Menopause</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/mellow-menopause-main.jpg?v=1718650842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            29.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Meet Mellow Menopause™, your super supportive 40+ friend in a bottle. Expertly formulated by women who get it, these once-daily, hormone-free capsules contain EstroG-100® which relieves symptoms of menopause such as hot flashes, night sweats, difficulty sleeping &amp; vaginal dryness.*</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">Here’s to feeling more comfortable in your most empowered era to date.</div>
+<ul>
+<li>30 Count | 1-Month Supply</li>
+<li>
+<meta charset="utf-8"> <span>EstroG-100® and GABA </span>
+</li>
+<li>Vegan</li>
+</ul>
+<p> </p>
+<p><a href="/blogs/the-well/lets-talk-about-menopause" title="Blog article on Menopause">Read more about Mellow Menopause here.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Women&apos;s Wellness</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7139986866251</id>
+      <title>Default Title</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>300330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817198178379</id>
+    <published>2024-05-23T12:46:22-07:00</published>
+    <updated>2024-05-23T12:46:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-focus"/>
+    <title>Plant Powered Focus</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-focus-main.jpg?v=1679593201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This hardworking blend has benefits-a-plenty, keeping your mind clear and alert, supporting concentration and helping you stay on task.*</span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules</span><span></span>
+</li>
+<li>
+<span>American Ginseng</span><span></span>
+</li>
+<li>
+<span>Gotu Kola</span><span></span>
+</li>
+<li><span>Lemon Balm</span></li>
+</ul>
+<ul></ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Brain</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Ginseng</s:tag>
+    <s:tag>Gotu Kola</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198178379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817198112843</id>
+    <published>2024-05-23T12:46:10-07:00</published>
+    <updated>2024-05-23T12:46:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-rest"/>
+    <title>Plant Powered Rest</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-rest-main.jpg?v=1679593186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This relaxing blend has benefits-a-plenty, calming your body and mind with a Melatonin-free mellow and helping you slip into a restful, stressless slumber.*</span><span> </span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules </span><span> </span>
+</li>
+<li>
+<span>Valerian Root</span><span> </span>
+</li>
+<li>
+<span>Passionflower</span><span> </span>
+</li>
+<li><span>Chamomile Flower</span></li>
+</ul>
+<p> </p>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Chamomile</s:tag>
+    <s:tag>Passionflower</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Valerian Root</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198112843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817197981771</id>
+    <published>2023-03-25T13:31:40-07:00</published>
+    <updated>2023-03-25T13:31:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-chill"/>
+    <title>Plant Powered Chill</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-chill-main.jpg?v=1679593146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This soothing blend has benefits-a-plenty, helping you deal with life’s stresses and strains by keeping your mind calm, your mood cool and your outlook upbeat.*</span></p>
+<ul>
+<li>
+<span>30 Vegan Certified Capsules</span><span></span>
+</li>
+<li><span>Ashwagandha</span></li>
+<li>Rhodiola</li>
+<li>Schisandra</li>
+</ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>Rhodiola</s:tag>
+    <s:tag>Schisandra</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817197981771</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092260939</id>
+    <published>2022-03-27T08:28:45-07:00</published>
+    <updated>2022-03-27T08:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-prentatal"/>
+    <title>Ultra Strength Prenatal Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-prenatal-60ct-main.jpg?v=1730992008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoohoo, party of two. Here are key vitamins and minerals to help nourish you and your precious cargo on the daily.*</p>
+<p>For a twist, OLLY Ultra Strength Prenatal Softgels have a hint of mint and lemon scent. Don’t let their size fool you—these little guys go big on benefits for you and your little one.*</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of Folic Acid, DHA, Iron and Key Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092260939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70029102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6683644461131</id>
+    <published>2022-03-27T08:28:02-07:00</published>
+    <updated>2022-03-27T08:28:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-strength-brain-softgels"/>
+    <title>Ultra Strength Brain Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-brain-60ct-main.jpg?v=1730137690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Start thinkin’ sharp with this multi-benefit blend. It has scientifically selected ingredients that support healthy brain function and mental acuity, including memory, aspects of learning, focus and concentration.*</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">For a twist, premium OLLY Ultra Strength Brain Softgels have a hint of mint. Don’t let their size fool you—these little guys go big on benefits.</div>
+<ul>
+<li><span data-mce-fragment="1">60 Softgels | 30-day Supply </span></li>
+<li>
+<meta charset="utf-8"> <span>A blend of Bacopa &amp; Blueberry Extracts, B Vitamins, Omega-3's &amp; Iron</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6683644461131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4635392049227</id>
+    <published>2021-12-14T10:34:01-08:00</published>
+    <updated>2021-12-14T10:34:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-beat-the-bloat"/>
+    <title>Beat the Bloat</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/beat-the-bloat-main.jpg?v=1720466088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little heroes help to reduce discomfort caused by occasional digestion woes and gas. You’ll feel more like you—and a lot more comfortable, too.*†</p>
+<ul>
+<li>25 Capsules | 25-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Digestive Enzymes, Dandelion, Ginger &amp; Fennel Extracts</span><br>
+</li>
+<li><span><meta charset="utf-8">Vegetarian</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392049227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6591388450891</id>
+    <published>2021-08-18T11:19:00-07:00</published>
+    <updated>2021-08-18T11:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/combat-cravings"/>
+    <title>Combat Cravings</title>
+    <s:type>Performance/Fitness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/combat-cravings-main.jpg?v=1720465752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Performance/Fitness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">These trusty sidekicks help curb food cravings while supporting your metabolism and healthy blood sugar levels†.*</p>
+<p class="p1">†Already within normal range</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span>30 Capsules | 30-Day Supply</li>
+<li class="li1">
+<span class="s1"></span>Chromium Picolinate, Green Tea Extract, Goji Berry &amp; Ginger Extract</li>
+<li class="li1">
+<span class="s1"></span>Vegan Certified</li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"><strong>*As of April 22, 2024, this product will no longer be available for shipping to customers residing in New York state.*</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chromium</s:tag>
+    <s:tag>New York Restricted</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6591388450891</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6546032459851</id>
+    <published>2021-03-28T06:41:55-07:00</published>
+    <updated>2021-03-28T06:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/happy-hoo-ha"/>
+    <title>Happy Hoo-Ha</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/happy-hoo-ha-main.jpg?v=1720466971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Vulvas, rejoice! This probiotic blend delivers a clinically-studied dose to ensure a healthy balance of good bacteria and vaginal pH levels.* Just the thing for self-care-down-there confidence.</span></p>
+<ul>
+<li>25 Capsules | 25-day Supply</li>
+<li>Blend of Multi-Strain Vag-Friendly Probiotics</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6546032459851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092752459</id>
+    <published>2020-04-07T14:21:07-07:00</published>
+    <updated>2020-04-07T14:21:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-hair"/>
+    <title>Ultra Strength Hair Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-strength-hair-main_34932e3e-5c6f-49a7-8be5-be47af1d8843.jpg?v=1715887839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Healthy hair hero. This beautifying blend works its magic with ingredients that support healthy locks from within.*</span></p>
+<p><meta charset="utf-8"><span>For a fresh twist, our premium softgels have a hint of strawberry flavor and are sugar free. Don’t let their size fool you—these little softgels go big on benefits.</span></p>
+<ul>
+<li>30 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8">
+<span>A Blend of Biotin, Keratin &amp; Minerals</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092752459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092686923</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-stress"/>
+    <title>Ultra Strength Goodbye Stress Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-goodbye-stress-60ct-main.jpg?v=1730137576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Mindful master. This multi-benefit blend helps you stay calm when you need it—while keeping you centered &amp; balanced.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Ashwagandha, GABA, L-Theanine &amp; Lemon Balm Extract</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092686923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092588619</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-sleep"/>
+    <title>Ultra Strength Sleep Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-sleep-60ct-main.jpg?v=1730137300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These softgels are a delightful blend of ingredients for oh-so-many benefits to support healthy sleep cycles and a restful night.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A multi-benefit blend* of Melatonin, Magnesium, L-Theanine &amp; Botanical Extracts</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092588619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091769419</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-womens-multi-omega-3"/>
+    <title>Ultra Strength Women&apos;s Multi &amp; Omega-3 Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-womens-multi-60ct-main.jpg?v=1730991736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total overachiever. This nutrient-packed multivitamin serves up the essentials you need to thrive on the daily, like support for your brain, heart, immune system and hair, skin and nails—just to name a few.*</p>
+<p>For a twist, premium softgels have a hint of mint and lemon scent and are sugar free. Don’t let their size fool you—these little guys go big on benefits. Toss ‘em in your bag and head out.</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of B12, Omega-3 Fatty Acids, Biotin, Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091769419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/sleep.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2025-02-27T12:15:17-08:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7280272441419</id>
+    <published>2025-02-27T12:15:17-08:00</published>
+    <updated>2025-02-27T12:15:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/relaxing-magnesium"/>
+    <title>Relaxing Magnesium</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/relaxing-magnesium-60ct-main.jpg?v=1736799756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We're all about helping you find more OM and less O.M.G. Magnesium plays a key role in helping you find ease in your routine—whether it's after a long day, movement, or whenever you need to take it easy.* </span></p>
+<ul>
+<li><span>Raspberry Lavender flavored with other natural flavors</span></li>
+<li><span>Magnesium Citrate</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7280272441419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7166340989003</id>
+    <published>2024-09-13T09:23:17-07:00</published>
+    <updated>2024-09-13T09:23:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/sleep-apple-cider"/>
+    <title>Sleep Apple Cider</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-sleep-main.jpg?v=1724681154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet dreams are made of these. Festively delicious bedtime buddies that work with your body to help you mellow your mind, calm your senses and relax into Zzzs.*</p>
+<ul>
+<li>Flavor: Limited Edition Spiced Apple Cider flavor</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanical Extracts</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340989003</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817198112843</id>
+    <published>2024-05-23T12:46:10-07:00</published>
+    <updated>2024-05-23T12:46:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-rest"/>
+    <title>Plant Powered Rest</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-rest-main.jpg?v=1679593186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This relaxing blend has benefits-a-plenty, calming your body and mind with a Melatonin-free mellow and helping you slip into a restful, stressless slumber.*</span><span> </span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules </span><span> </span>
+</li>
+<li>
+<span>Valerian Root</span><span> </span>
+</li>
+<li>
+<span>Passionflower</span><span> </span>
+</li>
+<li><span>Chamomile Flower</span></li>
+</ul>
+<p> </p>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Chamomile</s:tag>
+    <s:tag>Passionflower</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Valerian Root</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198112843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6842431668299</id>
+    <published>2024-01-04T14:18:45-08:00</published>
+    <updated>2024-01-04T14:18:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/maximum-strength-sleep"/>
+    <title>Maximum Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/max-strength-sleep-main.jpg?v=1694181877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://www.olly.com/products/maximum-strength-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SUGAR FREE Sweet Dreams </p>
+<p>Our highest dose of delightful doze-off, these Maximum Strength Sleep gummies contain 10 mg Melatonin and calming L-Theanine to help you fall asleep, stay asleep and wake up feeling refreshed.*  Doesn’t that sound dreamy?</p>
+<ul>
+<li>A berry fresh burst of sweet strawberry flavor</li>
+<li>A blend of 10 mg Melatonin, L-Theanine &amp; Botanical Extracts</li>
+<li>Sugar free, and just as delightful</li>
+<li>Gluten free &amp; no synthetic colors or flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>700525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743141908555</id>
+    <published>2022-08-28T07:48:20-07:00</published>
+    <updated>2022-08-28T07:48:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-sleep"/>
+    <title>Fast Dissolves Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-main_ca59cdce-363a-4ab7-8d2d-e5a936971112.jpg?v=1709137964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One dreamy drift-off. These delicious quick-dissolving tablets are packed with ingredients that help promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.* Sugar free and non-habit forming. </p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743141908555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>700462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743145676875</id>
+    <published>2022-08-28T07:47:56-07:00</published>
+    <updated>2022-08-28T07:47:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-immunity-sleep"/>
+    <title>Fast Dissolves Immunity Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-sleep-main.jpg?v=1659960786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rest up and feel your best. These little fellas pack a double whammy: sleep and immune system support in one delicious quick-dissolving tablet. Let one dissolve in your mouth (no water or chewing needed!) and enjoy the citrus goodness.* Sugar free and non-habit forming. Doesn’t that sound dreamy?</span></p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Mellow Citrus</span></li>
+<li><span>A blend of Melatonin &amp; Vitamin C</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743145676875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743144333387</id>
+    <published>2022-08-28T07:47:39-07:00</published>
+    <updated>2022-08-28T07:47:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-extra-strength-sleep"/>
+    <title>Fast Dissolves Extra Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/es-sleep-thumb.jpg?v=1709137529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleep seekers, rejoice! These delicious quick-dissolving tablets are packed with an extra boost of Melatonin that helps promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.*  Sugar free and non-habit forming. Doesn’t that sound dreamy?</p>
+<ul>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743144333387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6682477068363</id>
+    <published>2022-03-27T08:27:44-07:00</published>
+    <updated>2022-03-27T08:27:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/sleep-strawberry-sunset"/>
+    <title>Sleep Strawberry Sunset</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-strawberry-sunset-main.jpg?v=1715887490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet dreams are made of these. These bedtime buddies work with your body and help mellow your mind and calm your senses so you can relax and zzz.*</p>
+<ul>
+<li>Flavor: Strawberry Sunset</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanicals</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6682477068363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6546067750987</id>
+    <published>2021-03-28T06:42:41-07:00</published>
+    <updated>2021-03-28T06:42:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/muscle-recovery-sleep"/>
+    <title>Muscle Recovery Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/muscle-recovery-sleep-main_af9e4fc0-36da-409f-9d33-9f5bcaadebf1.jpg?v=1713990141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Good night, time to rest and reset. Kicked things up a notch? These OLLY Muscle Recovery supplements help you sleep soundly and refresh tired muscles.*</span></p>
+<ul>
+<li><span>Strawberry Rested with Other Natural Flavors</span></li>
+<li><span>A blend of Melatonin, Tart Cherry Extract &amp; Vitamin D</span></li>
+<li><span><meta charset="utf-8">NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6546067750987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092588619</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-sleep"/>
+    <title>Ultra Strength Sleep Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-sleep-60ct-main.jpg?v=1730137300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These softgels are a delightful blend of ingredients for oh-so-many benefits to support healthy sleep cycles and a restful night.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A multi-benefit blend* of Melatonin, Magnesium, L-Theanine &amp; Botanical Extracts</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092588619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4000305479755</id>
+    <published>2019-08-30T05:47:35-07:00</published>
+    <updated>2019-08-30T05:47:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/immunity-sleep"/>
+    <title>Immunity Sleep Gummies</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/immunity-sleep-main.jpg?v=1713990426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 17.59
+            <a href="https://www.olly.com/products/immunity-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Hit the snooze button. Sleep is vital for a healthy immune system – so it’s important to get your zzz’s to help keep you on the up and up. Melatonin and L-Theanine encourage sound, restorative slumber while Vitamin C and Zinc support immune health.*</div>
+<ul>
+<li>
+<div class="ewa-rteLine">Midnight Berry Flavored with other Natural Flavors</div>
+</li>
+<li>Melatonin, Echinacea, Zinc &amp; Vitamin C</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>18 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">17.59</s:price>
+      <s:sku>700299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3896259903552</id>
+    <published>2019-07-01T06:27:28-07:00</published>
+    <updated>2019-07-01T06:27:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-sleep"/>
+    <title>Kids Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-sleep-main.jpg?v=1711235913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/kids-sleep">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Kiddos thrive on routine, so troublesome bedtimes can be a real setback. This mild blend is just the thing for those occasional restless nights.* Sweet dreams little one.</p>
+<ul>
+<li>Razzzberry with Other Natural Flavors</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanical Extracts</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>6206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>700286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3422115233856</id>
+    <published>2019-04-12T03:25:19-07:00</published>
+    <updated>2019-04-12T03:25:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-sleep"/>
+    <title>Extra Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/extra-strength-sleep-main.jpg?v=1713993867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99 - 29.99
+            <a href="https://www.olly.com/products/extra-strength-sleep">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>More is more. Sometimes you just need a little something extra. This little gummy is a powerhouse of sleep, thanks to a bonus boost of Melatonin to help you find that sweet slumber.* </p>
+<ul>
+<li>Blackberry Zen with Other Natural Flavors</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanicals</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>0841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>700287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>700430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832774762560</id>
+    <published>2018-12-14T08:56:00-08:00</published>
+    <updated>2018-12-14T08:56:00-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/sleep"/>
+    <title>Sleep Blackberry Zen</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-blackberry-50ct-main.jpg?v=1739984346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 30.99
+            <a href="https://www.olly.com/products/sleep">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet dreams are made of these. Delicious bedtime buddies that help you mellow your mind, calm your senses and relax into Zzzs.*</p>
+<ul>
+<li>Blackberry Zen Flavor with other natural flavors</li>
+<li>
+<div class="ewa-rteLine">A blend of Melatonin, L-Theanine &amp; Botanical Extracts</div>
+</li>
+</ul>
+<span></span>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832774762560</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0512</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832774762560</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0802</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832774762560</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>0872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832774762560</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">30.99</s:price>
+      <s:sku>700429</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

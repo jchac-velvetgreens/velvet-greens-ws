@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/zinc.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2018-12-17T11:39:51-08:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/1872959897664</id>
+    <published>2018-12-17T11:39:51-08:00</published>
+    <updated>2018-12-17T11:39:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-mighty-immunity"/>
+    <title>Kids Immunity</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/kids-mighty-immunity-white-main.jpg?v=1622851364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small but mighty. These powerful little gummies are packed with the good stuff kiddos need to keep up a strong immune system rain or shine.*</p>
+<ul>
+<li>Flavor: Cherry Berry</li>
+<li>A blend of Wellmune®<span style="font-size: 75%;">‡</span>, Acerola Cherry, Elderberry and Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Zinc</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1872959897664</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

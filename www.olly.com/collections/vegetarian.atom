@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/vegetarian.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-10-10T12:11:49-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4635392147531</id>
+    <published>2024-10-10T12:11:49-07:00</published>
+    <updated>2024-10-10T12:11:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-lovin-libido"/>
+    <title>Lovin&apos; Libido</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lovin-libido-main_0ac636c6-0d43-4a68-8353-c632ffe7aadd.jpg?v=1728916556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><meta charset="utf-8"><span>Lovin’ Libido is for women uninterested in and unsatisfied with sex. Here’s hope. Lovin’ Libido is formulated with traditional ingredients, including Ashwagandha to help boost desire, enhance arousal and even support satisfaction for women.* In other words, we’ll take two.</span></p>
+<ul>
+<li>40 Count | 20-day Supply</li>
+<li>A blend of Ashwagandha, Damiana &amp; Maca</li>
+<li>Vegetarian</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>ATTV_GLOBAL_EXCLUSION_TAG</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392147531</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700327</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817198178379</id>
+    <published>2024-05-23T12:46:22-07:00</published>
+    <updated>2024-05-23T12:46:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-focus"/>
+    <title>Plant Powered Focus</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-focus-main.jpg?v=1679593201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This hardworking blend has benefits-a-plenty, keeping your mind clear and alert, supporting concentration and helping you stay on task.*</span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules</span><span></span>
+</li>
+<li>
+<span>American Ginseng</span><span></span>
+</li>
+<li>
+<span>Gotu Kola</span><span></span>
+</li>
+<li><span>Lemon Balm</span></li>
+</ul>
+<ul></ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Brain</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Ginseng</s:tag>
+    <s:tag>Gotu Kola</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198178379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817198112843</id>
+    <published>2024-05-23T12:46:10-07:00</published>
+    <updated>2024-05-23T12:46:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-rest"/>
+    <title>Plant Powered Rest</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-rest-main.jpg?v=1679593186"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This relaxing blend has benefits-a-plenty, calming your body and mind with a Melatonin-free mellow and helping you slip into a restful, stressless slumber.*</span><span> </span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules </span><span> </span>
+</li>
+<li>
+<span>Valerian Root</span><span> </span>
+</li>
+<li>
+<span>Passionflower</span><span> </span>
+</li>
+<li><span>Chamomile Flower</span></li>
+</ul>
+<p> </p>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Chamomile</s:tag>
+    <s:tag>Passionflower</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Valerian Root</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198112843</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700488</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066331723</id>
+    <published>2024-04-06T15:49:35-07:00</published>
+    <updated>2024-04-06T15:49:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mellow-buddies-lolly-pops"/>
+    <title>Mellow Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/mellow-buddies-main.jpg?v=1709676689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Start feeling cool, calm, and collected. Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and relaxation. These lovable OLLY kids lollipops contain a brainy blend of ingredients to help kiddos stay calm (but not drowsy).* </span></p>
+<p><span>Treat your kids to the OLLY Mellow Buddies that hits the brilliantly chill sweet spot. That’s our kind of peace of mind.</span></p>
+<ul>
+<li><span><meta charset="utf-8">Vegan Certified </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Choline</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066331723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066692171</id>
+    <published>2024-04-06T15:49:20-07:00</published>
+    <updated>2024-04-06T15:49:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focused-thinker-brainy-chews"/>
+    <title>Focused Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-thinker-main.jpg?v=1709672938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Add some clarity with these focal finding brain bud supplements to help support mental alertness, focus and healthy brain function.* </p>
+<p class="p1">These focus chews come to the rescue when you need to dig in to your work and focus. Elevate your efforts with brain chews that support concentration &amp; cognitive performance.*</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span>20 Chews</li>
+<li class="li1">
+<span class="s1"></span><span data-mce-fragment="1">Raspberry Jam is ripe with raspberry flavor and hits of strawberry and cherry flavors</span><br>
+</li>
+<li class="li1"><span data-mce-fragment="1"><meta charset="utf-8">
+<span>Vegan Certified </span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Ginger</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066692171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066593867</id>
+    <published>2024-04-06T15:49:06-07:00</published>
+    <updated>2024-04-06T15:49:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focus-buddies-lolly-pops"/>
+    <title>Focus Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-buddies-main.jpg?v=1709676706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and focused attention.* These lovable lollipop supplements pack a whammy of wonders.</p>
+<p>Each pop boasts a brainy blend of ingredients that support focus, attention and healthy cognitive function.* Who knows, you might even look forward to homework. Treat your kids to a lollipop that hits a more focused sweet spot.*</p>
+<ul>
+<li>25 Pops</li>
+<li>A mouthwatering blend of watermelon and strawberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066593867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066626635</id>
+    <published>2024-04-06T15:48:56-07:00</published>
+    <updated>2024-04-06T15:48:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/energized-thinker-brainy-chews"/>
+    <title>Energized Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/energized-thinker-main.jpg?v=1709673545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When your brain feels like it’s on vacation on the shores of Sluggish Island, these brain friendly supplements help support mental alertness, focus and healthy brain function.* </p>
+<p>These energy chews help improve performance efficiency, like planning, creative thinking and action-based prospective memory. Elevate your everyday with energy when you need it that supports laser-focussed mental acuity*.</p>
+<ul>
+<ul>
+<li>20 Chews</li>
+<li>A tangy tropical blend of passionfruit, guava, orange and mango flavors</li>
+<li>
+<strong> </strong>Vegan Certified</li>
+</ul>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066626635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066659403</id>
+    <published>2024-04-06T15:48:46-07:00</published>
+    <updated>2024-04-06T15:48:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/chill-thinker-brainy-chews"/>
+    <title>Chill Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/chill-thinker-main.jpg?v=1709672759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your cool and your brain at its best with this delightfully tasty brain buddy. These brainy supplements support relaxation, focus and healthy brain function—all at the same time.*</p>
+<p>Brain vitamins for adults that hit the brilliantly chill sweet spot.</p>
+<ul>
+<li>20 Chews</li>
+<li>A berry delicious burst of pomegranate and blueberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066659403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6842431668299</id>
+    <published>2024-01-04T14:18:45-08:00</published>
+    <updated>2024-01-04T14:18:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/maximum-strength-sleep"/>
+    <title>Maximum Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/max-strength-sleep-main.jpg?v=1694181877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://www.olly.com/products/maximum-strength-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SUGAR FREE Sweet Dreams </p>
+<p>Our highest dose of delightful doze-off, these Maximum Strength Sleep gummies contain 10 mg Melatonin and calming L-Theanine to help you fall asleep, stay asleep and wake up feeling refreshed.*  Doesn’t that sound dreamy?</p>
+<ul>
+<li>A berry fresh burst of sweet strawberry flavor</li>
+<li>A blend of 10 mg Melatonin, L-Theanine &amp; Botanical Extracts</li>
+<li>Sugar free, and just as delightful</li>
+<li>Gluten free &amp; no synthetic colors or flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>700525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6817197981771</id>
+    <published>2023-03-25T13:31:40-07:00</published>
+    <updated>2023-03-25T13:31:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-chill"/>
+    <title>Plant Powered Chill</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-chill-main.jpg?v=1679593146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This soothing blend has benefits-a-plenty, helping you deal with life’s stresses and strains by keeping your mind calm, your mood cool and your outlook upbeat.*</span></p>
+<ul>
+<li>
+<span>30 Vegan Certified Capsules</span><span></span>
+</li>
+<li><span>Ashwagandha</span></li>
+<li>Rhodiola</li>
+<li>Schisandra</li>
+</ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>Rhodiola</s:tag>
+    <s:tag>Schisandra</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817197981771</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4635392049227</id>
+    <published>2021-12-14T10:34:01-08:00</published>
+    <updated>2021-12-14T10:34:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-beat-the-bloat"/>
+    <title>Beat the Bloat</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/beat-the-bloat-main.jpg?v=1720466088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little heroes help to reduce discomfort caused by occasional digestion woes and gas. You’ll feel more like you—and a lot more comfortable, too.*†</p>
+<ul>
+<li>25 Capsules | 25-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Digestive Enzymes, Dandelion, Ginger &amp; Fennel Extracts</span><br>
+</li>
+<li><span><meta charset="utf-8">Vegetarian</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392049227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6591388450891</id>
+    <published>2021-08-18T11:19:00-07:00</published>
+    <updated>2021-08-18T11:19:00-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/combat-cravings"/>
+    <title>Combat Cravings</title>
+    <s:type>Performance/Fitness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/combat-cravings-main.jpg?v=1720465752"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Performance/Fitness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">These trusty sidekicks help curb food cravings while supporting your metabolism and healthy blood sugar levels†.*</p>
+<p class="p1">†Already within normal range</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span>30 Capsules | 30-Day Supply</li>
+<li class="li1">
+<span class="s1"></span>Chromium Picolinate, Green Tea Extract, Goji Berry &amp; Ginger Extract</li>
+<li class="li1">
+<span class="s1"></span>Vegan Certified</li>
+</ul>
+<p class="p1"> </p>
+<p class="p1"><strong>*As of April 22, 2024, this product will no longer be available for shipping to customers residing in New York state.*</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chromium</s:tag>
+    <s:tag>New York Restricted</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6591388450891</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700384</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

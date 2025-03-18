@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/probiotics.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-09-13T09:29:31-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7166340956235</id>
+    <published>2024-09-13T09:29:31-07:00</published>
+    <updated>2024-09-13T09:29:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic-sugar-plummy"/>
+    <title>Kids Multi &amp; Probiotic Sugar Plummy</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-kids-multi-main.jpg?v=1724680865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delicious win-win with a festive flavor. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*</p>
+<ul>
+<li><span>Flavor: <meta charset="utf-8">Limited Edition Sugar Plummy</span></li>
+<li><span>Multi-Tasking Blend with Vitamins A, C, D, E, Bs, Zinc &amp; Probiotics</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340956235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1831644397632</id>
+    <published>2024-01-04T14:15:31-08:00</published>
+    <updated>2024-01-04T14:15:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic"/>
+    <title>Kids Multi &amp; Probiotic Multi Vitamins</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-multi-probiotic-70ct-main.jpg?v=1719958837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 21.59
+            <a href="https://www.olly.com/products/kids-multi-probiotic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">A delicious win-win. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*        </p>
+<ul>
+<li>Flavor: Yum Berry Punch</li>
+<li>
+<p class="p1">Multi-Tasking Blend with Vitamins A, C, D, E, Bs &amp; Zinc</p>
+</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>120 or 60 Serving Pouch</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>700370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6546032459851</id>
+    <published>2021-03-28T06:41:55-07:00</published>
+    <updated>2021-03-28T06:41:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/happy-hoo-ha"/>
+    <title>Happy Hoo-Ha</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/happy-hoo-ha-main.jpg?v=1720466971"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Vulvas, rejoice! This probiotic blend delivers a clinically-studied dose to ensure a healthy balance of good bacteria and vaginal pH levels.* Just the thing for self-care-down-there confidence.</span></p>
+<ul>
+<li>25 Capsules | 25-day Supply</li>
+<li>Blend of Multi-Strain Vag-Friendly Probiotics</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6546032459851</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700359</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091474507</id>
+    <published>2020-04-09T06:04:39-07:00</published>
+    <updated>2020-04-09T06:04:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/adult-multi-probiotic"/>
+    <title>Adult Multi &amp; Probiotic Vitamins</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/adult-multi-probiotic-main.jpg?v=1617987418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Power couple. This multi-tasking duo doubles down on essential daily nutrients you need to support overall health, plus a super boost of 1 billion cfu‡ of Probiotics to support your immune system and digestion.*</p>
+<ul>
+<li>Flavor: Tropical Twist</li>
+<li>A powerful blend of essential</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091474507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832907866176</id>
+    <published>2019-04-29T10:25:56-07:00</published>
+    <updated>2019-04-29T10:25:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/probiotic-prebiotic"/>
+    <title>Probiotic + Prebiotic</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/probiotic_prebiotic-30ct-main.jpg?v=1718122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99 - 23.99
+            <a href="https://www.olly.com/products/probiotic-prebiotic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">All systems go. This gummy doubles down with the good guy bacteria and a healthy serving of prebiotic to help keep things balanced*</p>
+<ul>
+<li>Flavor: Peachy Peach with other Natural Flavors</li>
+<li>A blend of probiotics with prebiotic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>60 Servings</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>700526</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3422132863040</id>
+    <published>2019-04-12T03:25:12-07:00</published>
+    <updated>2019-04-12T03:25:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-probiotics"/>
+    <title>Extra Strength Probiotics</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-probiotics-main.jpg?v=1622846278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feeling less than extra? Here’s a probiotic super dose to help get you back on track, along with a boost to your immune system. The powerful pair hits your digestive tract alive and ready to roll.* </p>
+<ul>
+<li>50 Gummies | 25-day supply</li>
+<li>Flavor: Juicy Apple</li>
+<li>2 powerful Probiotic Strains</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3422132863040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832892629056</id>
+    <published>2018-12-14T09:07:43-08:00</published>
+    <updated>2018-12-14T09:07:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/probiotic-tropical-mango"/>
+    <title>Probiotic Tropical Mango</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/probiotic-mango-white-main.jpg?v=1709671815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99 - 19.99
+            <a href="https://www.olly.com/products/probiotic-tropical-mango">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Most of your body’s immune system lives in your digestive tract. So, keeping your belly happy is kind of a big deal. These delightful gut-friendly gummies contain a clinically studied dose of probiotics that work with your body to support a healthy immune system and digestive function.*</span><br></p>
+<ul>
+<li>Flavor: Tropical Mango</li>
+<li>One Billion Live Cultures</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832892629056</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832892629056</id>
+      <title>40 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

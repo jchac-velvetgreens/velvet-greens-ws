@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/kids.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-09-19T13:55:48-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7213498138699</id>
+    <published>2024-09-19T13:55:48-07:00</published>
+    <updated>2024-09-19T13:55:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-worms-100-count"/>
+    <title>Kids Multi Worms 100 Count</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-multi-gummy-worms-main.jpg?v=1734041395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Wiggle away! These playful nutrient-packed gummies are made with a delightful blend of daily vitamins and minerals to help kiddos thrive and promote overall wellness.*</span></p>
+<ul>
+<li>Flavor: Sour Fruity Punch with Other Natural Flavors</li>
+<li>Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7213498138699</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7166340956235</id>
+    <published>2024-09-13T09:29:31-07:00</published>
+    <updated>2024-09-13T09:29:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic-sugar-plummy"/>
+    <title>Kids Multi &amp; Probiotic Sugar Plummy</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-kids-multi-main.jpg?v=1724680865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delicious win-win with a festive flavor. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*</p>
+<ul>
+<li><span>Flavor: <meta charset="utf-8">Limited Edition Sugar Plummy</span></li>
+<li><span>Multi-Tasking Blend with Vitamins A, C, D, E, Bs, Zinc &amp; Probiotics</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340956235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066331723</id>
+    <published>2024-04-06T15:49:35-07:00</published>
+    <updated>2024-04-06T15:49:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mellow-buddies-lolly-pops"/>
+    <title>Mellow Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/mellow-buddies-main.jpg?v=1709676689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Start feeling cool, calm, and collected. Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and relaxation. These lovable OLLY kids lollipops contain a brainy blend of ingredients to help kiddos stay calm (but not drowsy).* </span></p>
+<p><span>Treat your kids to the OLLY Mellow Buddies that hits the brilliantly chill sweet spot. That’s our kind of peace of mind.</span></p>
+<ul>
+<li><span><meta charset="utf-8">Vegan Certified </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Choline</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066331723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066593867</id>
+    <published>2024-04-06T15:49:06-07:00</published>
+    <updated>2024-04-06T15:49:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focus-buddies-lolly-pops"/>
+    <title>Focus Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-buddies-main.jpg?v=1709676706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and focused attention.* These lovable lollipop supplements pack a whammy of wonders.</p>
+<p>Each pop boasts a brainy blend of ingredients that support focus, attention and healthy cognitive function.* Who knows, you might even look forward to homework. Treat your kids to a lollipop that hits a more focused sweet spot.*</p>
+<ul>
+<li>25 Pops</li>
+<li>A mouthwatering blend of watermelon and strawberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066593867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1831644397632</id>
+    <published>2024-01-04T14:15:31-08:00</published>
+    <updated>2024-01-04T14:15:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic"/>
+    <title>Kids Multi &amp; Probiotic Multi Vitamins</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-multi-probiotic-70ct-main.jpg?v=1719958837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 21.59
+            <a href="https://www.olly.com/products/kids-multi-probiotic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">A delicious win-win. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*        </p>
+<ul>
+<li>Flavor: Yum Berry Punch</li>
+<li>
+<p class="p1">Multi-Tasking Blend with Vitamins A, C, D, E, Bs &amp; Zinc</p>
+</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>120 or 60 Serving Pouch</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>700370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6582028795979</id>
+    <published>2021-08-08T05:33:47-07:00</published>
+    <updated>2021-08-08T05:33:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-chillax"/>
+    <title>Kids Chillax</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-chillax-main_871a4098-697a-4228-b2c1-03cb9984cc96.jpg?v=1738012354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/kids-chillax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span>Z is for Zen. These peaceful pals are just the thing to help gently calm little minds while helping kiddos stay engaged.*</span></p>
+<ul>
+<li>
+<span data-mce-fragment="1"></span>Sunny Sherbet flavored with other Natural Flavors</li>
+<li>
+<meta charset="utf-8"> <span>L-Theanine, Magnesium &amp; Lemon Balm</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6582028795979</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6582028795979</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4254019289163</id>
+    <published>2019-10-14T18:42:20-07:00</published>
+    <updated>2019-10-14T18:42:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-worms"/>
+    <title>Kids Multi Worms</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/kids-worms-main.jpg?v=1573751351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            13.49 - 13.99
+            <a href="https://www.olly.com/products/kids-multi-worms">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Wiggle away! These playful nutrient-packed gummies are made with a delightful blend of daily vitamins and minerals to help kiddos thrive and promote overall wellness.*</span></p>
+<ul>
+<li>Flavor: Sour Fruity Punch with Other Natural Flavors</li>
+<li>Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4254019289163</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4254019289163</id>
+      <title>35 Serving Pouch</title>
+      <s:price currency="USD">13.49</s:price>
+      <s:sku>700300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3896259903552</id>
+    <published>2019-07-01T06:27:28-07:00</published>
+    <updated>2019-07-01T06:27:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-sleep"/>
+    <title>Kids Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-sleep-main.jpg?v=1711235913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/kids-sleep">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Kiddos thrive on routine, so troublesome bedtimes can be a real setback. This mild blend is just the thing for those occasional restless nights.* Sweet dreams little one.</p>
+<ul>
+<li>Razzzberry with Other Natural Flavors</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanical Extracts</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>6206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700362</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3896259903552</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">14.99</s:price>
+      <s:sku>700286</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1872959897664</id>
+    <published>2018-12-17T11:39:51-08:00</published>
+    <updated>2018-12-17T11:39:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-mighty-immunity"/>
+    <title>Kids Immunity</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/kids-mighty-immunity-white-main.jpg?v=1622851364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small but mighty. These powerful little gummies are packed with the good stuff kiddos need to keep up a strong immune system rain or shine.*</p>
+<ul>
+<li>Flavor: Cherry Berry</li>
+<li>A blend of Wellmune®<span style="font-size: 75%;">‡</span>, Acerola Cherry, Elderberry and Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Zinc</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1872959897664</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832723480640</id>
+    <published>2018-12-14T08:51:10-08:00</published>
+    <updated>2018-12-14T08:51:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/girl-multi"/>
+    <title>Teen Girl Multi</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/teen-girl-multi-main.jpg?v=1715887639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/girl-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Girl power. This delicious little gummy packs in a vibrant blend of nutrients to help girls feel their best, shine their brightest and keep on playing hard.*</p>
+<ul>
+<li><span data-mce-fragment="1">Strawberry Melon Besties flavored with other natural flavors</span></li>
+<li>A blend of vitamins, antioxidants &amp; biotin</li>
+<li><span>Packaging may vary</span></li>
+<li><span><meta charset="utf-8">NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Biotin</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

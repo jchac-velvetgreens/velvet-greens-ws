@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/vitamin-c.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2022-08-28T07:47:56-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/6743145676875</id>
+    <published>2022-08-28T07:47:56-07:00</published>
+    <updated>2022-08-28T07:47:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-immunity-sleep"/>
+    <title>Fast Dissolves Immunity Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-sleep-main.jpg?v=1659960786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rest up and feel your best. These little fellas pack a double whammy: sleep and immune system support in one delicious quick-dissolving tablet. Let one dissolve in your mouth (no water or chewing needed!) and enjoy the citrus goodness.* Sugar free and non-habit forming. Doesn’t that sound dreamy?</span></p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Mellow Citrus</span></li>
+<li><span>A blend of Melatonin &amp; Vitamin C</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743145676875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832806285376</id>
+    <published>2018-12-14T09:00:11-08:00</published>
+    <updated>2018-12-14T09:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/undeniable-beauty"/>
+    <title>Undeniable Beauty</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/undeniable-beauty-main_a76c7ab6-4d52-4b12-992f-8c5637eaed37.jpg?v=1741722694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Oh, you pretty thing. These delicious little beauties are packed with the perfect blend of active ingredients to help your hair, nails and you.*</span></p>
+<ul>
+<li><span>Grapefruit Glam Flavor with Other Natural Flavors</span></li>
+<li>A blend of Biotin, Vitamin C, E &amp; Keratin</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy. Gummy color may vary per bottle. Colors sourced from fruit and vegetable juices. No synthetic colors or dyes!</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832806285376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

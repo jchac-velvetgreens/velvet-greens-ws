@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/the-keep-up-crew.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2021-08-29T06:25:54-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/6591395102795</id>
+    <published>2021-08-29T06:25:54-07:00</published>
+    <updated>2021-08-29T06:25:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-elderberry"/>
+    <title>Extra Strength Elderberry</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/elderberry-sleep-main.jpg?v=1629841697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel-good powerhouse. This super dose of Elderberry supports a healthy immune system so you can keep doing your thing on the daily.*</p>
+<ul>
+<li>50 gummies | 25-day supply</li>
+<li>Flavor: Bunch ‘o Berries</li>
+<li>A blend of Elderberry, Vitamins C, D &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Immunity Blend</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6591395102795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4000305479755</id>
+    <published>2019-08-30T05:47:35-07:00</published>
+    <updated>2019-08-30T05:47:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/immunity-sleep"/>
+    <title>Immunity Sleep Gummies</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/immunity-sleep-main.jpg?v=1713990426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 17.59
+            <a href="https://www.olly.com/products/immunity-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Hit the snooze button. Sleep is vital for a healthy immune system – so it’s important to get your zzz’s to help keep you on the up and up. Melatonin and L-Theanine encourage sound, restorative slumber while Vitamin C and Zinc support immune health.*</div>
+<ul>
+<li>
+<div class="ewa-rteLine">Midnight Berry Flavored with other Natural Flavors</div>
+</li>
+<li>Melatonin, Echinacea, Zinc &amp; Vitamin C</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>18 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">17.59</s:price>
+      <s:sku>700299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4000304758859</id>
+    <published>2019-08-30T05:47:04-07:00</published>
+    <updated>2019-08-30T05:47:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/active-immunity-berry-brave"/>
+    <title>Active Immunity Berry Brave</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-berry-white-main_944faa8d-9b94-4de7-bae1-8ca7507dcc46.jpg?v=1617987124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep on keeping on. Life doesn’t often slow down, even when you do. This trusty little side kick helps support a healthy immune system—so you can keep doing your thing.*</p>
+<ul>
+<li>Flavor: Berry Brave</li>
+<li>Echinacea, Zinc &amp; Vitamin C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>Gummies</s:tag>
+    <s:tag>Immunity Blend</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4000304758859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1872959897664</id>
+    <published>2018-12-17T11:39:51-08:00</published>
+    <updated>2018-12-17T11:39:51-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-mighty-immunity"/>
+    <title>Kids Immunity</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/kids-mighty-immunity-white-main.jpg?v=1622851364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Small but mighty. These powerful little gummies are packed with the good stuff kiddos need to keep up a strong immune system rain or shine.*</p>
+<ul>
+<li>Flavor: Cherry Berry</li>
+<li>A blend of Wellmune®<span style="font-size: 75%;">‡</span>, Acerola Cherry, Elderberry and Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Zinc</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1872959897664</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0546</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

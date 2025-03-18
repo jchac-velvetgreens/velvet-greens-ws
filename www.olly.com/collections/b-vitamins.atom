@@ -1,0 +1,714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/b-vitamins.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-09-13T10:43:14-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7166340628555</id>
+    <published>2024-09-13T10:43:14-07:00</published>
+    <updated>2024-09-13T10:43:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mens-multi-festive-poached-pear"/>
+    <title>Men&apos;s Multi Festive Poached Pear</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-mens-multi-main.jpg?v=1724681063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This seasonal sidekick is packed with the nutrients your body needs to keep you healthy, energized and up for whatever life throws your way.*</p>
+<ul>
+<li>Flavor: <meta charset="utf-8">Limited Edition Festive Poached Pear with Other Natural Flavors</li>
+<li>A multitasking blend of Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340628555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066692171</id>
+    <published>2024-04-06T15:49:20-07:00</published>
+    <updated>2024-04-06T15:49:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focused-thinker-brainy-chews"/>
+    <title>Focused Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-thinker-main.jpg?v=1709672938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Add some clarity with these focal finding brain bud supplements to help support mental alertness, focus and healthy brain function.* </p>
+<p class="p1">These focus chews come to the rescue when you need to dig in to your work and focus. Elevate your efforts with brain chews that support concentration &amp; cognitive performance.*</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span>20 Chews</li>
+<li class="li1">
+<span class="s1"></span><span data-mce-fragment="1">Raspberry Jam is ripe with raspberry flavor and hits of strawberry and cherry flavors</span><br>
+</li>
+<li class="li1"><span data-mce-fragment="1"><meta charset="utf-8">
+<span>Vegan Certified </span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Ginger</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066692171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066593867</id>
+    <published>2024-04-06T15:49:06-07:00</published>
+    <updated>2024-04-06T15:49:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focus-buddies-lolly-pops"/>
+    <title>Focus Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-buddies-main.jpg?v=1709676706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and focused attention.* These lovable lollipop supplements pack a whammy of wonders.</p>
+<p>Each pop boasts a brainy blend of ingredients that support focus, attention and healthy cognitive function.* Who knows, you might even look forward to homework. Treat your kids to a lollipop that hits a more focused sweet spot.*</p>
+<ul>
+<li>25 Pops</li>
+<li>A mouthwatering blend of watermelon and strawberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066593867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066626635</id>
+    <published>2024-04-06T15:48:56-07:00</published>
+    <updated>2024-04-06T15:48:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/energized-thinker-brainy-chews"/>
+    <title>Energized Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/energized-thinker-main.jpg?v=1709673545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When your brain feels like it’s on vacation on the shores of Sluggish Island, these brain friendly supplements help support mental alertness, focus and healthy brain function.* </p>
+<p>These energy chews help improve performance efficiency, like planning, creative thinking and action-based prospective memory. Elevate your everyday with energy when you need it that supports laser-focussed mental acuity*.</p>
+<ul>
+<ul>
+<li>20 Chews</li>
+<li>A tangy tropical blend of passionfruit, guava, orange and mango flavors</li>
+<li>
+<strong> </strong>Vegan Certified</li>
+</ul>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066626635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832877916224</id>
+    <published>2024-01-04T14:18:31-08:00</published>
+    <updated>2024-01-04T14:18:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/laser-focus"/>
+    <title>Laser Focus</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/laser-focus-main.jpg?v=1715887332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laser Focus™ delivers a unique blend of ingredients including Ginseng extract to support cognitive focus and performance*</p>
+<ul>
+<li>36 Gummies</li>
+<li>Flavor: Berry Tangy Tangerine with Other Natural Flavors</li>
+<li>A blend of Ginseng, Alpha GPC &amp; B Vitamins</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832877916224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6812083650635</id>
+    <published>2023-03-04T08:24:44-08:00</published>
+    <updated>2023-03-04T08:24:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-daily-energy"/>
+    <title>Extra Strength Daily Energy</title>
+    <s:type>Energy</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-daily-energy-main.jpg?v=1677798014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Energy<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uplevel your cellular energy with a caffeine-free boost. This delicious daily gummy helps get to the root of energy production by fueling your internal powerhouse. Each serving packs 1000 mcg of Vitamin B12 (<span>compared to 300 mcg in Daily Energy) to keep you powered up.*</span><span> </span></p>
+<ul>
+<li>
+<span>60 Gummies</span><span> </span>
+</li>
+<li>
+<span>Flavor: Berry Yuzu</span><span> </span>
+</li>
+<li>
+<span>Vitamins B12, Goji Berry &amp; CoQ10</span><span> </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>CoQ10</s:tag>
+    <s:tag>Goji Berry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6812083650635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092260939</id>
+    <published>2022-03-27T08:28:45-07:00</published>
+    <updated>2022-03-27T08:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-prentatal"/>
+    <title>Ultra Strength Prenatal Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-prenatal-60ct-main.jpg?v=1730992008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoohoo, party of two. Here are key vitamins and minerals to help nourish you and your precious cargo on the daily.*</p>
+<p>For a twist, OLLY Ultra Strength Prenatal Softgels have a hint of mint and lemon scent. Don’t let their size fool you—these little guys go big on benefits for you and your little one.*</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of Folic Acid, DHA, Iron and Key Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092260939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70029102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6683644461131</id>
+    <published>2022-03-27T08:28:02-07:00</published>
+    <updated>2022-03-27T08:28:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-strength-brain-softgels"/>
+    <title>Ultra Strength Brain Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-brain-60ct-main.jpg?v=1730137690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Start thinkin’ sharp with this multi-benefit blend. It has scientifically selected ingredients that support healthy brain function and mental acuity, including memory, aspects of learning, focus and concentration.*</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">For a twist, premium OLLY Ultra Strength Brain Softgels have a hint of mint. Don’t let their size fool you—these little guys go big on benefits.</div>
+<ul>
+<li><span data-mce-fragment="1">60 Softgels | 30-day Supply </span></li>
+<li>
+<meta charset="utf-8"> <span>A blend of Bacopa &amp; Blueberry Extracts, B Vitamins, Omega-3's &amp; Iron</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6683644461131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6633431826507</id>
+    <published>2021-12-19T08:59:34-08:00</published>
+    <updated>2021-12-19T08:59:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/metabolism-gummy-rings"/>
+    <title>Metabolism Gummy Rings</title>
+    <s:type>Performance/Fitness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/metabolism-rings-main.jpg?v=1720467146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Performance/Fitness<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://www.olly.com/products/metabolism-gummy-rings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>For a healthy metabolism here’s the in’cider scoop. These delicious gummies help boost metabolism and promote cellular energy.* Our Apple Cider Vinegar is made with the "mother” which has been used at home for centuries.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flavor: Snappy Apple Flavored with Other Natural Flavors</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apple Cider Vinegar + Vitamin B12 &amp; Chromium</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></span></li>
+</ul>
+<p><span style="font-weight: 400;"><strong data-mce-fragment="1">*As of April 22, 2024, this product will no longer be available for shipping to customers residing in New York state.*</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple Cider Vinegar</s:tag>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>Chromium</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New York Restricted</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1823606374464</id>
+    <published>2020-07-17T07:54:01-07:00</published>
+    <updated>2020-07-17T07:54:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/perfect-womens-multi"/>
+    <title>Women&apos;s Multi</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/women-multi-main.jpg?v=1713984798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/perfect-womens-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You're one busy lady, doing all the amazing things that make you, you. Well, here's a multi that can keep up. It's packed with essential nutrients to nourish you daily, so you can keep doing your thing.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Blissful Berry flavor with other natural flavors</span></li>
+<li>
+<meta charset="utf-8"> <span>A multitasking blend of Vitamins A, C, D, E, Bs, Biotin &amp; Folic Acid</span>
+</li>
+<li><span><meta charset="utf-8">NEW AND IMPROVED FLAVOR AND TASTE: We heard you, so we improved the formula to have better taste and smell. Not to worry, the same OLLY goodness is still inside each gummy.</span></li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1823606374464</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1823606374464</id>
+      <title>65 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091769419</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-womens-multi-omega-3"/>
+    <title>Ultra Strength Women&apos;s Multi &amp; Omega-3 Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-womens-multi-60ct-main.jpg?v=1730991736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total overachiever. This nutrient-packed multivitamin serves up the essentials you need to thrive on the daily, like support for your brain, heart, immune system and hair, skin and nails—just to name a few.*</p>
+<p>For a twist, premium softgels have a hint of mint and lemon scent and are sugar free. Don’t let their size fool you—these little guys go big on benefits. Toss ‘em in your bag and head out.</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of B12, Omega-3 Fatty Acids, Biotin, Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091769419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832849932352</id>
+    <published>2018-12-14T09:04:40-08:00</published>
+    <updated>2018-12-14T09:04:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/daily-energy"/>
+    <title>Daily Energy</title>
+    <s:type>Energy</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/daily-energy-main.jpg?v=1713992740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Energy<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A real go-getter. This delicious daily gummy helps get to the root of energy production by fueling your internal powerhouse for a steady, renewable flow.*</p>
+<ul>
+<li>Tropical Passion</li>
+<li><span>Vitamins B12 + CoQ10 &amp; Goji Berry</span></li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832849932352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832723480640</id>
+    <published>2018-12-14T08:51:10-08:00</published>
+    <updated>2018-12-14T08:51:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/girl-multi"/>
+    <title>Teen Girl Multi</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/teen-girl-multi-main.jpg?v=1715887639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/girl-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Girl power. This delicious little gummy packs in a vibrant blend of nutrients to help girls feel their best, shine their brightest and keep on playing hard.*</p>
+<ul>
+<li><span data-mce-fragment="1">Strawberry Melon Besties flavored with other natural flavors</span></li>
+<li>A blend of vitamins, antioxidants &amp; biotin</li>
+<li><span>Packaging may vary</span></li>
+<li><span><meta charset="utf-8">NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Biotin</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1822464835648</id>
+    <published>2018-12-13T15:03:06-08:00</published>
+    <updated>2018-12-13T15:03:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/perfect-mens-multi"/>
+    <title>Men&apos;s Multi</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/men-multi-gum-main.jpg?v=1713991086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/perfect-mens-multi">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This daily sidekick is packed with the nutrients your body needs to keep you healthy, energized and up for whatever life throws your way.*</span></p>
+<ul>
+<li><span data-mce-fragment="1">Blackberry Blitz with Other Natural Flavors</span></li>
+<li><span>A multitasking blend of Vitamins A, C, D, E, Bs, &amp; Zinc</span></li>
+<li>
+<meta charset="utf-8"> <span>NEW AND IMPROVED FLAVOR AND TASTE: We heard you, so we improved the formula to have better taste and smell. Not to worry, the same OLLY goodness is still inside each gummy.</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>65 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>700347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

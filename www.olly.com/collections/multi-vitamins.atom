@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/multi-vitamins.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-09-19T13:55:48-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7213498138699</id>
+    <published>2024-09-19T13:55:48-07:00</published>
+    <updated>2024-09-19T13:55:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-worms-100-count"/>
+    <title>Kids Multi Worms 100 Count</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-multi-gummy-worms-main.jpg?v=1734041395"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Wiggle away! These playful nutrient-packed gummies are made with a delightful blend of daily vitamins and minerals to help kiddos thrive and promote overall wellness.*</span></p>
+<ul>
+<li>Flavor: Sour Fruity Punch with Other Natural Flavors</li>
+<li>Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7213498138699</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700583</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7166340628555</id>
+    <published>2024-09-13T10:43:14-07:00</published>
+    <updated>2024-09-13T10:43:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mens-multi-festive-poached-pear"/>
+    <title>Men&apos;s Multi Festive Poached Pear</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-mens-multi-main.jpg?v=1724681063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>This seasonal sidekick is packed with the nutrients your body needs to keep you healthy, energized and up for whatever life throws your way.*</p>
+<ul>
+<li>Flavor: <meta charset="utf-8">Limited Edition Festive Poached Pear with Other Natural Flavors</li>
+<li>A multitasking blend of Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340628555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300406</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7166340956235</id>
+    <published>2024-09-13T09:29:31-07:00</published>
+    <updated>2024-09-13T09:29:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic-sugar-plummy"/>
+    <title>Kids Multi &amp; Probiotic Sugar Plummy</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-kids-multi-main.jpg?v=1724680865"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A delicious win-win with a festive flavor. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*</p>
+<ul>
+<li><span>Flavor: <meta charset="utf-8">Limited Edition Sugar Plummy</span></li>
+<li><span>Multi-Tasking Blend with Vitamins A, C, D, E, Bs, Zinc &amp; Probiotics</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340956235</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300409</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1831644397632</id>
+    <published>2024-01-04T14:15:31-08:00</published>
+    <updated>2024-01-04T14:15:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-probiotic"/>
+    <title>Kids Multi &amp; Probiotic Multi Vitamins</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-multi-probiotic-70ct-main.jpg?v=1719958837"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 21.59
+            <a href="https://www.olly.com/products/kids-multi-probiotic">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">A delicious win-win. This bite-sized Multi includes plenty of good stuff kiddos need to thrive on the daily, as well as Probiotics to support healthy digestion.*        </p>
+<ul>
+<li>Flavor: Yum Berry Punch</li>
+<li>
+<p class="p1">Multi-Tasking Blend with Vitamins A, C, D, E, Bs &amp; Zinc</p>
+</li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0503</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0804</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1831644397632</id>
+      <title>120 or 60 Serving Pouch</title>
+      <s:price currency="USD">21.59</s:price>
+      <s:sku>700370</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1823606374464</id>
+    <published>2020-07-17T07:54:01-07:00</published>
+    <updated>2020-07-17T07:54:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/perfect-womens-multi"/>
+    <title>Women&apos;s Multi</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/women-multi-main.jpg?v=1713984798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/perfect-womens-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>You're one busy lady, doing all the amazing things that make you, you. Well, here's a multi that can keep up. It's packed with essential nutrients to nourish you daily, so you can keep doing your thing.</span></p>
+<ul>
+<li><span data-mce-fragment="1">Blissful Berry flavor with other natural flavors</span></li>
+<li>
+<meta charset="utf-8"> <span>A multitasking blend of Vitamins A, C, D, E, Bs, Biotin &amp; Folic Acid</span>
+</li>
+<li><span><meta charset="utf-8">NEW AND IMPROVED FLAVOR AND TASTE: We heard you, so we improved the formula to have better taste and smell. Not to worry, the same OLLY goodness is still inside each gummy.</span></li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1823606374464</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0501</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1823606374464</id>
+      <title>65 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091474507</id>
+    <published>2020-04-09T06:04:39-07:00</published>
+    <updated>2020-04-09T06:04:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/adult-multi-probiotic"/>
+    <title>Adult Multi &amp; Probiotic Vitamins</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/adult-multi-probiotic-main.jpg?v=1617987418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Power couple. This multi-tasking duo doubles down on essential daily nutrients you need to support overall health, plus a super boost of 1 billion cfu‡ of Probiotics to support your immune system and digestion.*</p>
+<ul>
+<li>Flavor: Tropical Twist</li>
+<li>A powerful blend of essential</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091474507</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4254019289163</id>
+    <published>2019-10-14T18:42:20-07:00</published>
+    <updated>2019-10-14T18:42:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-multi-worms"/>
+    <title>Kids Multi Worms</title>
+    <s:type>Multivitamins</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/kids-worms-main.jpg?v=1573751351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamins<br>
+        <strong>Price: </strong>
+            13.49 - 13.99
+            <a href="https://www.olly.com/products/kids-multi-worms">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Wiggle away! These playful nutrient-packed gummies are made with a delightful blend of daily vitamins and minerals to help kiddos thrive and promote overall wellness.*</span></p>
+<ul>
+<li>Flavor: Sour Fruity Punch with Other Natural Flavors</li>
+<li>Vitamins A, C, D, E, Bs, &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4254019289163</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700263</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4254019289163</id>
+      <title>35 Serving Pouch</title>
+      <s:price currency="USD">13.49</s:price>
+      <s:sku>700300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832735014976</id>
+    <published>2018-12-14T08:52:25-08:00</published>
+    <updated>2018-12-14T08:52:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/the-essential-prenatal-multi"/>
+    <title>The Essential Prenatal Multi</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/prenatal-60ct-main_82960b97-8298-450d-9967-db6fadb2c0aa.jpg?v=1739979242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/the-essential-prenatal-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say hello to your body’s (and your baby’s) new BFF. Whether it’s before or during your pregnancy, this nurturing blend of essential nutrients helps support your cellular energy production and overall wellness.* It also delivers the good stuff to your precious cargo. Oh, baby.</p>
+<ul>
+<li><span>Sweet Citrus flavored with other natural flavors</span></li>
+<li><span>Multi with Folic Acid + DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>Vitamin D</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832735014976</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832735014976</id>
+      <title>42 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832723480640</id>
+    <published>2018-12-14T08:51:10-08:00</published>
+    <updated>2018-12-14T08:51:10-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/girl-multi"/>
+    <title>Teen Girl Multi</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/teen-girl-multi-main.jpg?v=1715887639"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/girl-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Girl power. This delicious little gummy packs in a vibrant blend of nutrients to help girls feel their best, shine their brightest and keep on playing hard.*</p>
+<ul>
+<li><span data-mce-fragment="1">Strawberry Melon Besties flavored with other natural flavors</span></li>
+<li>A blend of vitamins, antioxidants &amp; biotin</li>
+<li><span>Packaging may vary</span></li>
+<li><span><meta charset="utf-8">NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Biotin</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832723480640</id>
+      <title>50 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700621</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1822464835648</id>
+    <published>2018-12-13T15:03:06-08:00</published>
+    <updated>2018-12-13T15:03:06-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/perfect-mens-multi"/>
+    <title>Men&apos;s Multi</title>
+    <s:type>Multivitamin</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/men-multi-gum-main.jpg?v=1713991086"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Multivitamin<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/perfect-mens-multi">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span data-mce-fragment="1">This daily sidekick is packed with the nutrients your body needs to keep you healthy, energized and up for whatever life throws your way.*</span></p>
+<ul>
+<li><span data-mce-fragment="1">Blackberry Blitz with Other Natural Flavors</span></li>
+<li><span>A multitasking blend of Vitamins A, C, D, E, Bs, &amp; Zinc</span></li>
+<li>
+<meta charset="utf-8"> <span>NEW AND IMPROVED FLAVOR AND TASTE: We heard you, so we improved the formula to have better taste and smell. Not to worry, the same OLLY goodness is still inside each gummy.</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0502</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>65 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700622</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1822464835648</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>700347</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

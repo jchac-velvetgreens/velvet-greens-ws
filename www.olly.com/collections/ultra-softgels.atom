@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/ultra-softgels.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2022-03-27T08:28:45-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4479092260939</id>
+    <published>2022-03-27T08:28:45-07:00</published>
+    <updated>2022-03-27T08:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-prentatal"/>
+    <title>Ultra Strength Prenatal Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-prenatal-60ct-main.jpg?v=1730992008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoohoo, party of two. Here are key vitamins and minerals to help nourish you and your precious cargo on the daily.*</p>
+<p>For a twist, OLLY Ultra Strength Prenatal Softgels have a hint of mint and lemon scent. Don’t let their size fool you—these little guys go big on benefits for you and your little one.*</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of Folic Acid, DHA, Iron and Key Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092260939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70029102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6683644461131</id>
+    <published>2022-03-27T08:28:02-07:00</published>
+    <updated>2022-03-27T08:28:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-strength-brain-softgels"/>
+    <title>Ultra Strength Brain Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-brain-60ct-main.jpg?v=1730137690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Start thinkin’ sharp with this multi-benefit blend. It has scientifically selected ingredients that support healthy brain function and mental acuity, including memory, aspects of learning, focus and concentration.*</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">For a twist, premium OLLY Ultra Strength Brain Softgels have a hint of mint. Don’t let their size fool you—these little guys go big on benefits.</div>
+<ul>
+<li><span data-mce-fragment="1">60 Softgels | 30-day Supply </span></li>
+<li>
+<meta charset="utf-8"> <span>A blend of Bacopa &amp; Blueberry Extracts, B Vitamins, Omega-3's &amp; Iron</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6683644461131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092752459</id>
+    <published>2020-04-07T14:21:07-07:00</published>
+    <updated>2020-04-07T14:21:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-hair"/>
+    <title>Ultra Strength Hair Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-strength-hair-main_34932e3e-5c6f-49a7-8be5-be47af1d8843.jpg?v=1715887839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Healthy hair hero. This beautifying blend works its magic with ingredients that support healthy locks from within.*</span></p>
+<p><meta charset="utf-8"><span>For a fresh twist, our premium softgels have a hint of strawberry flavor and are sugar free. Don’t let their size fool you—these little softgels go big on benefits.</span></p>
+<ul>
+<li>30 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8">
+<span>A Blend of Biotin, Keratin &amp; Minerals</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092752459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092686923</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-stress"/>
+    <title>Ultra Strength Goodbye Stress Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-goodbye-stress-60ct-main.jpg?v=1730137576"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Mindful master. This multi-benefit blend helps you stay calm when you need it—while keeping you centered &amp; balanced.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Ashwagandha, GABA, L-Theanine &amp; Lemon Balm Extract</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ashwaganda</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092686923</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700295</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092588619</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-sleep"/>
+    <title>Ultra Strength Sleep Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-sleep-60ct-main.jpg?v=1730137300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These softgels are a delightful blend of ingredients for oh-so-many benefits to support healthy sleep cycles and a restful night.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A multi-benefit blend* of Melatonin, Magnesium, L-Theanine &amp; Botanical Extracts</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092588619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091769419</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-womens-multi-omega-3"/>
+    <title>Ultra Strength Women&apos;s Multi &amp; Omega-3 Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-womens-multi-60ct-main.jpg?v=1730991736"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total overachiever. This nutrient-packed multivitamin serves up the essentials you need to thrive on the daily, like support for your brain, heart, immune system and hair, skin and nails—just to name a few.*</p>
+<p>For a twist, premium softgels have a hint of mint and lemon scent and are sugar free. Don’t let their size fool you—these little guys go big on benefits. Toss ‘em in your bag and head out.</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of B12, Omega-3 Fatty Acids, Biotin, Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091769419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700290</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,513 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/cognitive-health.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2024-05-23T12:46:22-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/6817198178379</id>
+    <published>2024-05-23T12:46:22-07:00</published>
+    <updated>2024-05-23T12:46:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/plant-powered-focus"/>
+    <title>Plant Powered Focus</title>
+    <s:type>Adaptogens</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/plant-powered-focus-main.jpg?v=1679593201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Adaptogens<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Adaptogens help us adapt to life’s ups and downs. These helpful herbs and plants</span><span> get personal, working with your unique body to find a balance and keep you on an even keel</span><span>. This hardworking blend has benefits-a-plenty, keeping your mind clear and alert, supporting concentration and helping you stay on task.*</span></p>
+<ul>
+<li>
+<span>30 <meta charset="utf-8">Vegan Certified Capsules</span><span></span>
+</li>
+<li>
+<span>American Ginseng</span><span></span>
+</li>
+<li>
+<span>Gotu Kola</span><span></span>
+</li>
+<li><span>Lemon Balm</span></li>
+</ul>
+<ul></ul>
+<blockquote></blockquote></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Adaptogens</s:tag>
+    <s:tag>Brain</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Ginseng</s:tag>
+    <s:tag>Gotu Kola</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6817198178379</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700487</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066331723</id>
+    <published>2024-04-06T15:49:35-07:00</published>
+    <updated>2024-04-06T15:49:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/mellow-buddies-lolly-pops"/>
+    <title>Mellow Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/mellow-buddies-main.jpg?v=1709676689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Start feeling cool, calm, and collected. Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and relaxation. These lovable OLLY kids lollipops contain a brainy blend of ingredients to help kiddos stay calm (but not drowsy).* </span></p>
+<p><span>Treat your kids to the OLLY Mellow Buddies that hits the brilliantly chill sweet spot. That’s our kind of peace of mind.</span></p>
+<ul>
+<li><span><meta charset="utf-8">Vegan Certified </span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Choline</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066331723</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700529</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066692171</id>
+    <published>2024-04-06T15:49:20-07:00</published>
+    <updated>2024-04-06T15:49:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focused-thinker-brainy-chews"/>
+    <title>Focused Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-thinker-main.jpg?v=1709672938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Add some clarity with these focal finding brain bud supplements to help support mental alertness, focus and healthy brain function.* </p>
+<p class="p1">These focus chews come to the rescue when you need to dig in to your work and focus. Elevate your efforts with brain chews that support concentration &amp; cognitive performance.*</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span>20 Chews</li>
+<li class="li1">
+<span class="s1"></span><span data-mce-fragment="1">Raspberry Jam is ripe with raspberry flavor and hits of strawberry and cherry flavors</span><br>
+</li>
+<li class="li1"><span data-mce-fragment="1"><meta charset="utf-8">
+<span>Vegan Certified </span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Ginger</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066692171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066593867</id>
+    <published>2024-04-06T15:49:06-07:00</published>
+    <updated>2024-04-06T15:49:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focus-buddies-lolly-pops"/>
+    <title>Focus Buddies L&apos;OLLY Pops</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-buddies-main.jpg?v=1709676706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your brain at its best with this delightfully tasty treat that supports healthy brain function and focused attention.* These lovable lollipop supplements pack a whammy of wonders.</p>
+<p>Each pop boasts a brainy blend of ingredients that support focus, attention and healthy cognitive function.* Who knows, you might even look forward to homework. Treat your kids to a lollipop that hits a more focused sweet spot.*</p>
+<ul>
+<li>25 Pops</li>
+<li>A mouthwatering blend of watermelon and strawberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul>
+<p> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>Kids</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066593867</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700528</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066626635</id>
+    <published>2024-04-06T15:48:56-07:00</published>
+    <updated>2024-04-06T15:48:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/energized-thinker-brainy-chews"/>
+    <title>Energized Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/energized-thinker-main.jpg?v=1709673545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When your brain feels like it’s on vacation on the shores of Sluggish Island, these brain friendly supplements help support mental alertness, focus and healthy brain function.* </p>
+<p>These energy chews help improve performance efficiency, like planning, creative thinking and action-based prospective memory. Elevate your everyday with energy when you need it that supports laser-focussed mental acuity*.</p>
+<ul>
+<ul>
+<li>20 Chews</li>
+<li>A tangy tropical blend of passionfruit, guava, orange and mango flavors</li>
+<li>
+<strong> </strong>Vegan Certified</li>
+</ul>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066626635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066659403</id>
+    <published>2024-04-06T15:48:46-07:00</published>
+    <updated>2024-04-06T15:48:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/chill-thinker-brainy-chews"/>
+    <title>Chill Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/chill-thinker-main.jpg?v=1709672759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your cool and your brain at its best with this delightfully tasty brain buddy. These brainy supplements support relaxation, focus and healthy brain function—all at the same time.*</p>
+<p>Brain vitamins for adults that hit the brilliantly chill sweet spot.</p>
+<ul>
+<li>20 Chews</li>
+<li>A berry delicious burst of pomegranate and blueberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066659403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832877916224</id>
+    <published>2024-01-04T14:18:31-08:00</published>
+    <updated>2024-01-04T14:18:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/laser-focus"/>
+    <title>Laser Focus</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/laser-focus-main.jpg?v=1715887332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laser Focus™ delivers a unique blend of ingredients including Ginseng extract to support cognitive focus and performance*</p>
+<ul>
+<li>36 Gummies</li>
+<li>Flavor: Berry Tangy Tangerine with Other Natural Flavors</li>
+<li>A blend of Ginseng, Alpha GPC &amp; B Vitamins</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832877916224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6812083650635</id>
+    <published>2023-03-04T08:24:44-08:00</published>
+    <updated>2023-03-04T08:24:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-daily-energy"/>
+    <title>Extra Strength Daily Energy</title>
+    <s:type>Energy</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-daily-energy-main.jpg?v=1677798014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Energy<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uplevel your cellular energy with a caffeine-free boost. This delicious daily gummy helps get to the root of energy production by fueling your internal powerhouse. Each serving packs 1000 mcg of Vitamin B12 (<span>compared to 300 mcg in Daily Energy) to keep you powered up.*</span><span> </span></p>
+<ul>
+<li>
+<span>60 Gummies</span><span> </span>
+</li>
+<li>
+<span>Flavor: Berry Yuzu</span><span> </span>
+</li>
+<li>
+<span>Vitamins B12, Goji Berry &amp; CoQ10</span><span> </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>CoQ10</s:tag>
+    <s:tag>Goji Berry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6812083650635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6683644461131</id>
+    <published>2022-03-27T08:28:02-07:00</published>
+    <updated>2022-03-27T08:28:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-strength-brain-softgels"/>
+    <title>Ultra Strength Brain Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-brain-60ct-main.jpg?v=1730137690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            24.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Start thinkin’ sharp with this multi-benefit blend. It has scientifically selected ingredients that support healthy brain function and mental acuity, including memory, aspects of learning, focus and concentration.*</div>
+<div class="ewa-rteLine"><br></div>
+<div class="ewa-rteLine">For a twist, premium OLLY Ultra Strength Brain Softgels have a hint of mint. Don’t let their size fool you—these little guys go big on benefits.</div>
+<ul>
+<li><span data-mce-fragment="1">60 Softgels | 30-day Supply </span></li>
+<li>
+<meta charset="utf-8"> <span>A blend of Bacopa &amp; Blueberry Extracts, B Vitamins, Omega-3's &amp; Iron</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6683644461131</id>
+      <title>Default Title</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832849932352</id>
+    <published>2018-12-14T09:04:40-08:00</published>
+    <updated>2018-12-14T09:04:40-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/daily-energy"/>
+    <title>Daily Energy</title>
+    <s:type>Energy</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/daily-energy-main.jpg?v=1713992740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Energy<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>A real go-getter. This delicious daily gummy helps get to the root of energy production by fueling your internal powerhouse for a steady, renewable flow.*</p>
+<ul>
+<li>Tropical Passion</li>
+<li><span>Vitamins B12 + CoQ10 &amp; Goji Berry</span></li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832849932352</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0569</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/folic-acid.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2022-03-27T08:28:45-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4479092260939</id>
+    <published>2022-03-27T08:28:45-07:00</published>
+    <updated>2022-03-27T08:28:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-prentatal"/>
+    <title>Ultra Strength Prenatal Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-prenatal-60ct-main.jpg?v=1730992008"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Yoohoo, party of two. Here are key vitamins and minerals to help nourish you and your precious cargo on the daily.*</p>
+<p>For a twist, OLLY Ultra Strength Prenatal Softgels have a hint of mint and lemon scent. Don’t let their size fool you—these little guys go big on benefits for you and your little one.*</p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>A blend of Folic Acid, DHA, Iron and Key Vitamins &amp; Minerals</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092260939</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>70029102</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832735014976</id>
+    <published>2018-12-14T08:52:25-08:00</published>
+    <updated>2018-12-14T08:52:25-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/the-essential-prenatal-multi"/>
+    <title>The Essential Prenatal Multi</title>
+    <s:type>Women&apos;s Wellness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/prenatal-60ct-main_82960b97-8298-450d-9967-db6fadb2c0aa.jpg?v=1739979242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Women&#39;s Wellness<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/the-essential-prenatal-multi">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Say hello to your body’s (and your baby’s) new BFF. Whether it’s before or during your pregnancy, this nurturing blend of essential nutrients helps support your cellular energy production and overall wellness.* It also delivers the good stuff to your precious cargo. Oh, baby.</p>
+<ul>
+<li><span>Sweet Citrus flavored with other natural flavors</span></li>
+<li><span>Multi with Folic Acid + DHA</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>DHA</s:tag>
+    <s:tag>Folic Acid</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>Vitamin D</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832735014976</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832735014976</id>
+      <title>42 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

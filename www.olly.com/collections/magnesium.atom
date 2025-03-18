@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/magnesium.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2025-02-27T12:15:17-08:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7280272441419</id>
+    <published>2025-02-27T12:15:17-08:00</published>
+    <updated>2025-02-27T12:15:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/relaxing-magnesium"/>
+    <title>Relaxing Magnesium</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/relaxing-magnesium-60ct-main.jpg?v=1736799756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We're all about helping you find more OM and less O.M.G. Magnesium plays a key role in helping you find ease in your routine—whether it's after a long day, movement, or whenever you need to take it easy.* </span></p>
+<ul>
+<li><span>Raspberry Lavender flavored with other natural flavors</span></li>
+<li><span>Magnesium Citrate</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7280272441419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066659403</id>
+    <published>2024-04-06T15:48:46-07:00</published>
+    <updated>2024-04-06T15:48:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/chill-thinker-brainy-chews"/>
+    <title>Chill Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/chill-thinker-main.jpg?v=1709672759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your cool and your brain at its best with this delightfully tasty brain buddy. These brainy supplements support relaxation, focus and healthy brain function—all at the same time.*</p>
+<p>Brain vitamins for adults that hit the brilliantly chill sweet spot.</p>
+<ul>
+<li>20 Chews</li>
+<li>A berry delicious burst of pomegranate and blueberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066659403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6582028795979</id>
+    <published>2021-08-08T05:33:47-07:00</published>
+    <updated>2021-08-08T05:33:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/kids-chillax"/>
+    <title>Kids Chillax</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/kids-chillax-main_871a4098-697a-4228-b2c1-03cb9984cc96.jpg?v=1738012354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            13.99 - 17.99
+            <a href="https://www.olly.com/products/kids-chillax">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1"><span>Z is for Zen. These peaceful pals are just the thing to help gently calm little minds while helping kiddos stay engaged.*</span></p>
+<ul>
+<li>
+<span data-mce-fragment="1"></span>Sunny Sherbet flavored with other Natural Flavors</li>
+<li>
+<meta charset="utf-8"> <span>L-Theanine, Magnesium &amp; Lemon Balm</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6582028795979</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700383</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6582028795979</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700619</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092588619</id>
+    <published>2020-04-07T13:22:36-07:00</published>
+    <updated>2020-04-07T13:22:36-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-sleep"/>
+    <title>Ultra Strength Sleep Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-str-sleep-60ct-main.jpg?v=1730137300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>These softgels are a delightful blend of ingredients for oh-so-many benefits to support healthy sleep cycles and a restful night.*</span></p>
+<ul>
+<li>60 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A multi-benefit blend* of Melatonin, Magnesium, L-Theanine &amp; Botanical Extracts</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092588619</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

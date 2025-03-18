@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/collagen.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2019-12-19T13:28:38-08:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4391109263435</id>
+    <published>2019-12-19T13:28:38-08:00</published>
+    <updated>2019-12-19T13:28:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/collagen-gummy-rings"/>
+    <title>Collagen Gummy Rings</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/collagen-rings-main-white.jpg?v=1617988905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Cue the compliments. These delicious gummy rings are packed with collagen—a beauty superstar that’s essential for that youthful glow. It nourishes your skin on a deep level to improve firmness and resiliency, and help diminish the appearance of those pesky little lines and wrinkles.</p>
+<ul>
+<li>30 Gummies</li>
+<li>Flavor: Peach Bellini</li>
+<li>Clinically Tested Dose</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collagen</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4391109263435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832815722560</id>
+    <published>2018-12-14T09:00:54-08:00</published>
+    <updated>2018-12-14T09:00:54-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/glowing-skin"/>
+    <title>Glowing Skin</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/glowing-skin-white-main.jpg?v=1569929875"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            13.99 - 28.99
+            <a href="https://www.olly.com/products/glowing-skin">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hey, baby face. Here's a juicy blend of super nutrients to help replenish and hydrate your skin from within so you can keep that youthful glow.*</p>
+<ul>
+<li>Flavor: Plump Berry</li>
+<li>A blend of Hyaluronic Acid, Collagen and Sea Buckthorn</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collagen</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Hyaluronic Acid</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832815722560</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832815722560</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">28.99</s:price>
+      <s:sku>700372</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

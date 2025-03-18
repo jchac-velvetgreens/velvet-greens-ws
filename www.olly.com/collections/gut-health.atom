@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/gut-health.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2022-10-09T09:05:58-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/6760953610315</id>
+    <published>2022-10-09T09:05:58-07:00</published>
+    <updated>2022-10-09T09:05:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/keep-it-movin"/>
+    <title>Keep it Movin&apos;</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/keep-it-movin-main.jpg?v=1718123214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our blend with Prune, Rhubarb, and Amla extracts will keep you going. Take these berry flavored beauties before bed and wake up ready.</span></p>
+<ul>
+<li>30 Gummies </li>
+<li><span>Flavor:  Plum Berry Flavor with Other Natural Flavors</span></li>
+<li><span><span style="font-weight: 400;">A blend of Rhubarb, Prune &amp; Amla botanical extracts</span></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6760953610315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6760953315403</id>
+    <published>2022-10-09T08:51:03-07:00</published>
+    <updated>2022-10-09T08:51:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fiber"/>
+    <title>Fiber Gummy Rings</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/fiber-rings-main.jpg?v=1718123519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Getting enough fiber in your diet can be tricky, even for big fans of fruits &amp; veggies. Good news: with their juicy blend of strawberry and watermelon flavors, these gummy rings deliver fiber with flavor. Not only are they tastier than a bushel of broccolini, they also include 5g of Prebiotic fiber into every 2 gummy serving.*</span></p>
+<ul>
+<li>50 Count </li>
+<li><span>Flavor:  Berry Melon Flavor with other Natural Flavors</span></li>
+<li><span>5 g of Prebiotic fiber per 2 gummies</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6760953315403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6633431826507</id>
+    <published>2021-12-19T08:59:34-08:00</published>
+    <updated>2021-12-19T08:59:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/metabolism-gummy-rings"/>
+    <title>Metabolism Gummy Rings</title>
+    <s:type>Performance/Fitness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/metabolism-rings-main.jpg?v=1720467146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Performance/Fitness<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://www.olly.com/products/metabolism-gummy-rings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>For a healthy metabolism here’s the in’cider scoop. These delicious gummies help boost metabolism and promote cellular energy.* Our Apple Cider Vinegar is made with the "mother” which has been used at home for centuries.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flavor: Snappy Apple Flavored with Other Natural Flavors</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apple Cider Vinegar + Vitamin B12 &amp; Chromium</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></span></li>
+</ul>
+<p><span style="font-weight: 400;"><strong data-mce-fragment="1">*As of April 22, 2024, this product will no longer be available for shipping to customers residing in New York state.*</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple Cider Vinegar</s:tag>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>Chromium</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New York Restricted</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4635392049227</id>
+    <published>2021-12-14T10:34:01-08:00</published>
+    <updated>2021-12-14T10:34:01-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/olly-beat-the-bloat"/>
+    <title>Beat the Bloat</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/beat-the-bloat-main.jpg?v=1720466088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>These little heroes help to reduce discomfort caused by occasional digestion woes and gas. You’ll feel more like you—and a lot more comfortable, too.*†</p>
+<ul>
+<li>25 Capsules | 25-day Supply</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Digestive Enzymes, Dandelion, Ginger &amp; Fennel Extracts</span><br>
+</li>
+<li><span><meta charset="utf-8">Vegetarian</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4635392049227</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700325</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832907866176</id>
+    <published>2019-04-29T10:25:56-07:00</published>
+    <updated>2019-04-29T10:25:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/probiotic-prebiotic"/>
+    <title>Probiotic + Prebiotic</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/probiotic_prebiotic-30ct-main.jpg?v=1718122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99 - 23.99
+            <a href="https://www.olly.com/products/probiotic-prebiotic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">All systems go. This gummy doubles down with the good guy bacteria and a healthy serving of prebiotic to help keep things balanced*</p>
+<ul>
+<li>Flavor: Peachy Peach with other Natural Flavors</li>
+<li>A blend of probiotics with prebiotic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>60 Servings</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>700526</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3422132863040</id>
+    <published>2019-04-12T03:25:12-07:00</published>
+    <updated>2019-04-12T03:25:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-probiotics"/>
+    <title>Extra Strength Probiotics</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-probiotics-main.jpg?v=1622846278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feeling less than extra? Here’s a probiotic super dose to help get you back on track, along with a boost to your immune system. The powerful pair hits your digestive tract alive and ready to roll.* </p>
+<ul>
+<li>50 Gummies | 25-day supply</li>
+<li>Flavor: Juicy Apple</li>
+<li>2 powerful Probiotic Strains</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3422132863040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832892629056</id>
+    <published>2018-12-14T09:07:43-08:00</published>
+    <updated>2018-12-14T09:07:43-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/probiotic-tropical-mango"/>
+    <title>Probiotic Tropical Mango</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/probiotic-mango-white-main.jpg?v=1709671815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99 - 19.99
+            <a href="https://www.olly.com/products/probiotic-tropical-mango">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span data-mce-fragment="1">Most of your body’s immune system lives in your digestive tract. So, keeping your belly happy is kind of a big deal. These delightful gut-friendly gummies contain a clinically studied dose of probiotics that work with your body to support a healthy immune system and digestive function.*</span><br></p>
+<ul>
+<li>Flavor: Tropical Mango</li>
+<li>One Billion Live Cultures</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832892629056</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0513</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832892629056</id>
+      <title>40 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700541</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

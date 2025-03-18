@@ -1,0 +1,180 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 17 Mar 2025 14:18:57 at https://www.olly.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.olly.com/ -O1 "C:\Users\Javier Chacon\Documents\Projects\VelvetGreens\WebDev\Olly_Velvet" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:19:00	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:19:25	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://shop.app/checkouts/internal/preloads.js?locale=en-US&shop_id=10829004864
+14:21:20	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:21:22	Error: 	"Not Found" (404) at link https://www.olly.com/boot.js (from https://www.olly.com/)
+14:21:22	Warning: 	Retry after error -2 (Receive Time Out) at link https://global.ketchcdn.com/web/v2/config/organization_code/property_code/boot.js (from https://www.olly.com/)
+14:22:13	Error: 	"Not Found" (404) at link https://www.olly.com/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/)
+14:22:13	Error: 	"Not Found" (404) at link https://www.olly.com/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/)
+14:22:13	Error: 	"Not Found" (404) at link https://www.olly.com/POST (from https://www.olly.com/)
+14:22:13	Error: 	"Error when decompressing" (-1) at link https://www.olly.com/cdn (from https://www.olly.com/)
+14:22:14	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:23	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:25	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:29	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:31	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:34	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:36	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:38	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:40	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:42	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:44	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:47	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:49	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:51	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:53	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:56	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:23:58	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:01	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:02	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:05	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:07	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:08	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:10	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:12	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:14	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:15	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:17	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:19	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:20	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:22	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:24	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkouts/cn/Z2NwLXVzLWVhc3QxOjAxSlBKUlEyUEgzWk5IU1NFTTZGUTFLUEtS
+14:24:26	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:27	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:29	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:31	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:32	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:34	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:36	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:38	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:40	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:42	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:44	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:46	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:48	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:50	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:51	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:53	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:55	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:57	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:24:59	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:01	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:03	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:05	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:07	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:09	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:11	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:13	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:14	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:16	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:18	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:20	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:22	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:24	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:26	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:28	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:30	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:32	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:25:34	Warning: 	link is probably looping, type unknown, aborting: https://www.olly.com/checkout
+14:32:18	Warning: 	Retry after error -2 (Receive Time Out) at link https://global.ketchcdn.com/web/v2/config/organization_code/property_code/boot.js (from https://www.olly.com/)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ close.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ close-modal.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ email.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ facebook.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ instagram.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ bcorp.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ arrow-right.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ arrow-right-magenta.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ search.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ cart.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:18	Error: 	"Not Found" (404) at link https://www.olly.com/cdn/shop/t/219/assets/{{ heart-bullet.svg | asset_url }} (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:32:19	Error: 	"Not Found" (404) at link https://www.olly.com/assets/check-white.png (from https://www.olly.com/cdn/shop/t/219/assets/layout.theme.css?v=149559783163813022161740761106)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/collections/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/collections/ultra-softgels)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/collections/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/collections/ultra-softgels)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/collections/POST (from https://www.olly.com/collections/ultra-softgels)
+14:55:52	Error: 	"Too Many Requests" (429) at link https://www.olly.com/checkout (from https://www.olly.com/collections/zinc)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/pages/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/pages/mental-health-awareness-month)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/pages/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/pages/mental-health-awareness-month)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/pages/POST (from https://www.olly.com/pages/mental-health-awareness-month)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/account/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/account/login)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/account/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/account/login)
+14:55:52	Error: 	"Not Found" (404) at link https://www.olly.com/account/POST (from https://www.olly.com/account/login)
+14:56:09	Error: 	"Not Found" (404) at link https://www.olly.com/products/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/products/delightful-iron)
+14:56:09	Error: 	"Not Found" (404) at link https://www.olly.com/products/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/products/delightful-iron)
+14:56:09	Error: 	"Not Found" (404) at link https://www.olly.com/products/POST (from https://www.olly.com/products/delightful-iron)
+14:56:09	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/delightfully-iron-main.jpg (from https://www.olly.com/products/delightful-iron)
+14:56:09	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/mellow-menopause-main.jpg (from https://www.olly.com/products/mellow-menopause)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/lovin-libido-main_0ac636c6-0d43-4a68-8353-c632ffe7aadd.jpg (from https://www.olly.com/products/olly-lovin-libido)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/happy-hoo-ha-main.jpg (from https://www.olly.com/products/happy-hoo-ha)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/beat-the-bloat-main.jpg (from https://www.olly.com/products/olly-beat-the-bloat)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/relaxing-magnesium-60ct-main.jpg (from https://www.olly.com/products/relaxing-magnesium)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/hello-happy-main.jpg (from https://www.olly.com/products/hello-happy)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/goodbye-stress-42ct-main.jpg (from https://www.olly.com/products/goodbye-stress)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/kids-chillax-front_2ff79676-b301-43e7-9858-050bbaaa8e7f.jpg (from https://www.olly.com/products/kids-chillax)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/fiber-rings-main.jpg (from https://www.olly.com/products/fiber)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/keep-it-movin-main.jpg (from https://www.olly.com/products/keep-it-movin)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/probiotic_prebiotic-30ct-main.jpg (from https://www.olly.com/products/probiotic-prebiotic)
+14:56:14	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/extra-strength-probiotics-main.jpg (from https://www.olly.com/products/extra-strength-probiotics)
+14:56:20	Error: 	"Receive Time Out" (-2) after 2 retries at link https://global.ketchcdn.com/web/v2/config/organization_code/property_code/boot.js (from https://www.olly.com/)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/metabolism-rings-front.jpg (from https://www.olly.com/products/metabolism-gummy-rings)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/laser-focus-main.jpg (from https://www.olly.com/products/laser-focus)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/women-multi-main.jpg (from https://www.olly.com/products/perfect-womens-multi)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-str-brain-60ct-main.jpg (from https://www.olly.com/products/ultra-strength-brain-softgels)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-str-goodbye-stress-60ct-main.jpg (from https://www.olly.com/products/ultra-soft-gels-stress)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-str-prenatal-60ct-main.jpg (from https://www.olly.com/products/ultra-soft-gels-prentatal)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-strength-hair-main_34932e3e-5c6f-49a7-8be5-be47af1d8843.jpg (from https://www.olly.com/products/ultra-soft-gels-hair)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-str-womens-multi-60ct-main.jpg (from https://www.olly.com/products/ultra-soft-gels-womens-multi-omega-3)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/ultra-str-sleep-60ct-main.jpg (from https://www.olly.com/products/ultra-soft-gels-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/combat-cravings-main.jpg (from https://www.olly.com/products/combat-cravings)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/plant-powered-chill-main.jpg (from https://www.olly.com/products/plant-powered-chill)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/plant-powered-focus-main.jpg (from https://www.olly.com/products/plant-powered-focus)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/plant-powered-rest-main.jpg (from https://www.olly.com/products/plant-powered-rest)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/extra-strength-daily-energy-main.jpg (from https://www.olly.com/products/extra-strength-daily-energy)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/daily-energy-main.jpg (from https://www.olly.com/products/daily-energy)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/focused-thinker-main.jpg (from https://www.olly.com/products/focused-thinker-brainy-chews)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/chill-thinker-main.jpg (from https://www.olly.com/products/chill-thinker-brainy-chews)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/energized-thinker-main.jpg (from https://www.olly.com/products/energized-thinker-brainy-chews)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/sleep-strawberry-sunset-main.jpg (from https://www.olly.com/products/sleep-strawberry-sunset)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/sleep-blackberry-50ct-main.jpg (from https://www.olly.com/products/sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/lmt-edition-sleep-main.jpg (from https://www.olly.com/products/sleep-apple-cider)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/extra-strength-sleep-main.jpg (from https://www.olly.com/products/extra-strength-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/muscle-recovery-sleep-main_af9e4fc0-36da-409f-9d33-9f5bcaadebf1.jpg (from https://www.olly.com/products/muscle-recovery-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/immunity-sleep-main.jpg (from https://www.olly.com/products/immunity-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/max-strength-sleep-main.jpg (from https://www.olly.com/products/maximum-strength-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/sleep-main_ca59cdce-363a-4ab7-8d2d-e5a936971112.jpg (from https://www.olly.com/products/fast-dissolves-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/es-sleep-thumb.jpg (from https://www.olly.com/products/fast-dissolves-extra-strength-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/immunity-sleep-main.jpg (from https://www.olly.com/products/fast-dissolves-immunity-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/probiotic-mango-white-front_1ec00223-d632-46de-9962-2ce5dc455a07.jpg (from https://www.olly.com/products/probiotic-tropical-mango)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/undeniable-beauty-main_a76c7ab6-4d52-4b12-992f-8c5637eaed37.jpg (from https://www.olly.com/products/undeniable-beauty)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/heavenly-hair-60ct-main.jpg (from https://www.olly.com/products/heavenly-hair)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/glowing-skin-white-main.jpg (from https://www.olly.com/products/glowing-skin)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/flawless-complexion-white-main.jpg (from https://www.olly.com/products/flawless-complexion)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/collagen-rings-main-white.jpg (from https://www.olly.com/products/collagen-gummy-rings)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/elderberry-sleep-main.jpg (from https://www.olly.com/products/extra-strength-elderberry)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/immunity-berry-white-main_944faa8d-9b94-4de7-bae1-8ca7507dcc46.jpg (from https://www.olly.com/products/active-immunity-berry-brave)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/men-multi-gum-main.jpg (from https://www.olly.com/products/perfect-mens-multi)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/lmt-edition-mens-multi-main.jpg (from https://www.olly.com/products/mens-multi-festive-poached-pear)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/adult-multi-probiotic-main.jpg (from https://www.olly.com/products/adult-multi-probiotic)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/kids-multi-probiotic-70ct-main.jpg (from https://www.olly.com/products/kids-multi-probiotic)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/lmt-edition-kids-multi-main.jpg (from https://www.olly.com/products/kids-multi-probiotic-sugar-plummy)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/kids-multi-gummy-worms-main.jpg (from https://www.olly.com/products/kids-multi-worms-100-count)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/kids-worms-main.jpg (from https://www.olly.com/products/kids-multi-worms)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/teen-girl-multi-front.jpg (from https://www.olly.com/products/girl-multi)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/prenatal-60ct-main_82960b97-8298-450d-9967-db6fadb2c0aa.jpg (from https://www.olly.com/products/the-essential-prenatal-multi)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/focused-buddies-main.jpg (from https://www.olly.com/products/focus-buddies-lolly-pops)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/mellow-buddies-main.jpg (from https://www.olly.com/products/mellow-buddies-lolly-pops)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/files/kids-sleep-main.jpg (from https://www.olly.com/products/kids-sleep)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/products/products/kids-mighty-immunity-white-main.jpg (from https://www.olly.com/products/kids-mighty-immunity)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/blogs/the-well/modules/v2/chunk.common_BHYMFzo0.esm.js (from https://www.olly.com/blogs/the-well/the-story-of-sleep-hygiene-and-sleep-quality)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/blogs/the-well/modules/v2/client.shop-login-button_DsiwPxuG.en.esm.js (from https://www.olly.com/blogs/the-well/the-story-of-sleep-hygiene-and-sleep-quality)
+14:56:20	Error: 	"Not Found" (404) at link https://www.olly.com/blogs/the-well/POST (from https://www.olly.com/blogs/the-well/the-story-of-sleep-hygiene-and-sleep-quality)
+
+HTTrack Website Copier/3.49-2 mirror complete in 37 minutes 30 seconds : 1871 links scanned, 1772 files written (188123392 bytes overall) [149386520 bytes received at 66394 bytes/sec], 59702433 bytes transferred using HTTP compression in 440 files, ratio 23%, 24.4 requests per connection
+(96 errors, 73 warnings, 0 messages)

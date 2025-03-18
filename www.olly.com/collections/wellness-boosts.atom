@@ -1,0 +1,1245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/wellness-boosts.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2025-02-27T12:15:17-08:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/7280272441419</id>
+    <published>2025-02-27T12:15:17-08:00</published>
+    <updated>2025-02-27T12:15:17-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/relaxing-magnesium"/>
+    <title>Relaxing Magnesium</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/relaxing-magnesium-60ct-main.jpg?v=1736799756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>We're all about helping you find more OM and less O.M.G. Magnesium plays a key role in helping you find ease in your routine—whether it's after a long day, movement, or whenever you need to take it easy.* </span></p>
+<ul>
+<li><span>Raspberry Lavender flavored with other natural flavors</span></li>
+<li><span>Magnesium Citrate</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>Mood</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7280272441419</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700607</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/7166340989003</id>
+    <published>2024-09-13T09:23:17-07:00</published>
+    <updated>2024-09-13T09:23:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/sleep-apple-cider"/>
+    <title>Sleep Apple Cider</title>
+    <s:type>Limited Edition</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/lmt-edition-sleep-main.jpg?v=1724681154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Limited Edition<br>
+        <strong>Price: </strong>
+            6.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet dreams are made of these. Festively delicious bedtime buddies that work with your body to help you mellow your mind, calm your senses and relax into Zzzs.*</p>
+<ul>
+<li>Flavor: Limited Edition Spiced Apple Cider flavor</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanical Extracts</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Seasonal</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/7166340989003</id>
+      <title>Default Title</title>
+      <s:price currency="USD">6.99</s:price>
+      <s:sku>300408</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066692171</id>
+    <published>2024-04-06T15:49:20-07:00</published>
+    <updated>2024-04-06T15:49:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/focused-thinker-brainy-chews"/>
+    <title>Focused Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/focused-thinker-main.jpg?v=1709672938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">Add some clarity with these focal finding brain bud supplements to help support mental alertness, focus and healthy brain function.* </p>
+<p class="p1">These focus chews come to the rescue when you need to dig in to your work and focus. Elevate your efforts with brain chews that support concentration &amp; cognitive performance.*</p>
+<ul class="ul1">
+<li class="li1">
+<span class="s1"></span><span class="Apple-tab-span"> </span><span class="Apple-tab-span"> </span>20 Chews</li>
+<li class="li1">
+<span class="s1"></span><span data-mce-fragment="1">Raspberry Jam is ripe with raspberry flavor and hits of strawberry and cherry flavors</span><br>
+</li>
+<li class="li1"><span data-mce-fragment="1"><meta charset="utf-8">
+<span>Vegan Certified </span></span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Ginger</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066692171</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700538</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066626635</id>
+    <published>2024-04-06T15:48:56-07:00</published>
+    <updated>2024-04-06T15:48:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/energized-thinker-brainy-chews"/>
+    <title>Energized Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/energized-thinker-main.jpg?v=1709673545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>When your brain feels like it’s on vacation on the shores of Sluggish Island, these brain friendly supplements help support mental alertness, focus and healthy brain function.* </p>
+<p>These energy chews help improve performance efficiency, like planning, creative thinking and action-based prospective memory. Elevate your everyday with energy when you need it that supports laser-focussed mental acuity*.</p>
+<ul>
+<ul>
+<li>20 Chews</li>
+<li>A tangy tropical blend of passionfruit, guava, orange and mango flavors</li>
+<li>
+<strong> </strong>Vegan Certified</li>
+</ul>
+</ul>
+<p><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>Cognitive</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066626635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700536</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6934066659403</id>
+    <published>2024-04-06T15:48:46-07:00</published>
+    <updated>2024-04-06T15:48:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/chill-thinker-brainy-chews"/>
+    <title>Chill Thinker Brainy Chews</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY PBC</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/chill-thinker-main.jpg?v=1709672759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY PBC<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep your cool and your brain at its best with this delightfully tasty brain buddy. These brainy supplements support relaxation, focus and healthy brain function—all at the same time.*</p>
+<p>Brain vitamins for adults that hit the brilliantly chill sweet spot.</p>
+<ul>
+<li>20 Chews</li>
+<li>A berry delicious burst of pomegranate and blueberry flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Magnesium</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Omega 3</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6934066659403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6842431668299</id>
+    <published>2024-01-04T14:18:45-08:00</published>
+    <updated>2024-01-04T14:18:45-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/maximum-strength-sleep"/>
+    <title>Maximum Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/max-strength-sleep-main.jpg?v=1694181877"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            17.99 - 21.99
+            <a href="https://www.olly.com/products/maximum-strength-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>SUGAR FREE Sweet Dreams </p>
+<p>Our highest dose of delightful doze-off, these Maximum Strength Sleep gummies contain 10 mg Melatonin and calming L-Theanine to help you fall asleep, stay asleep and wake up feeling refreshed.*  Doesn’t that sound dreamy?</p>
+<ul>
+<li>A berry fresh burst of sweet strawberry flavor</li>
+<li>A blend of 10 mg Melatonin, L-Theanine &amp; Botanical Extracts</li>
+<li>Sugar free, and just as delightful</li>
+<li>Gluten free &amp; no synthetic colors or flavors</li>
+<li>
+<meta charset="utf-8">
+<span>Vegan Certified </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Sugar Free</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700521</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6842431668299</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">21.99</s:price>
+      <s:sku>700525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832877916224</id>
+    <published>2024-01-04T14:18:31-08:00</published>
+    <updated>2024-01-04T14:18:31-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/laser-focus"/>
+    <title>Laser Focus</title>
+    <s:type>Cognitive</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/laser-focus-main.jpg?v=1715887332"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Cognitive<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Laser Focus™ delivers a unique blend of ingredients including Ginseng extract to support cognitive focus and performance*</p>
+<ul>
+<li>36 Gummies</li>
+<li>Flavor: Berry Tangy Tangerine with Other Natural Flavors</li>
+<li>A blend of Ginseng, Alpha GPC &amp; B Vitamins</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832877916224</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>1525</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6812083650635</id>
+    <published>2023-03-04T08:24:44-08:00</published>
+    <updated>2023-03-04T08:24:44-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-daily-energy"/>
+    <title>Extra Strength Daily Energy</title>
+    <s:type>Energy</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-daily-energy-main.jpg?v=1677798014"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Energy<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Uplevel your cellular energy with a caffeine-free boost. This delicious daily gummy helps get to the root of energy production by fueling your internal powerhouse. Each serving packs 1000 mcg of Vitamin B12 (<span>compared to 300 mcg in Daily Energy) to keep you powered up.*</span><span> </span></p>
+<ul>
+<li>
+<span>60 Gummies</span><span> </span>
+</li>
+<li>
+<span>Flavor: Berry Yuzu</span><span> </span>
+</li>
+<li>
+<span>Vitamins B12, Goji Berry &amp; CoQ10</span><span> </span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>CoQ10</s:tag>
+    <s:tag>Goji Berry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6812083650635</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700493</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6760953610315</id>
+    <published>2022-10-09T09:05:58-07:00</published>
+    <updated>2022-10-09T09:05:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/keep-it-movin"/>
+    <title>Keep it Movin&apos;</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/keep-it-movin-main.jpg?v=1718123214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Our blend with Prune, Rhubarb, and Amla extracts will keep you going. Take these berry flavored beauties before bed and wake up ready.</span></p>
+<ul>
+<li>30 Gummies </li>
+<li><span>Flavor:  Plum Berry Flavor with Other Natural Flavors</span></li>
+<li><span><span style="font-weight: 400;">A blend of Rhubarb, Prune &amp; Amla botanical extracts</span></span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6760953610315</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700449</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6760953315403</id>
+    <published>2022-10-09T08:51:03-07:00</published>
+    <updated>2022-10-09T08:51:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fiber"/>
+    <title>Fiber Gummy Rings</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/fiber-rings-main.jpg?v=1718123519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Getting enough fiber in your diet can be tricky, even for big fans of fruits &amp; veggies. Good news: with their juicy blend of strawberry and watermelon flavors, these gummy rings deliver fiber with flavor. Not only are they tastier than a bushel of broccolini, they also include 5g of Prebiotic fiber into every 2 gummy serving.*</span></p>
+<ul>
+<li>50 Count </li>
+<li><span>Flavor:  Berry Melon Flavor with other Natural Flavors</span></li>
+<li><span>5 g of Prebiotic fiber per 2 gummies</span></li>
+</ul>
+<ul></ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6760953315403</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700452</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743141908555</id>
+    <published>2022-08-28T07:48:20-07:00</published>
+    <updated>2022-08-28T07:48:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-sleep"/>
+    <title>Fast Dissolves Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-main_ca59cdce-363a-4ab7-8d2d-e5a936971112.jpg?v=1709137964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One dreamy drift-off. These delicious quick-dissolving tablets are packed with ingredients that help promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.* Sugar free and non-habit forming. </p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743141908555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>700462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743145676875</id>
+    <published>2022-08-28T07:47:56-07:00</published>
+    <updated>2022-08-28T07:47:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-immunity-sleep"/>
+    <title>Fast Dissolves Immunity Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-sleep-main.jpg?v=1659960786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rest up and feel your best. These little fellas pack a double whammy: sleep and immune system support in one delicious quick-dissolving tablet. Let one dissolve in your mouth (no water or chewing needed!) and enjoy the citrus goodness.* Sugar free and non-habit forming. Doesn’t that sound dreamy?</span></p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Mellow Citrus</span></li>
+<li><span>A blend of Melatonin &amp; Vitamin C</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743145676875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743144333387</id>
+    <published>2022-08-28T07:47:39-07:00</published>
+    <updated>2022-08-28T07:47:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-extra-strength-sleep"/>
+    <title>Fast Dissolves Extra Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/es-sleep-thumb.jpg?v=1709137529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleep seekers, rejoice! These delicious quick-dissolving tablets are packed with an extra boost of Melatonin that helps promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.*  Sugar free and non-habit forming. Doesn’t that sound dreamy?</p>
+<ul>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743144333387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6682477068363</id>
+    <published>2022-03-27T08:27:44-07:00</published>
+    <updated>2022-03-27T08:27:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/sleep-strawberry-sunset"/>
+    <title>Sleep Strawberry Sunset</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-strawberry-sunset-main.jpg?v=1715887490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sweet dreams are made of these. These bedtime buddies work with your body and help mellow your mind and calm your senses so you can relax and zzz.*</p>
+<ul>
+<li>Flavor: Strawberry Sunset</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanicals</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6682477068363</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700443</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6633431826507</id>
+    <published>2021-12-19T08:59:34-08:00</published>
+    <updated>2021-12-19T08:59:34-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/metabolism-gummy-rings"/>
+    <title>Metabolism Gummy Rings</title>
+    <s:type>Performance/Fitness</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/metabolism-rings-main.jpg?v=1720467146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Performance/Fitness<br>
+        <strong>Price: </strong>
+            19.99 - 24.99
+            <a href="https://www.olly.com/products/metabolism-gummy-rings">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>For a healthy metabolism here’s the in’cider scoop. These delicious gummies help boost metabolism and promote cellular energy.* Our Apple Cider Vinegar is made with the "mother” which has been used at home for centuries.</span></p>
+<ul>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Flavor: Snappy Apple Flavored with Other Natural Flavors</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;">Apple Cider Vinegar + Vitamin B12 &amp; Chromium</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400;"><meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></span></li>
+</ul>
+<p><span style="font-weight: 400;"><strong data-mce-fragment="1">*As of April 22, 2024, this product will no longer be available for shipping to customers residing in New York state.*</strong></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple Cider Vinegar</s:tag>
+    <s:tag>B Vitamins</s:tag>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>Chromium</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>New York Restricted</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700405</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/6633431826507</id>
+      <title>45 Servings</title>
+      <s:price currency="USD">24.99</s:price>
+      <s:sku>700620</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6591395102795</id>
+    <published>2021-08-29T06:25:54-07:00</published>
+    <updated>2021-08-29T06:25:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-elderberry"/>
+    <title>Extra Strength Elderberry</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/elderberry-sleep-main.jpg?v=1629841697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feel-good powerhouse. This super dose of Elderberry supports a healthy immune system so you can keep doing your thing on the daily.*</p>
+<ul>
+<li>50 gummies | 25-day supply</li>
+<li>Flavor: Bunch ‘o Berries</li>
+<li>A blend of Elderberry, Vitamins C, D &amp; Zinc</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Immunity Blend</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6591395102795</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>700382</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6546067750987</id>
+    <published>2021-03-28T06:42:41-07:00</published>
+    <updated>2021-03-28T06:42:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/muscle-recovery-sleep"/>
+    <title>Muscle Recovery Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/muscle-recovery-sleep-main_af9e4fc0-36da-409f-9d33-9f5bcaadebf1.jpg?v=1713990141"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Good night, time to rest and reset. Kicked things up a notch? These OLLY Muscle Recovery supplements help you sleep soundly and refresh tired muscles.*</span></p>
+<ul>
+<li><span>Strawberry Rested with Other Natural Flavors</span></li>
+<li><span>A blend of Melatonin, Tart Cherry Extract &amp; Vitamin D</span></li>
+<li><span><meta charset="utf-8">NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span></li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6546067750987</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700358</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4714841833547</id>
+    <published>2021-01-15T12:56:36-08:00</published>
+    <updated>2021-01-15T12:56:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/hello-happy"/>
+    <title>Hello Happy</title>
+    <s:type>Mood</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/hello-happy-main.jpg?v=1720467400"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Mood<br>
+        <strong>Price: </strong>
+            19.99 - 22.49
+            <a href="https://www.olly.com/products/hello-happy">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Sunny side up. These playful gummy worms deliver some delightful cheer to help you feel upbeat. The star of the show? Highly-prized Saffron extract, coveted for its mood-balancing properties. Plus, it’s expertly blended with Vitamin D.</span></p>
+<ul>
+<li>
+<meta charset="utf-8"> <span>Tropical Zing Flavor with Other Natural Flavors</span>
+</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Vitamin D &amp; Saffron Extract</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>Vitamin D</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4714841833547</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700342</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4714841833547</id>
+      <title>45 Serving Pouch</title>
+      <s:price currency="USD">22.49</s:price>
+      <s:sku>700428</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479091146827</id>
+    <published>2020-04-08T18:39:58-07:00</published>
+    <updated>2020-04-08T18:39:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/heavenly-hair"/>
+    <title>Heavenly Hair</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/heavenly-hair-60ct-main.jpg?v=1739983938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>A flair for good hair. These delicious little beauties are a hard-working blend of ingredients to help keep your locks wow-worthy from the inside out.*</span><br></p>
+<ul>
+<li>60 Gummies</li>
+<li>
+<meta charset="utf-8"> <span>Tropical Citrus Flavor with Other Natural Flavors</span>
+</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Keratin, Amla, Biotin &amp; Zinc</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091146827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4391109263435</id>
+    <published>2019-12-19T13:28:38-08:00</published>
+    <updated>2019-12-19T13:28:38-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/collagen-gummy-rings"/>
+    <title>Collagen Gummy Rings</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/collagen-rings-main-white.jpg?v=1617988905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p> </p>
+<p>Cue the compliments. These delicious gummy rings are packed with collagen—a beauty superstar that’s essential for that youthful glow. It nourishes your skin on a deep level to improve firmness and resiliency, and help diminish the appearance of those pesky little lines and wrinkles.</p>
+<ul>
+<li>30 Gummies</li>
+<li>Flavor: Peach Bellini</li>
+<li>Clinically Tested Dose</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Collagen</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4391109263435</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700269</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4000305479755</id>
+    <published>2019-08-30T05:47:35-07:00</published>
+    <updated>2019-08-30T05:47:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/immunity-sleep"/>
+    <title>Immunity Sleep Gummies</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/immunity-sleep-main.jpg?v=1713990426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            13.99 - 17.59
+            <a href="https://www.olly.com/products/immunity-sleep">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="ewa-rteLine">Hit the snooze button. Sleep is vital for a healthy immune system – so it’s important to get your zzz’s to help keep you on the up and up. Melatonin and L-Theanine encourage sound, restorative slumber while Vitamin C and Zinc support immune health.*</div>
+<ul>
+<li>
+<div class="ewa-rteLine">Midnight Berry Flavored with other Natural Flavors</div>
+</li>
+<li>Melatonin, Echinacea, Zinc &amp; Vitamin C</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>18 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700253</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/4000305479755</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">17.59</s:price>
+      <s:sku>700299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4000304758859</id>
+    <published>2019-08-30T05:47:04-07:00</published>
+    <updated>2019-08-30T05:47:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/active-immunity-berry-brave"/>
+    <title>Active Immunity Berry Brave</title>
+    <s:type>Immunity</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-berry-white-main_944faa8d-9b94-4de7-bae1-8ca7507dcc46.jpg?v=1617987124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Immunity<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Keep on keeping on. Life doesn’t often slow down, even when you do. This trusty little side kick helps support a healthy immune system—so you can keep doing your thing.*</p>
+<ul>
+<li>Flavor: Berry Brave</li>
+<li>Echinacea, Zinc &amp; Vitamin C</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Elderberry</s:tag>
+    <s:tag>Gummies</s:tag>
+    <s:tag>Immunity Blend</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4000304758859</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>700251</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832907866176</id>
+    <published>2019-04-29T10:25:56-07:00</published>
+    <updated>2019-04-29T10:25:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/probiotic-prebiotic"/>
+    <title>Probiotic + Prebiotic</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/probiotic_prebiotic-30ct-main.jpg?v=1718122793"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            13.99 - 23.99
+            <a href="https://www.olly.com/products/probiotic-prebiotic">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p class="p1">All systems go. This gummy doubles down with the good guy bacteria and a healthy serving of prebiotic to help keep things balanced*</p>
+<ul>
+<li>Flavor: Peachy Peach with other Natural Flavors</li>
+<li>A blend of probiotics with prebiotic</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>balanced belly</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>Probiotics</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>30 Servings</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0511</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/1832907866176</id>
+      <title>60 Servings</title>
+      <s:price currency="USD">23.99</s:price>
+      <s:sku>700526</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3422115233856</id>
+    <published>2019-04-12T03:25:19-07:00</published>
+    <updated>2019-04-12T03:25:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-sleep"/>
+    <title>Extra Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/extra-strength-sleep-main.jpg?v=1713993867"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            15.99 - 29.99
+            <a href="https://www.olly.com/products/extra-strength-sleep">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>More is more. Sometimes you just need a little something extra. This little gummy is a powerhouse of sleep, thanks to a bonus boost of Melatonin to help you find that sweet slumber.* </p>
+<ul>
+<li>Blackberry Zen with Other Natural Flavors</li>
+<li>A blend of Melatonin, L-Theanine &amp; Botanicals</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gummies</s:tag>
+    <s:tag>L-Theanine</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>25 Servings</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>0841</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>35 Servings</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700361</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>30 Serving Pouch</title>
+      <s:price currency="USD">16.99</s:price>
+      <s:sku>700287</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://www.olly.com/products/3422115233856</id>
+      <title>60 Serving Pouch</title>
+      <s:price currency="USD">29.99</s:price>
+      <s:sku>700430</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/3422132863040</id>
+    <published>2019-04-12T03:25:12-07:00</published>
+    <updated>2019-04-12T03:25:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/extra-strength-probiotics"/>
+    <title>Extra Strength Probiotics</title>
+    <s:type>Gut Health</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/extra-strength-probiotics-main.jpg?v=1622846278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Gut Health<br>
+        <strong>Price: </strong>
+            17.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Feeling less than extra? Here’s a probiotic super dose to help get you back on track, along with a boost to your immune system. The powerful pair hits your digestive tract alive and ready to roll.* </p>
+<ul>
+<li>50 Gummies | 25-day supply</li>
+<li>Flavor: Juicy Apple</li>
+<li>2 powerful Probiotic Strains</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Probiotics</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/3422132863040</id>
+      <title>Default Title</title>
+      <s:price currency="USD">17.99</s:price>
+      <s:sku>0843</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/fast-dissolves.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2022-08-28T07:48:20-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/6743141908555</id>
+    <published>2022-08-28T07:48:20-07:00</published>
+    <updated>2022-08-28T07:48:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-sleep"/>
+    <title>Fast Dissolves Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/sleep-main_ca59cdce-363a-4ab7-8d2d-e5a936971112.jpg?v=1709137964"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            9.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>One dreamy drift-off. These delicious quick-dissolving tablets are packed with ingredients that help promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.* Sugar free and non-habit forming. </p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>New</s:tag>
+    <s:tag>Sleep</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743141908555</id>
+      <title>Default Title</title>
+      <s:price currency="USD">9.99</s:price>
+      <s:sku>700462</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743145676875</id>
+    <published>2022-08-28T07:47:56-07:00</published>
+    <updated>2022-08-28T07:47:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-immunity-sleep"/>
+    <title>Fast Dissolves Immunity Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/products/immunity-sleep-main.jpg?v=1659960786"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Rest up and feel your best. These little fellas pack a double whammy: sleep and immune system support in one delicious quick-dissolving tablet. Let one dissolve in your mouth (no water or chewing needed!) and enjoy the citrus goodness.* Sugar free and non-habit forming. Doesn’t that sound dreamy?</span></p>
+<ul>
+<li><span>30 tablets</span></li>
+<li><span>Flavor: Mellow Citrus</span></li>
+<li><span>A blend of Melatonin &amp; Vitamin C</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743145676875</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/6743144333387</id>
+    <published>2022-08-28T07:47:39-07:00</published>
+    <updated>2022-08-28T07:47:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/fast-dissolves-extra-strength-sleep"/>
+    <title>Fast Dissolves Extra Strength Sleep</title>
+    <s:type>Sleep</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/es-sleep-thumb.jpg?v=1709137529"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Sleep<br>
+        <strong>Price: </strong>
+            10.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Sleep seekers, rejoice! These delicious quick-dissolving tablets are packed with an extra boost of Melatonin that helps promote restful sleep. Let it dissolve in your mouth (no water or chewing needed!) and enjoy the strawberry goodness.*  Sugar free and non-habit forming. Doesn’t that sound dreamy?</p>
+<ul>
+<li><span>Flavor: Strawberry </span></li>
+<li><span>A blend of Melatonin &amp; Lemon Balm</span></li>
+<li><span>Vegan &amp; sugar free</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Lemon Balm</s:tag>
+    <s:tag>Melatonin</s:tag>
+    <s:tag>Vegan</s:tag>
+    <s:tag>Vegetarian</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/6743144333387</id>
+      <title>Default Title</title>
+      <s:price currency="USD">10.99</s:price>
+      <s:sku>700463</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

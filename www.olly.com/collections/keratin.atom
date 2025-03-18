@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.olly.com/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.olly.com/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.olly.com/collections/keratin.atom"/>
+  <title>OLLY PBC</title>
+  <updated>2020-04-08T18:39:58-07:00</updated>
+  <author>
+    <name>OLLY PBC</name>
+  </author>
+  <entry>
+    <id>https://www.olly.com/products/4479091146827</id>
+    <published>2020-04-08T18:39:58-07:00</published>
+    <updated>2020-04-08T18:39:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/heavenly-hair"/>
+    <title>Heavenly Hair</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/heavenly-hair-60ct-main.jpg?v=1739983938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            15.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><meta charset="utf-8"><span>A flair for good hair. These delicious little beauties are a hard-working blend of ingredients to help keep your locks wow-worthy from the inside out.*</span><br></p>
+<ul>
+<li>60 Gummies</li>
+<li>
+<meta charset="utf-8"> <span>Tropical Citrus Flavor with Other Natural Flavors</span>
+</li>
+<li>
+<meta charset="utf-8"> <span>A blend of Keratin, Amla, Biotin &amp; Zinc</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479091146827</id>
+      <title>Default Title</title>
+      <s:price currency="USD">15.99</s:price>
+      <s:sku>700297</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/4479092752459</id>
+    <published>2020-04-07T14:21:07-07:00</published>
+    <updated>2020-04-07T14:21:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/ultra-soft-gels-hair"/>
+    <title>Ultra Strength Hair Softgels</title>
+    <s:type>Ultra</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/ultra-strength-hair-main_34932e3e-5c6f-49a7-8be5-be47af1d8843.jpg?v=1715887839"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Ultra<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><meta charset="utf-8"><span>Healthy hair hero. This beautifying blend works its magic with ingredients that support healthy locks from within.*</span></p>
+<p><meta charset="utf-8"><span>For a fresh twist, our premium softgels have a hint of strawberry flavor and are sugar free. Don’t let their size fool you—these little softgels go big on benefits.</span></p>
+<ul>
+<li>30 Softgels | 30-day Supply</li>
+<li>
+<meta charset="utf-8">
+<span>A Blend of Biotin, Keratin &amp; Minerals</span>
+</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/4479092752459</id>
+      <title>Default Title</title>
+      <s:price currency="USD">19.99</s:price>
+      <s:sku>700293</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.olly.com/products/1832806285376</id>
+    <published>2018-12-14T09:00:11-08:00</published>
+    <updated>2018-12-14T09:00:11-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.olly.com/products/undeniable-beauty"/>
+    <title>Undeniable Beauty</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>OLLY</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0108/2900/4864/files/undeniable-beauty-main_a76c7ab6-4d52-4b12-992f-8c5637eaed37.jpg?v=1741722694"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>OLLY<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            13.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><span>Oh, you pretty thing. These delicious little beauties are packed with the perfect blend of active ingredients to help your hair, nails and you.*</span></p>
+<ul>
+<li><span>Grapefruit Glam Flavor with Other Natural Flavors</span></li>
+<li>A blend of Biotin, Vitamin C, E &amp; Keratin</li>
+<li>
+<meta charset="utf-8"> <span>NEW NEWS: We’ve made improvements to the taste and texture of our products—with the same OLLY goodness inside each gummy. Gummy color may vary per bottle. Colors sourced from fruit and vegetable juices. No synthetic colors or dyes!</span>
+</li>
+<li><span>Packaging may vary</span></li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Biotin</s:tag>
+    <s:tag>gummies</s:tag>
+    <s:tag>Keratin</s:tag>
+    <s:tag>Pouch</s:tag>
+    <s:tag>refill</s:tag>
+    <s:tag>Vitamin C</s:tag>
+    <s:variant>
+      <id>https://www.olly.com/products/1832806285376</id>
+      <title>Default Title</title>
+      <s:price currency="USD">13.99</s:price>
+      <s:sku>0507</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
