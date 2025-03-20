@@ -1977,11 +1977,11 @@ form .shop-btn.mobile-alt {
 }
 .MobileNav .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .MobileNav .action-nav {
@@ -2320,11 +2320,11 @@ form .shop-btn.mobile-alt {
 }
 .CartOverlay header .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .CartOverlay header .action-nav {
@@ -5800,11 +5800,11 @@ select.rebuy-select {
 }
 .Header .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .Header .cart-btn-wrap {
@@ -6461,10 +6461,10 @@ body#subscriptions .Header {
     top: 0;
   }
   .Header .branding a {
-    width: 71px;
-    height: 24px;
+    width: 100px;
+    height: 53px;
     background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-    margin-top: 22px;
+    margin-top: 1px;
     position: relative;
     transition: background 0.25s cubic-bezier(0.5, 0, 0.5, 1);
   }
