@@ -872,7 +872,7 @@ img.wp-smiley, img.emoji {
 }
 
 #lanyard_root * :is(.\!ketch-bg-\[--k-preference-tabs-purposes-footer-actionButton-background-color\]) {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
 }
 
 @media (min-width: 1024px) {
@@ -931,9 +931,9 @@ img {
 .shop-btn,
 .shopify-challenge__button.btn {
   background-color: transparent;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   border-radius: 18px;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 12px;
   font-weight: 700;
   padding: 0 14px;
@@ -980,12 +980,12 @@ img {
 
 .shop-btn:hover,
 .shopify-challenge__button.btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 
 .shop-btn.magenta {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 
@@ -1001,7 +1001,7 @@ img {
   margin-top: 6px;
 }
 .klaviyo-bis-trigger:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .shop-btn.white:hover {
@@ -1111,12 +1111,12 @@ img {
 .text-btn {
   font-size: 0.75rem;
   letter-spacing: 0.04em;
-  color: #af1685;
+  color: #c9137eff;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 
 .text-btn:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 
 .fixed-add-to-cart-btn {
@@ -1124,7 +1124,7 @@ img {
   bottom: 0;
   left: 0;
   width: 100%;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   height: 70px;
   line-height: 70px;
@@ -1157,7 +1157,7 @@ img {
   letter-spacing: 0.05em;
   text-indent: 1px;
   color: #fff !important;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 .zopim {
@@ -1578,7 +1578,7 @@ input[type=number]:focus,
 input[type=password]:focus,
 input[type=tel]:focus,
 textarea:focus {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 textarea {
@@ -1874,7 +1874,7 @@ label.faux-cb {
 
 .faux-radio.active .target:after,
 .faux-cb.active .target:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   transition: 0.5s background-color;
 }
 
@@ -1894,17 +1894,17 @@ form .shop-btn.mobile-alt {
   min-width: 122px;
   border-radius: 45px;
   font-size: 0.9375rem;
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
 }
 
 @media (min-width: 1024px) {
   form .shop-btn.mobile-alt {
     height: 36px;
     line-height: 32px;
-    border: 2px solid #af1685;
+    border: 2px solid #c9137eff;
     border-radius: 18px;
     font-size: 12px;
-    border: 2px solid #af1685;
+    border: 2px solid #c9137eff;
   }
 
   fieldset:last-child {
@@ -1935,11 +1935,11 @@ form .shop-btn.mobile-alt {
 }
 
 .faux-radio.active :after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   background-repeat: no-repeat;
   background-position: center;
   background-size: contain;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .ecomm .MobileNav .action-nav .cart-btn {
@@ -1977,11 +1977,11 @@ form .shop-btn.mobile-alt {
 }
 .MobileNav .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .MobileNav .action-nav {
@@ -2008,7 +2008,7 @@ form .shop-btn.mobile-alt {
   text-indent: -9999px;
 }
 .MobileNav .action-nav .cart-btn .count {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-size: 0.625rem;
   text-align: center;
@@ -2049,7 +2049,7 @@ form .shop-btn.mobile-alt {
   display: block;
 }
 .MobileNav .action-nav .close .st0 {
-  fill: #af1685 !important;
+  fill: #c9137eff !important;
   transition: fill 0.25s;
 }
 .MobileNav .main-menu {
@@ -2075,7 +2075,7 @@ form .shop-btn.mobile-alt {
   position: relative;
 }
 .MobileNav .main-menu .menu > li > a {
-  color: #af1685;
+  color: #c9137eff;
   display: block;
   font-size: 26px;
   margin-top: 18px;
@@ -2091,7 +2091,7 @@ form .shop-btn.mobile-alt {
   letter-spacing: 0.1em;
   line-height: 13.5px;
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 0 2px 0 3px;
   border-radius: 2px;
   display: block;
@@ -2110,14 +2110,14 @@ form .shop-btn.mobile-alt {
   transition: transform 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .MobileNav .main-menu .menu > li > svg path {
-  fill: #af1685;
+  fill: #c9137eff;
   transition: fill 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .MobileNav .main-menu .menu > li.active > svg {
   transform: rotate(0deg);
 }
 .MobileNav .main-menu .menu > li.active > svg path {
-  fill: #af1685;
+  fill: #c9137eff;
 }
 .MobileNav .main-menu .menu > li.active ul.sub-menu {
   opacity: 1;
@@ -2138,7 +2138,7 @@ form .shop-btn.mobile-alt {
   margin-bottom: 6px;
 }
 .MobileNav .mobile-footer-menu li a {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.125rem;
 }
 .MobileNav ul.sub-menu {
@@ -2174,7 +2174,7 @@ form .shop-btn.mobile-alt {
   height: 36px !important;
 }
 .MobileNav ul.sub-menu li a:hover, .MobileNav ul.sub-menu li a:focus, .MobileNav ul.sub-menu li a.hover, .MobileNav ul.sub-menu li a.active, .MobileNav ul.sub-menu li a.active:hover, .MobileNav ul.sub-menu li a.current_page_item, .MobileNav ul.sub-menu li a.current_menu_item {
-  color: #af1685;
+  color: #c9137eff;
 }
 .MobileNav .social-menu {
   pointer-events: none;
@@ -2312,7 +2312,7 @@ form .shop-btn.mobile-alt {
   border-bottom: 1px solid #d8d8d8;
 }
 .CartOverlay header h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
 }
 .CartOverlay header .branding {
@@ -2320,11 +2320,11 @@ form .shop-btn.mobile-alt {
 }
 .CartOverlay header .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .CartOverlay header .action-nav {
@@ -2351,7 +2351,7 @@ form .shop-btn.mobile-alt {
   text-indent: -9999px;
 }
 .CartOverlay header .action-nav .cart-btn .count {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-size: 0.625rem;
   text-align: center;
@@ -2385,11 +2385,11 @@ form .shop-btn.mobile-alt {
   display: block;
 }
 .CartOverlay header .action-nav .close .st0 {
-  fill: #af1685 !important;
+  fill: #c9137eff !important;
   transition: fill 0.25s;
 }
 .CartOverlay header .action-nav .close:hover .st0 {
-  fill: #7a2363 !important;
+  fill: #2d2d2dff !important;
 }
 .CartOverlay .cart-panel {
   height: 100%;
@@ -2498,12 +2498,12 @@ form .shop-btn.mobile-alt {
   font-size: 15px;
 }
 .CartOverlay .cart-panel .sub-lower .highlight {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
   vertical-align: top;
 }
 .CartOverlay .cart-panel a.learn-more {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
 }
 .CartOverlay .cart-panel .controls {
@@ -2522,12 +2522,12 @@ form .shop-btn.mobile-alt {
   width: 34px;
 }
 .CartOverlay .cart-panel .controls .help {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 14px;
   text-transform: uppercase;
 }
 .CartOverlay .cart-panel .controls .help:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .CartOverlay .cart-panel .item-list .product {
   display: flex;
@@ -2546,7 +2546,7 @@ form .shop-btn.mobile-alt {
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .CartOverlay .cart-panel .item-list .product .item-name a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel .item-list .product .cart-item-price {
   color: #424242;
@@ -2598,10 +2598,10 @@ form .shop-btn.mobile-alt {
   margin-top: 10px;
 }
 .CartOverlay .cart-panel .item-list .product .cart-item-delete a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel .item-list .product .subscription-holder span {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 15px;
 }
 .CartOverlay .cart-panel .item-list .product .actions-nav {
@@ -2629,7 +2629,7 @@ form .shop-btn.mobile-alt {
   transition: color 0.25s;
 }
 .CartOverlay .cart-panel .item-list .product .actions-nav span a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel .item-list .product .actions-nav .select-holder {
   width: 50px;
@@ -2651,7 +2651,7 @@ form .shop-btn.mobile-alt {
   margin-bottom: 0;
 }
 .CartOverlay .cart-panel .promo-holder label {
-  color: #af1685;
+  color: #c9137eff;
   display: block;
   font-size: 18px;
   margin-top: 20px;
@@ -2666,7 +2666,7 @@ form .shop-btn.mobile-alt {
   margin-right: 10px;
 }
 .CartOverlay .cart-panel .promo-holder .input-wrap .discount-submit {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   cursor: pointer;
   font-size: 14px;
@@ -2677,7 +2677,7 @@ form .shop-btn.mobile-alt {
   transition: background-color 0.25s;
 }
 .CartOverlay .cart-panel .promo-holder .input-wrap .discount-submit:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .CartOverlay .cart-panel .promo-holder .remove-discount {
   width: 200px;
@@ -2701,7 +2701,7 @@ form .shop-btn.mobile-alt {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .CartOverlay .cart-panel .promo-holder .remove-discount a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel .promo-holder.error .discount-code {
   border: 2px solid black;
@@ -2762,10 +2762,10 @@ form .shop-btn.mobile-alt {
 }
 .CartOverlay .cart-panel .free-shipping-notice .highlight {
   font-weight: 700;
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel .free-shipping-notice .lowlight {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CartOverlay .cart-panel.force-left section {
   transition: left 0s cubic-bezier(0.5, 0, 0.5, 1);
@@ -2820,7 +2820,7 @@ form .shop-btn.mobile-alt {
     padding: 0 70px;
   }
   .CartOverlay header .help {
-    color: #af1685;
+    color: #c9137eff;
     font-size: 14px;
     position: absolute;
     right: 70px;
@@ -2829,7 +2829,7 @@ form .shop-btn.mobile-alt {
     transition: color 0.25s;
   }
   .CartOverlay header .help:hover {
-    color: #7a2363;
+    color: #2d2d2dff;
   }
   .CartOverlay header .close {
     height: 20px;
@@ -2846,11 +2846,11 @@ form .shop-btn.mobile-alt {
     display: block;
   }
   .CartOverlay header .close .st0 {
-    fill: #af1685 !important;
+    fill: #c9137eff !important;
     transition: fill 0.25s;
   }
   .CartOverlay header .close:hover .st0 {
-    fill: #7a2363 !important;
+    fill: #2d2d2dff !important;
   }
   .CartOverlay .subscription header .close {
     right: 70px;
@@ -3048,7 +3048,7 @@ form .shop-btn.mobile-alt {
   position: relative;
 }
 .ProductGridItem .text-flag {
-  color: #af1685;
+  color: #c9137eff;
   text-transform: uppercase;
   font-size: 10px;
   font-weight: 500;
@@ -3122,7 +3122,7 @@ form .shop-btn.mobile-alt {
   border: none;
 }
 .ProductGridItem .message {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.71875rem;
   font-weight: 500;
   margin-top: -5px;
@@ -3132,7 +3132,7 @@ form .shop-btn.mobile-alt {
 }
 
 .ProductGridItem:hover .title-wrap .product-title {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .ProductGridItem.slick-slide {
@@ -3253,7 +3253,7 @@ form .shop-btn.mobile-alt {
     border-radius: 42px;
     font-size: 10px;
     line-height: 39px;
-    border: 2px solid #af1685;
+    border: 2px solid #c9137eff;
   }
 
   .ProductGridItem.wellness-boosts .image-holder, .ProductGridItem.kids .image-holder, .ProductGridItem.multi-vitamins .image-holder {
@@ -3386,7 +3386,7 @@ form .shop-btn.mobile-alt {
   border: none;
 }
 .ProductRelatedGridItem .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-radius: 18px;
   color: #fff;
   font-size: 9px;
@@ -3407,11 +3407,11 @@ form .shop-btn.mobile-alt {
   color: #fff;
 }
 .ProductRelatedGridItem .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .ProductRelatedGridItem .message {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.71875rem;
   font-weight: 400;
   margin-top: 14px;
@@ -3630,7 +3630,7 @@ form .shop-btn.mobile-alt {
   display: inline-block;
 }
 .FeaturedProduct .title-wrap .text-btn {
-  color: #af1685;
+  color: #c9137eff;
   text-transform: uppercase;
   position: relative;
   outline: none;
@@ -3638,7 +3638,7 @@ form .shop-btn.mobile-alt {
 .FeaturedProduct .title-wrap .text-btn:after {
   content: "";
   display: block;
-  background-color: #af1685;
+  background-color: #c9137eff;
   width: 100%;
   height: 1px;
   position: absolute;
@@ -3649,7 +3649,7 @@ form .shop-btn.mobile-alt {
   border: none;
 }
 .FeaturedProduct .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-radius: 18px;
   color: #fff;
   font-size: 9px;
@@ -3670,11 +3670,11 @@ form .shop-btn.mobile-alt {
   color: #fff;
 }
 .FeaturedProduct .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .FeaturedProduct .message {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.71875rem;
   font-weight: 400;
   margin-top: 14px;
@@ -3907,7 +3907,7 @@ form .shop-btn.mobile-alt {
   display: inline-block;
 }
 .Order .product .item-name .subscription-holder {
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 4px;
   font-size: 0.875rem;
   line-height: 1.2;
@@ -4024,7 +4024,7 @@ form .shop-btn.mobile-alt {
 }
 .SearchFormMobile input[type=text] {
   padding-left: 50px;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   background-color: #f8f9fa;
   background: url("search.svg") no-repeat 20px center;
@@ -4136,7 +4136,7 @@ form .shop-btn.mobile-alt {
   transform: rotate(-45deg);
 }
 .ModalOverlay.active .close:hover .line {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 @media (min-width: 1280px) {
@@ -4190,7 +4190,7 @@ form .shop-btn.mobile-alt {
   width: 100%;
   padding: 10px 20px;
   text-align: left;
-  background-color: #af1685;
+  background-color: #c9137eff;
   box-sizing: border-box;
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
@@ -4222,7 +4222,7 @@ form .shop-btn.mobile-alt {
   transition: fill 0.25s;
 }
 .SignupOverlay .modal-header .close:hover .st0, .FreeShipOverlay .modal-header .close:hover .st0 {
-  fill: #7a2363 !important;
+  fill: #2d2d2dff !important;
 }
 .SignupOverlay .modal-content, .FreeShipOverlay .modal-content {
   position: relative;
@@ -4236,7 +4236,7 @@ form .shop-btn.mobile-alt {
 }
 .SignupOverlay .modal-content h3.heading, .FreeShipOverlay .modal-content h3.heading {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .SignupOverlay .modal-content p, .FreeShipOverlay .modal-content p {
   margin-bottom: 20px !important;
@@ -4257,7 +4257,7 @@ form .shop-btn.mobile-alt {
 .SignupOverlay .modal-content .shop-btn.white:hover, .FreeShipOverlay .modal-content .shop-btn.white:hover {
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .SignupOverlay .modal-content .klaviyo_condensed_styling, .SignupOverlay .modal-content .klaviyo_styling, .FreeShipOverlay .modal-content .klaviyo_condensed_styling, .FreeShipOverlay .modal-content .klaviyo_styling {
   max-width: 310px;
@@ -4298,7 +4298,7 @@ form .shop-btn.mobile-alt {
   margin-bottom: 10px;
   font-size: 14px;
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .SignupOverlay .item-list li .item-name label, .FreeShipOverlay .item-list li .item-name label {
   clear: left;
@@ -4331,7 +4331,7 @@ form .shop-btn.mobile-alt {
   transition: color 0.25s;
 }
 .SignupOverlay .item-list li .item-name .subscription-holder a:hover, .FreeShipOverlay .item-list li .item-name .subscription-holder a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .SignupOverlay .item-list li .item-quantity, .FreeShipOverlay .item-list li .item-quantity {
   position: absolute;
@@ -4516,7 +4516,7 @@ form .shop-btn.mobile-alt {
 .modalwrap.sign-up .ModalOverlay .sign-up-form .btn:hover, .modalwrap.sign-up .ModalOverlay .sign-up-form .btn:focus,
 .modalwrap.oos .ModalOverlay .sign-up-form .btn:hover,
 .modalwrap.oos .ModalOverlay .sign-up-form .btn:focus {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   background-color: #fff !important;
   outline: none;
 }
@@ -4551,7 +4551,7 @@ form .shop-btn.mobile-alt {
 .modalwrap.sign-up .ModalOverlay,
 .modalwrap.oos .ModalOverlay,
 .modalwrap.free-ship .ModalOverlay {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .modalwrap.sign-up .ModalOverlay input,
 .modalwrap.sign-up .ModalOverlay form input[type=text],
@@ -4612,7 +4612,7 @@ form .shop-btn.mobile-alt {
   text-align: center;
 }
 .BasicForm h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   font-size: 1.875rem;
   text-align: center;
@@ -4674,11 +4674,11 @@ form .shop-btn.mobile-alt {
   outline: none !important;
 }
 .ProductInfo .ProductInfo [data-bv-show=rating_summary] svg, .ProductInfo .ProductInfo [data-bv-show=rating_summary] polygon {
-  fill: #af1685 !important;
+  fill: #c9137eff !important;
 }
 .ProductInfo [data-bv-show=rating_summary] .bv_main_container .bv_numReviews_text:hover,
 .ProductInfo [data-bv-show=rating_summary] .bv_main_container .bv_button_buttonMinimalist:hover {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   font-weight: 700 !important;
 }
 .ProductInfo [data-bv-show=rating_summary] svg, .ProductInfo [data-bv-show=rating_summary] polygon {
@@ -4702,7 +4702,7 @@ form .shop-btn.mobile-alt {
 }
 
 .bv-cv2-cleanslate .bv-content-search .bv-masthead .bv-masthead-product, .bv-cv2-cleanslate .bv-generic-submission .bv-masthead .bv-masthead-product {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
 }
 
 .bv-cv2-cleanslate .bv-core-container-104 .bv-action-bar {
@@ -4732,7 +4732,7 @@ form .shop-btn.mobile-alt {
 }
 
 .bv-masthead-product.bv-summary-bar {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
 }
 
 .bv-cv2-cleanslate .bv-summary-bar .bv-rating, .bv-cv2-cleanslate .bv-summary-bar .bv-rating-label,
@@ -4857,7 +4857,7 @@ div.bv_modal_component_container[data-bv-modal] {
   transition: border-color 0.25s linear;
 }
 .product-image-zoom .inner .image-holder .slideshow .slick-arrow:hover:after {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .product-image-zoom .inner .image-holder .slideshow .slick-prev {
   left: 18px;
@@ -4934,7 +4934,7 @@ div.bv_modal_component_container[data-bv-modal] {
   transition: transform 0.25s cubic-bezier(0.5, 0, 0.5, 1), opacity 0.25s linear;
 }
 .MobileShopNav svg path {
-  fill: #af1685;
+  fill: #c9137eff;
   transition: fill 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 
@@ -4943,7 +4943,7 @@ div.bv_modal_component_container[data-bv-modal] {
   transition: none;
 }
 .MobileShopNav.active ul li.active a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .MobileShopNav.active svg {
   opacity: 1;
@@ -4954,7 +4954,7 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 
 .ProductNotification {
-  background-color: #af1685;
+  background-color: #c9137eff;
   display: none;
   position: fixed;
   z-index: 202;
@@ -4996,7 +4996,7 @@ div.bv_modal_component_container[data-bv-modal] {
   transition: background-color 0.25s linear;
 }
 .ProductNotification a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .ProductNotification a:hover span.underline:after {
   background-color: #fff;
@@ -5043,11 +5043,11 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 #ccpa_signup input[type=radio]:focus,
 #ccpa_signup input[type=radio]:active {
-  border: 1px solid #af1685 !important;
+  border: 1px solid #c9137eff !important;
 }
 #ccpa_signup input[type=radio]:active,
 #ccpa_signup input[type=radio]:checked {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
 }
 #ccpa_signup select {
   color: #555555 !important;
@@ -5063,7 +5063,7 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 #ccpa_signup select:focus,
 #ccpa_signup select:active {
-  border: 1px solid #af1685 !important;
+  border: 1px solid #c9137eff !important;
 }
 #ccpa_signup .shop-btn {
   color: #fff;
@@ -5075,7 +5075,7 @@ div.bv_modal_component_container[data-bv-modal] {
   width: 100%;
   height: 50px;
   padding: 0 14px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   transition: color 0.25s;
   margin-bottom: 20px;
 }
@@ -5093,7 +5093,7 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 
 .AnnouncementBar {
-  background-color: #af1685;
+  background-color: #c9137eff;
   top: 0;
   width: 100%;
 }
@@ -5190,7 +5190,7 @@ div.bv_modal_component_container[data-bv-modal] {
 .nudge-offer.multi.carousel .js-next i.arrow:hover {
   border-width: 0 6px 6px 0;
   padding: 6px;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
 }
 
 .nudge-offer.multi.carousel .js-prev {
@@ -5216,11 +5216,11 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 
 .rebuy-cart__flyout-item-discount-message, [data-rebuy-component=discount-input] .rebuy-cart__flyout-item-discount-message {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 
 .rebuy-money.sale, .rebuy-widget .rebuy-money.sale, .rebuy-cart__flyout-subtotal-final-amount, .rebuy-reorder-cart-total-price-final-amount, [data-rebuy-component=cart-subtotal] .rebuy-cart__flyout-subtotal-final-amount, [data-rebuy-component=cart-subtotal] .rebuy-reorder-cart-total-price-final-amount {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 
 .rebuy-cart__progress-free-product {
@@ -5250,7 +5250,7 @@ div.bv_modal_component_container[data-bv-modal] {
 #rebuy-cart .rebuy-cart__flyout-title {
   font-size: 1.21875rem;
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   text-transform: none;
   text-align: left;
 }
@@ -5268,7 +5268,7 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 #rebuy-cart .rebuy-cart__flyout-shipping-bar-message b, #rebuy-cart .rebuy-cart__flyout-shipping-bar-message strong {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
 }
 #rebuy-cart .rebuy-cart__flyout-recommendations .rebuy-widget .rebuy-product-grid.small-style-line .rebuy-product-block .rebuy-product-info .rebuy-product-title {
   color: #4f4d4d;
@@ -5282,7 +5282,7 @@ div.bv_modal_component_container[data-bv-modal] {
   background-color: transparent;
 }
 #rebuy-cart .rebuy-cart__flyout-shipping-bar.has-free-shipping .rebuy-cart__flyout-shipping-bar-message b, #rebuy-cart .rebuy-cart__flyout-shipping-bar.has-free-shipping .rebuy-cart__flyout-shipping-bar-message strong {
-  color: #af1685;
+  color: #c9137eff;
 }
 #rebuy-cart .rebuy-cart__flyout-item-subscription {
   max-width: 260px;
@@ -5291,7 +5291,7 @@ div.bv_modal_component_container[data-bv-modal] {
 }
 #rebuy-cart .rebuy-cart__flyout-recommendations .rebuy-widget .primary-title {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.21875rem;
   margin-top: 20px;
 }
@@ -5301,14 +5301,14 @@ div.bv_modal_component_container[data-bv-modal] {
   color: #4f4d4d;
 }
 #rebuy-cart .rebuy-cart__flyout-item-price .rebuy-money.sale {
-  color: #af1685;
+  color: #c9137eff;
 }
 #rebuy-cart .rebuy-cart__flyout-item-price .rebuy-money.compare-at {
   color: #030303;
 }
 #rebuy-cart .rebuy-cart__flyout-empty-cart h4 {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.375rem;
 }
 #rebuy-cart .rebuy-cart__flyout-empty-cart p:last-child {
@@ -5383,7 +5383,7 @@ select.rebuy-select {
 .rebuy-widget.rebuy-carousel .flickity-button:focus,
 #rebuy-widget-120868 .flickity-button:focus {
   box-shadow: none;
-  color: #af1685;
+  color: #c9137eff;
 }
 .rebuy-widget.rebuy-carousel .rebuy-select,
 #rebuy-widget-120868 .rebuy-select {
@@ -5417,7 +5417,7 @@ select.rebuy-select {
   border-bottom: none;
 }
 .rebuy-widget.widget-layout-line h3 {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   font-size: 1.21875rem;
   font-weight: 400;
   text-align: left;
@@ -5558,7 +5558,7 @@ select.rebuy-select {
   .rebuy-widget.rebuy-carousel .flickity-button:focus,
 #rebuy-widget-120868 .flickity-button:focus {
     box-shadow: none;
-    color: #af1685;
+    color: #c9137eff;
   }
 
   .rebuy-widget.widget-type-dynamic-bundle .rebuy-widget-content,
@@ -5727,7 +5727,7 @@ select.rebuy-select {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 
 #rebuy-widget-59161 .rebuy-product-title, #rebuy-widget-59161 .rebuy-money, #rebuy-widget-59161 .primary-title {
@@ -5800,11 +5800,11 @@ select.rebuy-select {
 }
 .Header .branding a {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-  height: 25px;
-  margin: 15px 0 0 32px;
+  height: 53px;
+  margin: 1px 0 0 1px;
   position: relative;
   text-indent: -9999em;
-  width: 71px;
+  width: 100px;
   z-index: 10;
 }
 .Header .cart-btn-wrap {
@@ -5828,7 +5828,7 @@ select.rebuy-select {
   transition: fill 0.25s;
 }
 .Header .cart-btn .count {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-size: 0.625rem;
   text-align: center;
@@ -5845,7 +5845,7 @@ select.rebuy-select {
   transition: color 0.25s, background-color 0.25s;
 }
 .Header .cart-btn:hover svg path, .Header .cart-btn:hover svg .st0 {
-  fill: #af1685;
+  fill: #c9137eff;
 }
 .Header .nav-trigger {
   cursor: pointer;
@@ -5857,7 +5857,7 @@ select.rebuy-select {
   z-index: 10;
 }
 .Header .nav-trigger span {
-  background-color: #af1685;
+  background-color: #c9137eff;
   transition: background-color 0.25s;
   height: 2px;
   left: 0;
@@ -5935,14 +5935,14 @@ select.rebuy-select {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header .main-menu a:hover, .Header .main-menu a.hover, .Header .main-menu a:focus-visible {
-  color: #af1685;
-  outline-color: #af1685;
+  color: #c9137eff;
+  outline-color: #c9137eff;
 }
 .Header .main-menu .current_page_item a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header .main-menu .current_page_item a:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   bottom: -1px;
   content: "";
   display: block;
@@ -5969,8 +5969,8 @@ select.rebuy-select {
   font-size: 10px;
 }
 .Header .main-menu .sub-menu a:hover, .Header .main-menu .sub-menu a:focus-visible {
-  color: #af1685;
-  outline-color: #af1685;
+  color: #c9137eff;
+  outline-color: #c9137eff;
 }
 .Header .main-menu .sub-menu a:after {
   content: none;
@@ -6044,7 +6044,7 @@ select.rebuy-select {
   letter-spacing: 0.1em;
   line-height: 13.5px;
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 0 2px 0 3px;
   border-radius: 2px;
   display: block;
@@ -6095,30 +6095,30 @@ select.rebuy-select {
 }
 .Header .search input {
   border: none;
-  color: #af1685;
+  color: #c9137eff;
   height: 30px;
   padding: 0 50px;
   width: 100%;
   font-size: 1rem;
 }
 .Header .search input[type=text]::-webkit-input-placeholder {
-  color: #af1685;
+  color: #c9137eff;
   opacity: 0.9999;
   font-size: 1rem;
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header .search input[type=email]:-moz-placeholder {
-  color: #af1685;
+  color: #c9137eff;
   opacity: 0.9999;
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header .search input[type=email]::-moz-placeholder {
-  color: #af1685;
+  color: #c9137eff;
   opacity: 0.9999;
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header .search input[type=email]:-ms-input-placeholder {
-  color: #af1685;
+  color: #c9137eff;
   opacity: 0.9999;
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
@@ -6138,7 +6138,7 @@ select.rebuy-select {
 .Header .search input:-webkit-autofill:hover,
 .Header .search input:-webkit-autofill:focus,
 .Header .search input:-webkit-autofill:active {
-  -webkit-text-fill-color: #af1685 !important;
+  -webkit-text-fill-color: #c9137eff !important;
   -webkit-box-shadow: 0 0 0 30px #fff inset !important;
 }
 .Header .search-open {
@@ -6165,7 +6165,7 @@ select.rebuy-select {
 .Header .search-btn:hover svg path, .Header .search-btn:hover svg .st0,
 .Header .search-open .search-btn svg path,
 .Header .search-open .search-btn svg .st0 {
-  fill: #af1685;
+  fill: #c9137eff;
 }
 .Header .search-close {
   background: #fff url("close-modal.svg") no-repeat center center;
@@ -6228,8 +6228,8 @@ select.rebuy-select {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1), background-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header .action-nav a:hover, .Header .action-nav a:focus-visible {
-  color: #af1685;
-  outline-color: #af1685;
+  color: #c9137eff;
+  outline-color: #c9137eff;
 }
 .Header .action-nav li.cart {
   padding-left: 5px;
@@ -6240,7 +6240,7 @@ select.rebuy-select {
 .Header .action-nav .shop-btn {
   height: 28px;
   line-height: 24px;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
 }
 .Header .action-nav .shop-btn:hover {
@@ -6270,7 +6270,7 @@ select.rebuy-select {
   justify-content: space-evenly;
 }
 .Header #sub-menu .group .sub-group h3 a {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 14px;
   padding: 4px 0;
   font-weight: 500;
@@ -6279,14 +6279,14 @@ select.rebuy-select {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Header #sub-menu .group .sub-group h3 a:hover, .Header #sub-menu .group .sub-group h3 a:focus-visible {
-  color: #af1685;
-  outline-color: #af1685;
+  color: #c9137eff;
+  outline-color: #c9137eff;
 }
 .Header #sub-menu .group .sub-group h3 .current_page_item a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header #sub-menu .group .sub-group h3 .current_page_item a:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   bottom: -1px;
   content: "";
   display: block;
@@ -6302,13 +6302,13 @@ select.rebuy-select {
   line-height: 1.4;
 }
 .Header #sub-menu .group .sub-group .product-menu li a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header #sub-menu .group .sub-group .product-menu li .current_page_item a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header #sub-menu .group .sub-group .product-menu li .current_page_item a:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   bottom: -1px;
   content: "";
   display: block;
@@ -6341,13 +6341,13 @@ select.rebuy-select {
   padding: 4px 0;
 }
 .Header #sub-menu .collection-menu a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header #sub-menu .collection-menu .current_page_item a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Header #sub-menu .collection-menu .current_page_item a:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   bottom: -1px;
   content: "";
   display: block;
@@ -6433,17 +6433,17 @@ body#subscriptions .Header {
   background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
 }
 .scrolled .template-about .Header .nav-trigger span {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .scrolled .template-about .Header .cart-btn svg path, .scrolled .template-about .Header .cart-btn svg .st0 {
   fill: #555555;
 }
 .scrolled .template-about .Header .cart-btn .count {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .scrolled .template-about .Header .cart-btn:hover svg path, .scrolled .template-about .Header .cart-btn:hover svg .st0 {
-  fill: #af1685;
+  fill: #c9137eff;
 }
 
 @media (min-width: 1120px) {
@@ -6461,10 +6461,10 @@ body#subscriptions .Header {
     top: 0;
   }
   .Header .branding a {
-    width: 71px;
-    height: 24px;
+    width: 100px;
+    height: 53px;
     background: transparent url("logo-magenta5e1f.svg?v=2") no-repeat center center;
-    margin-top: 22px;
+    margin-top: 1px;
     position: relative;
     transition: background 0.25s cubic-bezier(0.5, 0, 0.5, 1);
   }
@@ -6588,7 +6588,7 @@ body#subscriptions .Header {
 }
 .AboutBlock > .inner > h2 {
   border-bottom: 1px solid #e3e3e3;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.6875rem;
   font-weight: 500;
   letter-spacing: 0.1em;
@@ -6600,14 +6600,14 @@ body#subscriptions .Header {
   z-index: 1;
 }
 .AboutBlock > .inner .intro-wrap > h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.0625rem;
   font-weight: 500;
   margin-bottom: 8px;
   padding: 0 48px;
 }
 .AboutBlock > .inner .intro-wrap p {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1rem;
   line-height: 1.65;
   padding: 0 48px 40px;
@@ -6733,7 +6733,7 @@ body#subscriptions .Header {
 @media (min-width: 1024px) {
   .AboutBlock > .inner > h2 {
     background-color: transparent !important;
-    border-bottom: 1px solid #af1685;
+    border-bottom: 1px solid #c9137eff;
     display: inline-block;
     font-size: 0.875rem;
     margin-left: 138px;
@@ -6784,7 +6784,7 @@ body#subscriptions .Header {
     bottom: -50px;
   }
   .AboutBlock .text.slideshow .slide-count {
-    color: #af1685;
+    color: #c9137eff;
     text-align: left;
     font-size: 1.125rem;
     bottom: -50px;
@@ -6994,7 +6994,7 @@ body#subscriptions .Header {
 .BuzzGrid .entry .entry-product {
   position: relative;
   width: 100%;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .BuzzGrid .entry .entry-product .img-wrap {
   height: 98px;
@@ -7106,7 +7106,7 @@ body#subscriptions .Header {
   max-width: 1280px;
 }
 .CategoryListing > .inner > h1, .CategoryListing > .inner > h2:not(.category-description) {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.1875rem;
   font-weight: 500;
   margin-top: 10px;
@@ -7114,10 +7114,10 @@ body#subscriptions .Header {
   margin-bottom: 2px;
 }
 .CategoryListing > .inner > h1 a, .CategoryListing > .inner > h2:not(.category-description) a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .CategoryListing > .inner > h1 .count, .CategoryListing > .inner > h2:not(.category-description) .count {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-size: 0.625rem;
   text-align: center;
@@ -7325,7 +7325,7 @@ body#subscriptions .Header {
   }
 }
 .Contact {
-  color: #af1685;
+  color: #c9137eff;
   padding-top: 20px;
   padding-bottom: 48px;
 }
@@ -7351,8 +7351,8 @@ body#subscriptions .Header {
   border-color: #555555;
 }
 .Contact .copyblock .inner p a:hover {
-  color: #af1685;
-  border-color: #af1685;
+  color: #c9137eff;
+  border-color: #c9137eff;
 }
 .Contact .copyblock .inner p strong {
   font-weight: 700;
@@ -7653,7 +7653,7 @@ body#subscriptions .Header {
   font-size: 2.35vw;
   padding: 0;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .HeroBlock.HeroImmunity a .text-holder {
@@ -7798,7 +7798,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.bve a .text-holder .shop-btn:hover {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border-color: #fff !important;
 }
 
@@ -7828,7 +7828,7 @@ body#subscriptions .Header {
 .HeroBlock.BTS23 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -7841,9 +7841,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.BTS23 a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.BTS23.Kids a .text-holder p {
   color: #555;
@@ -7860,9 +7860,9 @@ body#subscriptions .Header {
   letter-spacing: 0.04em;
 }
 .HeroBlock.BTS23.Quiz a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.Clearance2023 {
@@ -7929,7 +7929,7 @@ body#subscriptions .Header {
 .HeroBlock.Clearance2023 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -7942,9 +7942,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.Clearance2023 a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.Clearance2023.Clearance2023Collection:after {
   top: 45vw;
@@ -8015,7 +8015,7 @@ body#subscriptions .Header {
 .HeroBlock.HNYGoGetters a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8029,9 +8029,9 @@ body#subscriptions .Header {
 }
 .HeroBlock.HNYCareCoveter a .text-holder .shop-btn:hover,
 .HeroBlock.HNYGoGetters a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.HNYGoGetters {
@@ -8074,7 +8074,7 @@ body#subscriptions .Header {
 .HeroBlock.GivingTuesday a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8087,9 +8087,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.GivingTuesday a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.GivingTuesday.TodayOnly a .text-holder {
   top: 15.48611111vw;
@@ -8156,7 +8156,7 @@ body#subscriptions .Header {
 .HeroBlock.CyberWeek2023 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8169,9 +8169,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.CyberWeek2023 a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.BOGO2024 {
@@ -8204,7 +8204,7 @@ body#subscriptions .Header {
 .HeroBlock.BOGO2024 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8217,9 +8217,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.BOGO2024 a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.DreamingOfBetterSleep {
@@ -8252,7 +8252,7 @@ body#subscriptions .Header {
 .HeroBlock.DreamingOfBetterSleep a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8265,9 +8265,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.DreamingOfBetterSleep a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 #feminine-health-supplements .HeroBlock a .text-holder,
@@ -8332,7 +8332,7 @@ body#subscriptions .Header {
   text-transform: uppercase;
   margin-bottom: 2.994791667vw;
   line-height: 0.95;
-  color: #af1685;
+  color: #c9137eff;
   overflow: hidden;
   text-indent: -9999px;
   background-image: url("../../../files/mowo-title-hp-mobileeb30.svg?v=1694706528");
@@ -8351,7 +8351,7 @@ body#subscriptions .Header {
 .HeroBlock.mowo2023 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8364,9 +8364,9 @@ body#subscriptions .Header {
   width: 31.90104167vw;
 }
 .HeroBlock.mowo2023 a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.mowo2023quiz {
@@ -8406,7 +8406,7 @@ body#subscriptions .Header {
 .HeroBlock.mowo2023quiz a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8420,7 +8420,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.mowo2023quiz a .text-holder .shop-btn:hover {
   background-color: #FEC256;
-  color: #af1685;
+  color: #c9137eff;
   border-color: #FEC256;
 }
 
@@ -8465,7 +8465,7 @@ body#subscriptions .Header {
 .HeroBlock.sexual-health a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8478,9 +8478,9 @@ body#subscriptions .Header {
   width: 29.03645833vw;
 }
 .HeroBlock.sexual-health a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.sexual-health a .text-holder:before {
   content: "New";
@@ -8545,7 +8545,7 @@ body#subscriptions .Header {
 .HeroBlock.OvernightBeautyCollection a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -8559,9 +8559,9 @@ body#subscriptions .Header {
 }
 .HeroBlock.OvernightBeauty a .text-holder .shop-btn:hover,
 .HeroBlock.OvernightBeautyCollection a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.OvernightBeautyCollection {
@@ -8622,7 +8622,7 @@ body#subscriptions .Header {
 .HeroBlock.MaxStrengthSleep a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 2.083333333vw;
   min-width: 0;
   padding: 0;
@@ -8635,9 +8635,9 @@ body#subscriptions .Header {
   width: 22.13541667vw;
 }
 .HeroBlock.MaxStrengthSleep a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 #beauty-besties .HeroBlock a .text-holder h1 {
@@ -8873,7 +8873,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.HappyNewYear a .text-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 2.4vw;
   line-height: 6vw;
   height: 6.666vw;
@@ -8902,7 +8902,7 @@ body#subscriptions .Header {
   text-align: center;
   width: 13vw;
   height: 13vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-weight: 700;
   font-size: 3.5vw;
@@ -8921,7 +8921,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.shine-bright a .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 2.4vw;
   line-height: 6vw;
   height: 6.666vw;
@@ -8952,7 +8952,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.fuel-the-flow a .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 2.4vw;
   line-height: 6vw;
   height: 6.666vw;
@@ -9195,7 +9195,7 @@ body#subscriptions .Header {
 .HeroBlock.SummerSleep a .shop-btn,
 .HeroBlock.BrainBuddies a .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 2.73vw;
   line-height: 8vw;
   height: 8vw;
@@ -9415,7 +9415,7 @@ body#subscriptions .Header {
 .HeroBlock.SummerSleep a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   line-height: 9.2vw;
   height: 9.2vw;
@@ -9445,9 +9445,9 @@ body#subscriptions .Header {
 .HeroBlock.V-Day a .text-holder .shop-btn:hover,
 .HeroBlock.UltraJoints a .text-holder .shop-btn:hover,
 .HeroBlock.SummerSleep a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.FastDissolves a .text-holder {
@@ -9492,7 +9492,7 @@ body#subscriptions .Header {
   width: 28.97vw;
 }
 .HeroBlock.RealLife a .text-holder .shop-btn:hover {
-  color: #af1685;
+  color: #c9137eff;
   background-color: rgba(255, 255, 255, 0.6);
 }
 .HeroBlock.RealLife.jet-setting a .text-holder {
@@ -9502,10 +9502,10 @@ body#subscriptions .Header {
   top: 8.1vw;
 }
 .HeroBlock.RealLife.giving-tuesday a .text-holder h1 {
-  color: #af1685;
+  color: #c9137eff;
 }
 .HeroBlock.RealLife.giving-tuesday a .text-holder p {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
   font-size: 3.8vw;
 }
@@ -9513,13 +9513,13 @@ body#subscriptions .Header {
   font-weight: 800;
 }
 .HeroBlock.RealLife.giving-tuesday a .text-holder .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   width: 33vw;
   height: 8.8vw;
 }
 .HeroBlock.RealLife.giving-tuesday a .text-holder .shop-btn:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .HeroBlock.RealLife.giving-tuesday.shop a .text-holder {
   top: 8.1vw;
@@ -9558,10 +9558,10 @@ body#subscriptions .Header {
   width: 35.25vw;
   font-size: 2.994791667vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .HeroBlock.HNYQuiz a .text-holder .shop-btn:hover {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
 }
 
@@ -9639,7 +9639,7 @@ body#subscriptions .Header {
   width: 42.3vw;
 }
 .HeroBlock.JoyJar a .text-holder .shop-btn:hover {
-  color: #af1685;
+  color: #c9137eff;
   background-color: rgba(255, 255, 255, 0.6);
 }
 
@@ -9706,7 +9706,7 @@ body#subscriptions .Header {
 .HeroBlock.ESDailyEnergy a .text-holder .shop-btn:hover,
 .HeroBlock.V-Day a .text-holder .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 .HeroBlock.HNY.go-getters a .text-holder .shop-btn:hover {
@@ -9747,7 +9747,7 @@ body#subscriptions .Header {
   width: 50vw;
 }
 .HeroBlock.Quiz a .text-holder .shop-btn:hover {
-  color: #af1685;
+  color: #c9137eff;
   background-color: rgba(255, 255, 255, 0.6);
 }
 
@@ -9769,7 +9769,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.Sleep a .text-holder .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .HeroBlock.Sleep.Sleep03 {
   height: 155vw;
@@ -9817,7 +9817,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.adaptogens-home a .text-holder .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 .HeroBlock.ESDailyEnergy {
@@ -9842,7 +9842,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.ESDailyEnergy a .text-holder .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 .HeroBlock.V-Day {
@@ -9869,7 +9869,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.V-Day a .text-holder .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 
 .HeroBlock.fitness-collection {
@@ -10114,9 +10114,9 @@ body#subscriptions .Header {
   border: none;
 }
 .HeroBlock.BrainBuddies a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 @media (min-width: 768px) {
@@ -10227,9 +10227,9 @@ body#subscriptions .Header {
     font-size: 1.111111111vw;
   }
   .HeroBlock.BTS23.Quiz a .text-holder .shop-btn:hover {
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
-    border-color: #af1685;
+    border-color: #c9137eff;
   }
 
   .HeroBlock.Clearance2023 {
@@ -10895,7 +10895,7 @@ body#subscriptions .Header {
     padding: 0;
     background-color: #fff;
     border-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
   }
 
   .HeroBlock.HeroSoftgels a .text-holder {
@@ -12265,9 +12265,9 @@ body#subscriptions .Header {
     z-index: 10;
   }
   .HeroBlock.BrainBuddies a .text-holder .shop-btn:hover {
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
-    border-color: #af1685;
+    border-color: #c9137eff;
   }
 
   .HeroBlock.FutureIsFemale a .text-holder {
@@ -12615,7 +12615,7 @@ body#subscriptions .Header {
 .HeroBlock.BrainyChews a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12628,9 +12628,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.BrainyChews a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.BrainyChews a .text-holder:before {
   content: "";
@@ -12678,7 +12678,7 @@ body#subscriptions .Header {
 .HeroBlock.Lollies a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12692,9 +12692,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.Lollies a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .HeroBlock.Lollies a .text-holder:before {
   content: "";
@@ -12740,7 +12740,7 @@ body#subscriptions .Header {
 .HeroBlock.BrainyQuiz a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12753,9 +12753,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.BrainyQuiz a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.EarnPoints {
@@ -12832,7 +12832,7 @@ body#subscriptions .Header {
 .HeroBlock.EarnPoints a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12845,9 +12845,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.EarnPoints a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.SleepInHeat {
@@ -12880,7 +12880,7 @@ body#subscriptions .Header {
 .HeroBlock.SleepInHeat a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12893,9 +12893,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.SleepInHeat a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.bts-2024-hero,
@@ -12941,7 +12941,7 @@ body#subscriptions .Header {
 .HeroBlock.bts-2024-quiz-hero a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -12955,9 +12955,9 @@ body#subscriptions .Header {
 }
 .HeroBlock.bts-2024-hero a .text-holder .shop-btn:hover,
 .HeroBlock.bts-2024-quiz-hero a .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.bts-2024-hero.v2 {
@@ -13012,7 +13012,7 @@ body#subscriptions .Header {
 .HeroBlock.SeasonalQuiz2024 a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13028,7 +13028,7 @@ body#subscriptions .Header {
 .HeroBlock.seasonal-flavors-collection a .text-holder .shop-btn:hover,
 .HeroBlock.SeasonalQuiz2024 a .text-holder .shop-btn:hover {
   background-color: #DEAF60;
-  color: #7a2363;
+  color: #2d2d2dff;
   border-color: #DEAF60;
 }
 
@@ -13129,7 +13129,7 @@ body#subscriptions .Header {
 .HeroBlock.MellowMenopause a .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13144,7 +13144,7 @@ body#subscriptions .Header {
 .HeroBlock.WomensWellness a .text-holder .shop-btn:hover,
 .HeroBlock.MellowMenopause a .text-holder .shop-btn:hover {
   background-color: #FFC7EC;
-  color: #7a2363;
+  color: #2d2d2dff;
   border-color: #FFC7EC;
 }
 
@@ -13236,7 +13236,7 @@ body#subscriptions .Header {
 .HeroBlock.HNY2024 .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13249,9 +13249,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.HNY2024 .text-holder .shop-btn:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
   color: #fff;
-  border-color: #7a2363;
+  border-color: #2d2d2dff;
 }
 
 .HeroBlock.SleepWeek {
@@ -13273,7 +13273,7 @@ body#subscriptions .Header {
   font-weight: 800;
   margin-bottom: 1.994791667vw;
   line-height: 1.07;
-  color: #FF98CB;
+  color: #eca2c6ff;
 }
 .HeroBlock.SleepWeek .text-holder p {
   font-size: 3.645833333vw;
@@ -13284,7 +13284,7 @@ body#subscriptions .Header {
 .HeroBlock.SleepWeek .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13297,9 +13297,9 @@ body#subscriptions .Header {
   width: 29.7vw;
 }
 .HeroBlock.SleepWeek .text-holder .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 .HeroBlock.Rewards {
@@ -13344,7 +13344,7 @@ body#subscriptions .Header {
 .HeroBlock.Rewards .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13358,9 +13358,9 @@ body#subscriptions .Header {
   display: block;
 }
 .HeroBlock.Rewards .text-holder .shop-btn:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
   color: #fff;
-  border-color: #7a2363;
+  border-color: #2d2d2dff;
 }
 
 .HeroBlock.Quiz2025 {
@@ -13393,7 +13393,7 @@ body#subscriptions .Header {
 .HeroBlock.Quiz2025 .text-holder .shop-btn {
   pointer-events: all;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 3vw;
   min-width: 0;
   padding: 0;
@@ -13407,7 +13407,7 @@ body#subscriptions .Header {
 }
 .HeroBlock.Quiz2025 .text-holder .shop-btn:hover {
   background-color: #FFA8A9;
-  color: #7a2363;
+  color: #2d2d2dff;
   border-color: #FFA8A9;
 }
 
@@ -14046,7 +14046,7 @@ body#subscriptions .Header {
 
 .Hero:hover .title-holder .btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 
 body#collections .Hero {
@@ -14213,7 +14213,7 @@ body#collections .Hero .title-holder {
 }
 .HeroBasic.SleepSupport .text-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   height: 8vw;
   line-height: 7.2vw;
   font-size: 2.7vw;
@@ -14243,7 +14243,7 @@ body#collections .Hero .title-holder {
 }
 .HeroBasic.bts .text-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   height: 8vw;
   line-height: 7.2vw;
   font-size: 2.7vw;
@@ -14273,7 +14273,7 @@ body#collections .Hero .title-holder {
 }
 .HeroBasic.kids-chillax .text-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   height: 8vw;
   line-height: 7.2vw;
   font-size: 2.7vw;
@@ -14308,7 +14308,7 @@ body#collections .Hero .title-holder {
 }
 .HeroBasic.new-arrivals .text-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   height: 8vw;
   line-height: 7.2vw;
   font-size: 2.7vw;
@@ -14355,7 +14355,7 @@ body#collections .Hero .title-holder {
   }
   .HeroBasic.SleepSupport .text-holder .shop-btn {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     height: 2.98vw;
     line-height: 2.6vw;
     font-size: 1.1vw;
@@ -14387,7 +14387,7 @@ body#collections .Hero .title-holder {
   }
   .HeroBasic.bts .text-holder .shop-btn {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     height: 2.98vw;
     line-height: 2.6vw;
     font-size: 1.1vw;
@@ -14420,7 +14420,7 @@ body#collections .Hero .title-holder {
   }
   .HeroBasic.kids-chillax .text-holder .shop-btn {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     height: 2.98vw;
     line-height: 2.6vw;
     font-size: 1.1vw;
@@ -14450,7 +14450,7 @@ body#collections .Hero .title-holder {
   }
   .HeroBasic.new-arrivals .text-holder .shop-btn {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     height: 2.98vw;
     line-height: 2.6vw;
     font-size: 1.1vw;
@@ -14860,7 +14860,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .HeroImage #hero-image:hover .title-holder .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .loader {
@@ -14893,7 +14893,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 
 #collections .HeroImage .mario #hero-image {
-  background-color: #af1685;
+  background-color: #c9137eff;
   background-size: 375px auto;
   background-position: center 200px;
 }
@@ -14977,7 +14977,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   }
 
   #collections .HeroImage .mario #hero-image {
-    background-color: #af1685;
+    background-color: #c9137eff;
     background-size: 52% auto;
     background-position: 7% center;
   }
@@ -15048,7 +15048,7 @@ body#collections .HeroSlideshow .slideshow .slide {
     margin-top: 0;
   }
   body#collections .HeroImage .mario #hero-image {
-    background-color: #af1685;
+    background-color: #c9137eff;
     background-size: 580px auto;
     background-position: right 48vw center;
   }
@@ -15262,7 +15262,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   padding-top: 6px;
 }
 .HomePromoBanner .click-wrap {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   padding: 6px 16px 14px 0;
   display: block;
   width: 100%;
@@ -15270,7 +15270,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   cursor: pointer;
 }
 .HomePromoBanner .click-wrap:hover .image-with-text__text .shop-btn {
-  color: #af1685;
+  color: #c9137eff;
   background-color: #fff;
 }
 .HomePromoBanner .inner {
@@ -15479,7 +15479,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: color 0.25s linear;
 }
 .InstagramSlideshow .text-wrap p a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .InstagramSlideshow .feed-wrap {
   padding: 0;
@@ -15537,7 +15537,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   }
 }
 .LegalContent * {
-  color: #af1685;
+  color: #c9137eff;
 }
 .LegalContent h3 {
   font-size: 18px;
@@ -15616,7 +15616,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin: 0 auto;
 }
 .PageHeader h1, .PageHeader h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
   line-height: 1.44;
   margin-bottom: 8px;
@@ -15625,7 +15625,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   display: none;
 }
 .PageHeader p {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.125rem;
   line-height: 1.44;
 }
@@ -15633,13 +15633,13 @@ body#collections .HeroSlideshow .slideshow .slide {
   display: none;
 }
 .PageHeader p a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   transition: border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
   font-weight: 500;
 }
 .PageHeader p a:hover {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .PageHeader p.sml {
   font-size: 0.75rem;
@@ -15690,7 +15690,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin: 0 auto;
 }
 .PageHeaderSplit h1, .PageHeaderSplit h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
   line-height: 1.44;
   margin-bottom: 8px;
@@ -15699,7 +15699,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   display: none;
 }
 .PageHeaderSplit p {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.125rem;
   line-height: 1.44;
 }
@@ -15707,14 +15707,14 @@ body#collections .HeroSlideshow .slideshow .slide {
   display: none;
 }
 .PageHeaderSplit p a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   transition: border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
   font-weight: 500;
   vertical-align: top;
 }
 .PageHeaderSplit p a:hover {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .PageHeaderSplit p a span, .PageHeaderSplit p a strong {
   font-weight: 500;
@@ -15765,7 +15765,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   padding: 22px 0 105px;
 }
 .FaqContent * {
-  color: #af1685;
+  color: #c9137eff;
 }
 .FaqContent h2 {
   font-weight: 400;
@@ -15832,7 +15832,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   position: relative;
 }
 .template-faq .SubHeader h2, .template-sitemap .SubHeader h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
 }
 .template-faq .SubHeader:after, .template-sitemap .SubHeader:after {
@@ -15880,7 +15880,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   }
 }
 .Footer {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   clear: both;
   position: relative;
@@ -16075,7 +16075,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .Footer .primary input:-webkit-autofill:focus,
 .Footer .primary input:-webkit-autofill:active {
   -webkit-text-fill-color: #fff !important;
-  -webkit-box-shadow: 0 0 0 30px #af1685 inset !important;
+  -webkit-box-shadow: 0 0 0 30px #c9137eff inset !important;
 }
 .Footer .primary .iXRngU.iXRngU {
   font-family: "Gotham A", "Gotham B", sans-serif !important;
@@ -16122,7 +16122,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .Footer .primary .Button__FormStyledButton-p2mbjt-0:hover .st0,
 .Footer .primary .btn:hover .st0 {
-  fill: #7a2363;
+  fill: #2d2d2dff;
 }
 .Footer .primary .completed {
   display: none;
@@ -16212,7 +16212,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   color: #fff;
 }
 .Footer .footer-menu ul li a:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .Footer .social-menu ul {
   display: grid;
@@ -16236,10 +16236,10 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: fill 0.25s;
 }
 .Footer .social-menu a:hover svg path, .Footer .social-menu a:hover svg rect {
-  fill: #7a2363 !important;
+  fill: #2d2d2dff !important;
 }
 .Footer .social-menu a:hover .st0 {
-  fill: #7a2363;
+  fill: #2d2d2dff;
 }
 .Footer .instagram {
   grid-column: 1/2;
@@ -16277,13 +16277,13 @@ body#collections .HeroSlideshow .slideshow .slide {
   width: 43px;
 }
 .Footer .secondary {
-  background-color: #7a2363;
-  color: #ECD0E3;
+  background-color: #2d2d2dff;
+  color: #eca2c6ff;
   line-height: 1.4;
   padding-bottom: 15px;
 }
 .Footer .secondary a {
-  color: #ECD0E3;
+  color: #eca2c6ff;
   padding: 8px 0;
 }
 .Footer .secondary a:hover {
@@ -16317,7 +16317,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin: 0 28px;
   padding: 15px 28px;
   text-align: center;
-  border: 1px solid #ECD0E3;
+  border: 1px solid #eca2c6ff;
 }
 .Footer .secondary .unilever-disclaimer {
   margin: 0 28px;
@@ -16566,7 +16566,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   vertical-align: top;
 }
 .InsideTheProductIntro .left {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .InsideTheProductIntro .right {
   display: none;
@@ -16606,7 +16606,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .InsideTheProductIntro .right .itp-header .title-wrap h2 {
   font-size: 0.75rem;
   line-height: 1.3;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   display: inline-block;
   vertical-align: top;
@@ -16618,7 +16618,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-top: 7px;
   margin-left: 10px;
   padding-bottom: 0px;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
   display: inline-block;
   letter-spacing: 0.1em;
@@ -16692,7 +16692,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.6;
 }
 .InsideTheProductIntro .corporate-responsibility p {
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 0;
   font-size: 1.125rem;
 }
@@ -16705,7 +16705,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .InsideTheProductIntro .corporate-responsibility ul li {
   margin-bottom: 0;
-  color: #af1685;
+  color: #c9137eff;
 }
 .InsideTheProductIntro .corporate-responsibility ul li:before {
   content: "-";
@@ -16829,7 +16829,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.3;
   margin-bottom: 8px;
   margin-bottom: 30px;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
 }
 .InsideTheProductSection .title-wrap h3 {
@@ -16837,9 +16837,9 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-top: 2px;
   margin-bottom: 25px;
   padding-bottom: 1px;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
-  border-bottom: 0.5px solid #af1685;
+  border-bottom: 0.5px solid #c9137eff;
   display: inline-block;
   letter-spacing: 0.1em;
 }
@@ -16848,11 +16848,11 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.75;
   margin-bottom: 1em;
   max-width: 730px;
-  color: #af1685;
+  color: #c9137eff;
 }
 .InsideTheProductSection .text-wrap p a {
   text-decoration: underline;
-  color: #af1685;
+  color: #c9137eff;
 }
 .InsideTheProductSection .text-wrap p a:focus {
   outline: none;
@@ -16966,23 +16966,23 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 2em;
 }
 .RecipeContent article .wysiwyg a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   transition: border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .RecipeContent article .wysiwyg a:hover {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .RecipeContent article .wysiwyg h5 a, .RecipeContent article .wysiwyg .cta {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.875rem;
   font-weight: 400;
   border-bottom: 1px solid transparent;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1), border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .RecipeContent article .wysiwyg h5 a:hover, .RecipeContent article .wysiwyg .cta:hover {
-  color: #af1685;
-  border-color: #af1685;
+  color: #c9137eff;
+  border-color: #c9137eff;
 }
 .RecipeContent article .cta {
   color: #4f4d4d;
@@ -17148,7 +17148,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .RecipeGrid .entry:hover .entry-content p {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 @media (min-width: 768px) {
@@ -17231,7 +17231,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: fill 0.25s;
 }
 .RecipeSidebar a.at-icon-wrapper.at-share-btn:hover svg path {
-  fill: #af1685 !important;
+  fill: #c9137eff !important;
 }
 .RecipeSidebar a#wp_rp_edit_related_posts {
   background-color: transparent !important;
@@ -17262,7 +17262,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .RecipeSidebar .widget_categories .menu a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .RecipeSidebar .newsletter {
   overflow: hidden;
@@ -17349,7 +17349,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   font-weight: 400 !important;
 }
 .RecipeSidebar .yuzo_widget_wrap .yuzo-list:hover .link-list {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .RecipeSidebar .yuzo_widget_wrap .yuzo_related_post_widget .relatedthumb {
   padding: 0 !important;
@@ -17405,7 +17405,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .SearchResultsEmpty h1 {
   font-size: 1.875rem;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   margin-bottom: 30px;
 }
@@ -17433,14 +17433,14 @@ body#collections .HeroSlideshow .slideshow .slide {
 .SidebarMenu ul li a {
   font-size: 20px;
   margin-bottom: 10px;
-  color: #af1685;
+  color: #c9137eff;
   cursor: pointer;
   border-bottom: 1px solid transparent;
   line-height: 1.4;
   transition: border-bottom-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .SidebarMenu ul li.active a {
-  border-bottom-color: #af1685;
+  border-bottom-color: #c9137eff;
 }
 
 @media (min-width: 1024px) {
@@ -17452,7 +17452,7 @@ body#collections .HeroSlideshow .slideshow .slide {
     margin-bottom: 30px;
   }
   .SidebarMenu ul li.active a {
-    border-bottom: 1px solid #af1685;
+    border-bottom: 1px solid #c9137eff;
   }
 }
 @media (min-width: 1440px) {
@@ -17503,7 +17503,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   width: 100%;
 }
 .StoreLocator li:hover .overlay {
-  background-color: #af1685;
+  background-color: #c9137eff;
   opacity: 0.85;
 }
 .StoreLocator .separator a {
@@ -17557,7 +17557,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   font-size: 1.125rem;
   font-weight: 400;
   margin-bottom: 28px;
-  color: #af1685;
+  color: #c9137eff;
 }
 .CollectionList .inner .grid {
   display: flex;
@@ -17591,13 +17591,13 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 
 .collection-list-item:hover, .collection-list-item:focus-visible {
-  outline-color: #af1685;
+  outline-color: #c9137eff;
 }
 .collection-list-item:hover .collection-list__image img, .collection-list-item:focus-visible .collection-list__image img {
   transform: scale(1.1);
 }
 .collection-list-item:hover p, .collection-list-item:focus-visible p {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 @media (min-width: 768px) {
@@ -17646,7 +17646,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   font-size: 1.125rem;
   font-weight: 400;
   margin-bottom: 28px;
-  color: #af1685;
+  color: #c9137eff;
   padding: 0 28px;
 }
 .FeaturedCollection .inner > a {
@@ -17833,7 +17833,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: border-color 0.25s linear;
 }
 .ProductInfo .image-holder .slideshow .slick-arrow:hover:after {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .ProductInfo .image-holder .slideshow .slick-prev {
   left: -10px;
@@ -17893,7 +17893,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   box-shadow: none !important;
 }
 .ProductInfo .details .save-flag {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
   font-size: 0.875rem;
   vertical-align: middle;
@@ -17918,7 +17918,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.666;
 }
 .ProductInfo .details .text-info .text-flag {
-  color: #af1685;
+  color: #c9137eff;
   text-transform: uppercase;
   font-size: 10px;
   font-weight: 500;
@@ -18042,7 +18042,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   padding: 4px;
 }
 .ProductInfo .details .sizes-block-wrap .product-sizes .radio-item span.best-value {
-  color: #af1685;
+  color: #c9137eff;
   text-transform: uppercase;
   position: absolute;
   top: -20px;
@@ -18062,7 +18062,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 4px;
 }
 .ProductInfo .details .sizes-block-wrap .product-sizes .radio-item input:checked + label:before {
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
 }
 .ProductInfo .details .sizes-block-wrap .product-sizes label {
   text-align: left;
@@ -18150,7 +18150,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .ProductInfo .details .sizes-block .chosen-container .chosen-results li.highlighted {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .ProductInfo .details .subscriptions {
   margin-bottom: 30px;
@@ -18171,7 +18171,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   left: 0;
 }
 .ProductInfo .details .subscriptions .quarterly .rate-cost {
-  color: #af1685;
+  color: #c9137eff;
 }
 .ProductInfo .details .price-block {
   margin-bottom: 20px;
@@ -18204,14 +18204,14 @@ body#collections .HeroSlideshow .slideshow .slide {
   width: 100%;
   height: 50px;
   padding: 0 14px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   transition: color 0.25s;
 }
 .ProductInfo .details .price-block .shop-btn:hover {
   color: rgba(255, 255, 255, 0.6) !important;
 }
 .ProductInfo .details .price-block .message, .ProductInfo .details .price-block .message-discontinued {
-  color: #af1685;
+  color: #c9137eff;
   display: inline-block;
   font-weight: 700;
   font-size: 0.875rem;
@@ -18253,10 +18253,10 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-left: 4px;
 }
 .ProductInfo .details .purchase-external-block .btn.amazon-btn {
-  color: #af1685;
+  color: #c9137eff;
   background-color: transparent;
   border-radius: 50px;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   font-size: 1rem;
   font-weight: 700;
   letter-spacing: 0.1em;
@@ -18283,7 +18283,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-left: 4px;
 }
 .ProductInfo .details .purchase-external-block .btn:hover {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .ProductInfo .details .subscription-notice {
   font-size: 1rem;
@@ -18323,7 +18323,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   width: 100%;
   height: 50px;
   padding: 0 14px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   transition: color 0.25s;
 }
 .ProductInfo .details .bis .swym-button:hover {
@@ -18335,8 +18335,8 @@ body#collections .HeroSlideshow .slideshow .slide {
   position: relative;
   margin-top: 10px;
   background: #fff;
-  border: 1px solid #af1685;
-  color: #af1685;
+  border: 1px solid #c9137eff;
+  color: #c9137eff;
   text-align: center;
 }
 .ProductInfo .details .bis .swym-success {
@@ -18345,8 +18345,8 @@ body#collections .HeroSlideshow .slideshow .slide {
   position: relative;
   margin-top: 10px;
   background: #fff;
-  border: 1px solid #af1685;
-  color: #af1685;
+  border: 1px solid #c9137eff;
+  color: #c9137eff;
   text-align: center;
 }
 .ProductInfo .details.secondary-active .secondary {
@@ -18407,8 +18407,8 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.5;
 }
 .ProductInfo .tabs li.current a {
-  color: #af1685;
-  border-bottom-color: #af1685;
+  color: #c9137eff;
+  border-bottom-color: #c9137eff;
 }
 .ProductInfo .tab-content-wrap {
   margin-top: 30px;
@@ -18438,7 +18438,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 10px;
 }
 .product-page .ProductInfo .details .free-ship-countdown p strong {
-  color: #af1685;
+  color: #c9137eff;
 }
 .product-page .ProductInfo .details .free-ship-countdown .countdown {
   max-width: 240px;
@@ -18455,18 +18455,18 @@ body#collections .HeroSlideshow .slideshow .slide {
   font-size: 24px;
   font-weight: 500;
   margin-bottom: 0;
-  color: #af1685;
+  color: #c9137eff;
 }
 .product-page .ProductInfo .details .free-ship-countdown .countdown .item span {
   font-size: 14px;
-  color: #af1685;
+  color: #c9137eff;
 }
 .product-page .ProductInfo .details .free-ship-countdown .countdown .item:after {
   content: ":";
   font-size: 24px;
   font-weight: 500;
   position: absolute;
-  color: #af1685;
+  color: #c9137eff;
   right: -3px;
   top: 0;
 }
@@ -18489,7 +18489,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .template-multi-product-landing .ProductInfo .tab-title-wrap h4,
 .template-bundle .ProductInfo .tab-title-wrap h4 {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   text-align: center;
   margin: 19px 0 0px;
 }
@@ -18800,7 +18800,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   text-align: left;
   width: 100%;
   max-width: 600px;
-  color: #af1685;
+  color: #c9137eff;
   padding: 0 22px 0;
   margin: 0 0 30px;
 }
@@ -19061,7 +19061,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   padding: 0;
 }
 .HowItWorks .copyblock {
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 37px 39px 39px;
   margin: 0 auto;
   position: relative;
@@ -19094,7 +19094,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .HowItWorks .details-wrap h2, .HowItWorks .details-wrap h3 {
   font-weight: 400;
   font-size: 1.25rem;
-  color: #af1685;
+  color: #c9137eff;
   line-height: 1.2;
 }
 .HowItWorks .details-wrap h2.description, .HowItWorks .details-wrap h3.description {
@@ -19129,7 +19129,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 12px;
 }
 .HowItWorks .details-wrap .benefits li h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.8125rem;
   line-height: 1.36;
   margin-bottom: 6px;
@@ -19150,8 +19150,8 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .HowItWorks .details-wrap .benefits li.benefits-description {
   width: 100%;
-  border-top: 1px solid #af1685;
-  color: #af1685;
+  border-top: 1px solid #c9137eff;
+  color: #c9137eff;
   font-size: 1rem;
   margin-left: 0;
   margin-right: 0;
@@ -19201,7 +19201,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-right: 12px;
 }
 .HowItWorks .details-wrap .vitamins li h3 {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   display: inline-block;
   width: 35px;
@@ -19229,8 +19229,8 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .HowItWorks .details-wrap .vitamins li.benefits-description {
   width: 100%;
-  border-top: 1px solid #af1685;
-  color: #af1685;
+  border-top: 1px solid #c9137eff;
+  color: #c9137eff;
   font-size: 1rem;
   margin-left: 0;
   margin-right: 0;
@@ -19267,8 +19267,8 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .HowItWorks .details-wrap .ingredients li.benefits-description, .HowItWorks .details-wrap .make-a-smoothie li.benefits-description {
   width: 100%;
-  border-top: 1px solid #af1685;
-  color: #af1685;
+  border-top: 1px solid #c9137eff;
+  color: #c9137eff;
   font-size: 1rem;
   margin-left: 0;
   margin-right: 0;
@@ -19306,7 +19306,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   width: 100%;
 }
 .HowItWorks .details-wrap .flavor h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.8125rem;
   line-height: 1.36;
   margin-bottom: 6px;
@@ -19336,7 +19336,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   vertical-align: middle;
 }
 .HowItWorks .details-wrap .nsf-certification h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.8125rem;
   line-height: 1.36;
   margin-bottom: 8px;
@@ -19376,7 +19376,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 12px;
 }
 .HowItWorks .details-wrap .mix-a-drink li h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.8125rem;
   line-height: 1.36;
   margin-bottom: 6px;
@@ -19394,8 +19394,8 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .HowItWorks .details-wrap .mix-a-drink li.benefits-description {
   width: 100%;
-  border-top: 1px solid #af1685;
-  color: #af1685;
+  border-top: 1px solid #c9137eff;
+  color: #c9137eff;
   font-size: 1rem;
   margin-left: 0;
   margin-right: 0;
@@ -19581,7 +19581,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 
 .mario .HowItWorks .copyblock {
   height: auto;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .mario .HowItWorks .copyblock .intro-inner-wrap {
   width: 100%;
@@ -19774,7 +19774,7 @@ body#collections .HeroSlideshow .slideshow .slide {
     width: 28%;
   }
   .HowItWorks .details-wrap .nsf-certification h3 {
-    color: #af1685;
+    color: #c9137eff;
     font-size: 0.9375rem;
     margin-bottom: 10px;
   }
@@ -20135,15 +20135,15 @@ body#collections .HeroSlideshow .slideshow .slide {
   pointer-events: none;
 }
 .MixItUp article .wysiwyg h5 a, .MixItUp article .cta {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.875rem;
   font-weight: 400;
   border-bottom: 1px solid transparent;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1), border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .MixItUp article .wysiwyg h5 a:hover, .MixItUp article .cta:hover {
-  color: #af1685;
-  border-color: #af1685;
+  color: #c9137eff;
+  border-color: #c9137eff;
 }
 
 @media (min-width: 1024px) {
@@ -20236,7 +20236,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1.3;
 }
 .ProductPosts ul li .description a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .ProductPosts ul li .description .handle {
   position: absolute;
@@ -20246,7 +20246,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   line-height: 1;
 }
 .ProductPosts ul li .description .handle:hover {
-  border-bottom-color: #af1685;
+  border-bottom-color: #c9137eff;
 }
 .ProductPosts ul li:last-child {
   margin-bottom: 0;
@@ -20303,7 +20303,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   max-width: 580px;
 }
 .MadeWithCare .inner h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 30px;
@@ -20333,7 +20333,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .MadeWithCare .inner .benefits .item .text-wrap h3 {
   font-size: 18px;
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 10px;
   line-height: 1.25;
 }
@@ -20396,7 +20396,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin: 0 auto;
 }
 .CuratedReviews .inner h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 20px;
@@ -20419,7 +20419,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .CuratedReviews .inner .reviews .item .text-wrap h3 {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 24px;
   margin: 20px 0;
 }
@@ -20433,7 +20433,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin-bottom: 16px;
 }
 .CuratedReviews .inner .reviews .item .text-wrap .name {
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 0px;
 }
 .CuratedReviews .inner .review-buttons {
@@ -20443,11 +20443,11 @@ body#collections .HeroSlideshow .slideshow .slide {
 .CuratedReviews .inner .review-buttons .btn {
   min-width: 170px;
   margin: 0 10px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .CuratedReviews .inner .review-buttons .btn.war {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .CuratedReviews .inner .reviews-wrap {
@@ -20463,7 +20463,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   display: none !important;
 }
 .CuratedReviews .inner .reviews-wrap .bv-action-bar-header {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   font-weight: 400 !important;
   font-size: 2rem !important;
 }
@@ -20544,7 +20544,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   margin: 0 auto;
 }
 .ProductLogos .inner h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 24px;
   font-weight: 400;
   margin-bottom: 30px;
@@ -20676,7 +20676,7 @@ body#collections .HeroSlideshow .slideshow .slide {
 .ProductDerisk .inner .items .item h3 {
   margin: 0 0 10px;
   font-size: 1.25rem;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
 }
 .ProductDerisk .inner .items .item p {
@@ -20701,10 +20701,10 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: background-color 0.25s linear;
 }
 .ProductDerisk .inner .items .item p a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .ProductDerisk .inner .items .item p a:hover:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .ProductDerisk .inner .items .item:after {
   content: "";
@@ -20780,19 +20780,19 @@ body#collections .HeroSlideshow .slideshow .slide {
 }
 .ImageWithText .inner .image-with-text__text h2 {
   font-size: 1.5rem;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   margin: 0 0 14px;
   line-height: 1.25;
 }
 .ImageWithText .inner .image-with-text__text p {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.125rem;
   line-height: 1.56;
   margin-bottom: 28px;
 }
 .ImageWithText .inner .image-with-text__text a {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.625rem;
   font-weight: 500;
   letter-spacing: 0.1em;
@@ -20806,7 +20806,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   top: 1px;
 }
 .ImageWithText .inner .image-with-text__text a svg .st0 {
-  fill: #af1685;
+  fill: #c9137eff;
 }
 
 @media (min-width: 1024px) {
@@ -20858,7 +20858,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   padding: 52px 0 0;
 }
 #ReCharge a {
-  color: #af1685;
+  color: #c9137eff;
 }
 #ReCharge strong {
   font-weight: 500;
@@ -20881,11 +20881,11 @@ body#collections .HeroSlideshow .slideshow .slide {
   color: #424242;
 }
 #ReCharge table td a {
-  color: #af1685;
+  color: #c9137eff;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 #ReCharge table td a:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 #ReCharge .recharge .rc_layout__container {
   max-width: 1324px;
@@ -20898,9 +20898,9 @@ body#collections .HeroSlideshow .slideshow .slide {
 #ReCharge .rc_toggler__block .button,
 #ReCharge #rc_subscriptions__items__cancel a {
   background-color: transparent;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   border-radius: 18px;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 12px;
   font-weight: 700;
   padding: 0 10px;
@@ -20924,7 +20924,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   min-width: 122px;
 }
 #ReCharge .recharge .rc_button:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 #ReCharge .rc_sidebar__menu .rc_menu__item {
@@ -20937,10 +20937,10 @@ body#collections .HeroSlideshow .slideshow .slide {
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 #ReCharge .rc_sidebar__menu .rc_menu__item a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 #ReCharge .rc_sidebar__menu .rc_menu__item.active a {
-  color: #af1685;
+  color: #c9137eff;
 }
 #ReCharge .rc_layout__content {
   background-color: #fff;
@@ -20974,7 +20974,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   background-size: 20px 20px;
 }
 #ReCharge .rc_layout__content select:focus {
-  border: 1px solid #af1685 !important;
+  border: 1px solid #c9137eff !important;
 }
 #ReCharge .rc_layout__content .rc__subscriptions__subscription__address {
   font-weight: 400;
@@ -21296,13 +21296,13 @@ body#collections .HeroSlideshow .slideshow .slide {
   text-decoration: underline;
 }
 .PromoBar a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .PromoBar a:hover span.underline {
-  color: #af1685;
+  color: #c9137eff;
 }
 .PromoBar a:hover span.underline:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .PromoBar .inner > p, .PromoBar .inner > a {
   font-size: 12px;
@@ -21332,7 +21332,7 @@ body#collections .HeroSlideshow .slideshow .slide {
   font-size: 1.125rem;
   font-weight: 400;
   margin-bottom: 0;
-  color: #af1685;
+  color: #c9137eff;
   padding: 0 48px;
   margin-bottom: 20px;
 }
@@ -21559,7 +21559,7 @@ gopuff-product-availability p {
 }
 
 .gp-field__input:focus {
-  box-shadow: 0 0 0 calc(1px + var(--gp-inputs-border-width)) #af1685 !important;
+  box-shadow: 0 0 0 calc(1px + var(--gp-inputs-border-width)) #c9137eff !important;
 }
 
 #shopify-block-powered_by_gopuff_product_availability_Ldgtpz {
@@ -21575,7 +21575,7 @@ gopuff-product-availability p {
   margin: 10px 10px 0 !important;
 }
 .location-modal-opener .location-modal-opener__button {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
   border: none !important;
   border-radius: 50px !important;
@@ -21588,7 +21588,7 @@ gopuff-product-availability p {
 }
 #LocationModal .location-modal__title {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
 }
 #LocationModal .custom-location-autocomplete-field input.gp-field__input {
   border-radius: 50px !important;
@@ -21597,8 +21597,8 @@ gopuff-product-availability p {
   border-radius: 50px !important;
 }
 #LocationModal .gp-field:hover.gp-field:after {
-  border-color: #af1685 !important;
-  box-shadow: 0 0 0 calc(1px + var(--gp-inputs-border-width)) #af1685 !important;
+  border-color: #c9137eff !important;
+  box-shadow: 0 0 0 calc(1px + var(--gp-inputs-border-width)) #c9137eff !important;
 }
 #LocationModal input[type=text],
 #LocationModal input[type=email],
@@ -21620,13 +21620,13 @@ gopuff-product-availability p {
   top: calc(12px + var(--gp-inputs-border-width));
 }
 #LocationModal .location-modal__change-address {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 #LocationModal .location-modal__submit {
   border-radius: 50px !important;
   font-family: "Gotham A", "Gotham B", sans-serif !important;
   font-weight: 700 !important;
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
   padding: 10px 20px !important;
   border: none !important;
@@ -21674,7 +21674,7 @@ gopuff-product-availability p {
 }
 .TheWellArticle .goods-inside {
   padding-top: 13px;
-  border-top: 4px solid #af1685;
+  border-top: 4px solid #c9137eff;
   position: relative;
   margin-top: 45px;
 }
@@ -21820,7 +21820,7 @@ gopuff-product-availability p {
   transition: color 0.25s linear;
 }
 .TheWellArticle .entry-content a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .TheWellArticle .entry-content p > a, .TheWellArticle .entry-content li > a {
   font-weight: 500;
@@ -21831,7 +21831,7 @@ gopuff-product-availability p {
   display: inline-block;
 }
 .TheWellArticle .entry-content p > a:hover, .TheWellArticle .entry-content li > a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .TheWellArticle .entry-content a.decoration {
   padding-left: 33px;
@@ -22014,7 +22014,7 @@ gopuff-product-availability p {
   }
   .TheWellArticle .goods-inside {
     padding-top: 13px;
-    border-top: 4px solid #af1685;
+    border-top: 4px solid #c9137eff;
     position: relative;
     margin-top: 45px;
     margin-bottom: 45px;
@@ -22152,7 +22152,7 @@ gopuff-product-availability p {
 }
 .template-the-well .TheWellArticle .sidebar .widget-group {
   padding-top: 13px;
-  border-top: 4px solid #af1685;
+  border-top: 4px solid #c9137eff;
   position: relative;
 }
 .template-the-well .TheWellArticle .sidebar .widget-group .widget-group-title {
@@ -22191,7 +22191,7 @@ gopuff-product-availability p {
   transition: color 0.25s linear;
 }
 .template-the-well .TheWellArticle .sidebar .widget-group .widgets .widget .title a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .template-the-well .TheWellArticle .sidebar .widget-group .widgets .widget .subtitle {
   font-size: 12px;
@@ -22209,7 +22209,7 @@ gopuff-product-availability p {
   padding-left: 19px;
 }
 .template-the-well .TheWellArticle .sidebar .widget-group .widgets .widget .text-link a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .template-the-well .TheWellArticle .sidebar .widget-group .widgets .widget .text-link a:before {
   content: "";
@@ -22245,7 +22245,7 @@ gopuff-product-availability p {
 }
 .related-blog-articles {
   background-color: transparent !important;
-  border-top: 3px solid #af1685;
+  border-top: 3px solid #c9137eff;
   padding: 32px 0 80px;
 }
 .related-blog-articles h2 {
@@ -22299,7 +22299,7 @@ gopuff-product-availability p {
   transition: color 0.25s linear;
 }
 .related-blog-articles .blog__posts .blog__post .article-card .card__heading a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .related-blog-articles .blog__posts .blog__post .article-card .article-card__info p {
   line-height: 1.2;
@@ -22319,7 +22319,7 @@ gopuff-product-availability p {
   padding-left: 19px;
 }
 .related-blog-articles .blog__posts .blog__post .article-card .article-card__info .text-link:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .related-blog-articles .blog__posts .blog__post .article-card .article-card__info .text-link:before {
   content: "";
@@ -22337,7 +22337,7 @@ gopuff-product-availability p {
 
 @media screen and (min-width: 1024px) {
   .related-blog-articles {
-    border-top: 6px solid #af1685;
+    border-top: 6px solid #c9137eff;
     width: 100%;
     max-width: 1220px;
     margin: 0 auto;
@@ -22394,7 +22394,7 @@ section {
 }
 
 .copyblock {
-  color: #af1685;
+  color: #c9137eff;
 }
 .copyblock .inner {
   max-width: 1440px;
@@ -22408,7 +22408,7 @@ section {
   letter-spacing: 0;
 }
 .copyblock p a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1), border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
   vertical-align: bottom;
@@ -22417,7 +22417,7 @@ section {
   font-weight: 500;
 }
 .copyblock p a:hover {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 .copyblock h2 {
   font-weight: 500;
@@ -22437,7 +22437,7 @@ section {
 }
 .page-header h1 {
   text-align: left;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.125rem;
   font-weight: 400;
   max-width: 1440px;
@@ -22465,7 +22465,7 @@ section {
   }
   .page-header h1 {
     text-align: left;
-    color: #af1685;
+    color: #c9137eff;
     font-size: 2.25rem;
     font-weight: 400;
     max-width: 1440px;
@@ -22498,7 +22498,7 @@ section {
   }
   .page-header h1 {
     text-align: left;
-    color: #af1685;
+    color: #c9137eff;
     font-size: 2.25rem;
     font-weight: 400;
     max-width: 1440px;
@@ -22554,7 +22554,7 @@ body#olly .Science .details-wrap {
   position: relative;
 }
 body#olly .Science .details {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   left: 0;
   margin: auto;
@@ -22587,12 +22587,12 @@ body#olly .Instagram h3 {
   margin-bottom: 28px;
 }
 body#olly .Instagram h3 a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   transition: border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 body#olly .Instagram h3 a:hover {
-  border-bottom-color: #af1685;
+  border-bottom-color: #c9137eff;
 }
 
 @media (min-width: 1024px) {
@@ -22752,7 +22752,7 @@ body#olly .Instagram h3 a:hover {
 .template-about section#greater-good ul li {
   background: transparent url("heart-bullet.svg") no-repeat 0 3px;
   background-size: 18px 18px;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 0.75rem;
   padding-left: 33px;
 }
@@ -22779,7 +22779,7 @@ body#olly .Instagram h3 a:hover {
   text-align: center;
 }
 .template-about section#b-corp .lb-holder {
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 30px;
 }
 .template-about section#b-corp .lb-holder img {
@@ -22789,18 +22789,18 @@ body#olly .Instagram h3 a:hover {
 }
 .template-about section#b-corp .lb-copy {
   background-color: #f6f6f6;
-  color: #af1685;
+  color: #c9137eff;
   padding: 42px 40px 42px;
   line-height: 1.75;
 }
 .template-about section#b-corp .lb-copy a {
-  color: #af1685;
+  color: #c9137eff;
   border-bottom: 1px solid transparent;
   font-weight: 500;
   transition: border-color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .template-about section#b-corp .lb-copy a:hover {
-  border-color: #af1685;
+  border-color: #c9137eff;
 }
 
 @media (min-width: 1024px) {
@@ -23065,7 +23065,7 @@ body#olly .Instagram h3 a:hover {
 .Account .acct-heading .edit, .Account .acct-heading .cancel, .Account .acct-heading .save {
   float: right;
   cursor: pointer;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 10px;
 }
 .Account .acct-heading .cancel {
@@ -23093,7 +23093,7 @@ body#olly .Instagram h3 a:hover {
 .Account .acct-content .sub-link {
   display: inline-block;
   margin-top: 20px;
-  color: #af1685;
+  color: #c9137eff;
 }
 .Account .acct-content form {
   overflow: hidden;
@@ -23107,9 +23107,9 @@ body#olly .Instagram h3 a:hover {
 }
 .Account .acct-content .edit .btn {
   background-color: transparent;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   border-radius: 18px;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 12px;
   font-weight: 700;
   padding: 0 10px;
@@ -23127,7 +23127,7 @@ body#olly .Instagram h3 a:hover {
   color: #fff;
 }
 .Account .acct-content .edit .btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .Account .responsive-table-row:first-child:after {
@@ -23144,7 +23144,7 @@ body#olly .Instagram h3 a:hover {
   width: 40%;
 }
 .Account .acct-block.subscriptions-block .sub-list li .label a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .Account .acct-block.subscriptions-block .sub-list li.heading .label {
   color: #424242;
@@ -23191,11 +23191,11 @@ body#olly .Instagram h3 a:hover {
   padding-bottom: 10px;
 }
 .Account .profile-wrap .orders .responsive-table a {
-  color: #af1685;
+  color: #c9137eff;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Account .profile-wrap .orders .responsive-table a:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .Account .profile-wrap .shipping .inner {
   max-width: 380px;
@@ -23232,12 +23232,12 @@ body#olly .Instagram h3 a:hover {
 }
 .Account .profile-wrap .shipping .address .text-link {
   cursor: pointer;
-  color: #af1685;
+  color: #c9137eff;
   margin-right: 10px;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .Account .profile-wrap .shipping .address .text-link:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .Account .profile-wrap .shipping .address:last-child {
   border-bottom: none;
@@ -23394,7 +23394,7 @@ body#olly .Instagram h3 a:hover {
 .Account .profile-wrap .subscriptions .individual-subscription p span, .Account .profile-wrap .subscriptions .individual-subscription p time {
   font-size: 14px;
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .Account .profile-wrap .subscriptions .individual-subscription .qty {
   clear: left;
@@ -23404,7 +23404,7 @@ body#olly .Instagram h3 a:hover {
   position: relative;
   padding: 24px;
   text-align: center;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .Account .profile-wrap .subscriptions .cancel-authorization p {
   margin-bottom: 20px;
@@ -23437,7 +23437,7 @@ body#olly .Instagram h3 a:hover {
   right: 0;
   left: auto;
   border-color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .Account .js .profile-wrap .subscriptions .faux-cb.active::after {
   background-image: url("../../../../../assets/check-white.png");
@@ -23520,7 +23520,7 @@ body#olly .Instagram h3 a:hover {
 .Account .profile-wrap .history .individual-order ul p span, .Account .profile-wrap .history .individual-order ul p time {
   font-size: 14px;
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .Account .profile-wrap .history .individual-order ul .qty {
   clear: left;
@@ -23555,7 +23555,7 @@ body#olly .Instagram h3 a:hover {
   transition: color 0.25s;
 }
 .acct-nav .active a, .acct-nav a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .acct-index .show {
@@ -23563,12 +23563,12 @@ body#olly .Instagram h3 a:hover {
 }
 .acct-index .show p a {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
   transition: color 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
 .acct-index .show p a:hover {
   font-weight: 400;
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 
 .subscriptions-index ul ul {
@@ -23586,7 +23586,7 @@ body#olly .Instagram h3 a:hover {
 }
 .subscriptions-index ul ul li a {
   font-size: 10px;
-  color: #af1685;
+  color: #c9137eff;
 }
 .subscriptions-index .item a {
   font-size: 12px;
@@ -23602,7 +23602,7 @@ body#olly .Instagram h3 a:hover {
   color: #9a9b9d;
 }
 .subscriptions-index .subscribed-item .item a {
-  color: #af1685;
+  color: #c9137eff;
   line-height: 1.4;
 }
 .subscriptions-index .subscribed-item .item a:hover {
@@ -23824,7 +23824,7 @@ body#olly .Instagram h3 a:hover {
   left: 27px;
   top: 31px;
   border-radius: 50px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   opacity: 0;
   transition: opacity 0.25s cubic-bezier(0.5, 0, 0.5, 1);
 }
@@ -23841,7 +23841,7 @@ body#olly .Instagram h3 a:hover {
   color: #030303;
 }
 .ui-datepicker .ui-datepicker-current-day a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .ui-datepicker td a {
   padding: 2px;
@@ -23900,7 +23900,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.subscribe .modal .modal-header h3, .modalwrap.sign-up .modal .modal-header h3 {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.subscribe .modal .modal-header .close, .modalwrap.sign-up .modal .modal-header .close {
   position: absolute;
@@ -23938,7 +23938,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.subscribe .modal-content h3.heading, .modalwrap.sign-up .modal-content h3.heading {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.subscribe .modal-content p, .modalwrap.sign-up .modal-content p {
   margin-bottom: 20px;
@@ -23996,7 +23996,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s;
 }
 .modalwrap.subscribe .item-list li .item-name a:hover, .modalwrap.sign-up .item-list li .item-name a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.subscribe .item-list li .item-name label, .modalwrap.sign-up .item-list li .item-name label {
   clear: left;
@@ -24039,7 +24039,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s;
 }
 .modalwrap.subscribe .item-list li .item-name .subscription-holder a:hover, .modalwrap.sign-up .item-list li .item-name .subscription-holder a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.subscribe .item-list li .item-quantity, .modalwrap.sign-up .item-list li .item-quantity {
   position: absolute;
@@ -24177,7 +24177,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.sub-option .modal-header h3 {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .modal-header .close {
   position: absolute;
@@ -24205,7 +24205,7 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 36px;
   font-weight: 400;
   letter-spacing: -0.03em;
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 10px;
 }
 .modalwrap.sub-option .modal-content > p {
@@ -24222,7 +24222,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.sub-option .modal-content h3.heading {
   font-weight: 400;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .modal-content p {
   margin-bottom: 20px;
@@ -24242,9 +24242,9 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.sub-option .modal-content .btn {
   background-color: transparent;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   border-radius: 18px;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 12px;
   font-weight: 700;
   padding: 0 10px;
@@ -24262,7 +24262,7 @@ a.ui-datepicker-prev.ui-corner-all {
   color: #fff;
 }
 .modalwrap.sub-option .modal-content .btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .modalwrap.sub-option .modal-content .btn.white:hover {
@@ -24298,7 +24298,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .modalwrap.sub-option .item-list .label p {
   text-align: center;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .item-list li.label {
   display: none;
@@ -24339,7 +24339,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s;
 }
 .modalwrap.sub-option .item-list li .item-name a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .item-list li .item-name label {
   font-size: 0.875rem;
@@ -24366,14 +24366,14 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s;
 }
 .modalwrap.sub-option .item-list li .item-name .subscription-holder a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .item-list li .item-quantity {
   text-align: right;
 }
 .modalwrap.sub-option span.highlight {
   font-weight: 700;
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option .faux-cb {
   margin-bottom: 10px;
@@ -24391,7 +24391,7 @@ a.ui-datepicker-prev.ui-corner-all {
   color: #030303;
 }
 .modalwrap.sub-option .modal-footer a {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .modalwrap.sub-option.cancel .item-list li .item-name label {
@@ -24428,7 +24428,7 @@ a.ui-datepicker-prev.ui-corner-all {
   text-align: center;
 }
 .modalwrap.sub-option.cancel .secondary p a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .modalwrap.sub-option.cancel .secondary p a:hover {
   color: #67459b;
@@ -24600,7 +24600,7 @@ a.ui-datepicker-prev.ui-corner-all {
     line-height: 1.2;
   }
   .modalwrap.sub-option .modal-content .modal-footer a {
-    color: #af1685;
+    color: #c9137eff;
   }
 }
 .template-contact .HeroBlock.mobile-text-align-center-top a .text-holder {
@@ -24676,10 +24676,10 @@ a.ui-datepicker-prev.ui-corner-all {
   background-color: #f7f7f7;
 }
 #buzz .Header .main-menu .menu-item-696 a {
-  color: #af1685;
+  color: #c9137eff;
 }
 #buzz .Header .main-menu .menu-item-696 a:after {
-  background-color: #af1685;
+  background-color: #c9137eff;
   bottom: -1px;
   content: "";
   display: block;
@@ -24768,7 +24768,7 @@ a.ui-datepicker-prev.ui-corner-all {
   position: relative;
 }
 .template-legal .SubHeader h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500;
 }
 .template-legal .SubHeader:after {
@@ -24828,17 +24828,17 @@ a.ui-datepicker-prev.ui-corner-all {
 .template-legal-single .page-content .wysiwyg .table-wrap {
   width: 100%;
   overflow-x: scroll;
-  border-left: 1px solid #af1685;
-  border-right: 1px solid #af1685;
+  border-left: 1px solid #c9137eff;
+  border-right: 1px solid #c9137eff;
   margin-bottom: 2em;
 }
 .template-legal-single .page-content .wysiwyg table {
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
   border-left: none;
   border-right: none;
 }
 .template-legal-single .page-content .wysiwyg table thead {
-  border-bottom: 1px solid #af1685;
+  border-bottom: 1px solid #c9137eff;
 }
 .template-legal-single .page-content .wysiwyg table thead th {
   text-align: left;
@@ -24847,19 +24847,19 @@ a.ui-datepicker-prev.ui-corner-all {
   padding: 5px;
 }
 .template-legal-single .page-content .wysiwyg table thead th {
-  border-right: 1px solid #af1685;
+  border-right: 1px solid #c9137eff;
 }
 .template-legal-single .page-content .wysiwyg table thead th:last-child {
   border-right: none;
 }
 .template-legal-single .page-content .wysiwyg table tbody tr {
-  border-bottom: 1px solid #af1685;
+  border-bottom: 1px solid #c9137eff;
 }
 .template-legal-single .page-content .wysiwyg table tbody td {
   vertical-align: top;
   line-height: 1.33;
   padding: 5px;
-  border-right: 1px solid #af1685;
+  border-right: 1px solid #c9137eff;
 }
 .template-legal-single .page-content .wysiwyg table tbody td:last-child {
   border-right: none;
@@ -24903,10 +24903,10 @@ a.ui-datepicker-prev.ui-corner-all {
     transition: color 0.25s;
   }
   #recipes .PageHeader .inner ul li a:hover, .archive.tag .PageHeader .inner ul li a:hover, .tax-recipe_categories .PageHeader .inner ul li a:hover {
-    color: #af1685;
+    color: #c9137eff;
   }
   #recipes .PageHeader .inner ul li.current-menu-item a, .archive.tag .PageHeader .inner ul li.current-menu-item a, .tax-recipe_categories .PageHeader .inner ul li.current-menu-item a {
-    color: #af1685;
+    color: #c9137eff;
   }
   #recipes .page-content, .archive.tag .page-content, .tax-recipe_categories .page-content {
     padding: 0 72px;
@@ -24995,7 +24995,7 @@ a.ui-datepicker-prev.ui-corner-all {
   padding: 40px 24px !important;
 }
 #account .content h2, #create-account .content h2, #reset-account .content h2, #challenge .content h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   font-size: 1.875rem;
   text-align: center;
@@ -25198,7 +25198,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
 }
 #the-jed-foundation .shogun-root .highlight {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500 !important;
   vertical-align: top;
 }
@@ -25289,7 +25289,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin: 0 auto;
 }
 #the-jed-foundation .shogun-root .lp-our-mission .shg-rich-text h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.375rem;
   margin-bottom: 0.75em;
 }
@@ -25322,7 +25322,7 @@ a.ui-datepicker-prev.ui-corner-all {
   background-color: #030303;
 }
 #the-jed-foundation .shogun-root .lp-mission-grid .slick-dots li.slick-active button {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 #the-jed-foundation .shogun-root .lp-mission-grid .slick-slide {
   margin-right: 12px;
@@ -25413,7 +25413,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-top: 1.5em;
   font-size: 14px;
   letter-spacing: 0.05em;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
 }
 #the-jed-foundation .shogun-root .lp-happy-inside-out {
@@ -25458,7 +25458,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 #the-jed-foundation .shogun-root .lp-mental-health-resources .shg-c-lg-6 p a {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
   text-decoration: underline;
   display: inline;
   vertical-align: top;
@@ -25491,10 +25491,10 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 #the-jed-foundation .shogun-root .lp-mental-health-resources .shg-c-lg-6:first-child h2 {
-  color: #af1685;
+  color: #c9137eff;
 }
 #the-jed-foundation .shogun-root .lp-mental-health-resources .shg-c-lg-6:last-child {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 #the-jed-foundation .shogun-root .lp-mental-health-resources .shg-c-lg-6:last-child a {
@@ -25992,7 +25992,7 @@ a.ui-datepicker-prev.ui-corner-all {
   width: 14.27vw;
   height: 14.27vw;
   border-radius: 14.27vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   line-height: 14.27vw;
   position: absolute;
   top: 5vw;
@@ -26059,12 +26059,12 @@ a.ui-datepicker-prev.ui-corner-all {
   color: #434343 !important;
 }
 .bts-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
 }
 .bts-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff !important;
 }
 .bts-lp-wrapper .lp-image-with-text.image-above {
@@ -26207,12 +26207,12 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .bts-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     border-color: #fff !important;
   }
   .bts-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white:hover {
     background-color: #fff;
-    color: #af1685 !important;
+    color: #c9137eff !important;
   }
   .bts-lp-wrapper .lp-image-with-text.image-above {
     margin-top: 0;
@@ -26344,10 +26344,10 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: 0.25s color linear;
 }
 #olly-pbc #MainContent .page-width og-smi .og-link:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 #olly-pbc #MainContent .page-width og-smi .og-container .og-message-main a {
-  color: #af1685;
+  color: #c9137eff;
 }
 #olly-pbc #MainContent .page-width og-smi .og-container .og-button {
   border: none;
@@ -26358,7 +26358,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: 0.25s color linear;
 }
 #olly-pbc #MainContent .page-width og-smi .og-container .og-button:hover:not(:disabled) {
-  color: #af1685;
+  color: #c9137eff;
   box-shadow: none;
   transform: none;
 }
@@ -26390,10 +26390,10 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 #olly-pbc #MainContent .page-width og-smi .og-container #og-smi-main-title {
   background-color: transparent !important;
-  color: #af1685;
+  color: #c9137eff;
   text-align: left;
   padding: 0;
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.1875rem;
   font-weight: 500;
   margin-bottom: 2px;
@@ -26420,7 +26420,7 @@ a.ui-datepicker-prev.ui-corner-all {
   font-weight: 400;
 }
 #olly-pbc #MainContent .page-width og-smi .og-product .og-name-price-controls-container .og-product-description h3 a:hover, #olly-pbc #MainContent .page-width og-smi .og-product .og-name-price-controls-container .og-product-description h4 a:hover, #olly-pbc #MainContent .page-width og-smi .og-product .og-name-price-controls-container .og-product-description og-sku-swap a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 #olly-pbc #MainContent .page-width og-smi select, #olly-pbc #MainContent .page-width og-smi select:focus, #olly-pbc #MainContent .page-width og-smi select:active {
   color: #555555 !important;
@@ -26445,8 +26445,8 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: all 0.25s linear;
 }
 #olly-pbc #MainContent .page-width og-smi .og-check-radio:checked {
-  background-color: #af1685;
-  border: 1px solid #af1685;
+  background-color: #c9137eff;
+  border: 1px solid #c9137eff;
 }
 #olly-pbc #MainContent .page-width og-smi .og-freq-quantity-controls .og-freq {
   margin-left: 0;
@@ -26481,8 +26481,8 @@ a.ui-datepicker-prev.ui-corner-all {
   border: none;
 }
 #olly-pbc #MainContent .page-width dialog .og-dialog-footer .og-button {
-  background-color: #af1685;
-  border: 2px solid #af1685;
+  background-color: #c9137eff;
+  border: 2px solid #c9137eff;
   border-radius: 18px;
   color: #fff;
   font-size: 12px;
@@ -26526,7 +26526,7 @@ a.ui-datepicker-prev.ui-corner-all {
 #olly-pbc #MainContent .page-width #og-send-update-email > div {
   font-size: 1.1875rem;
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
 }
 #olly-pbc #MainContent .page-width #og-send-update-email p {
   margin: 1em auto 2em;
@@ -26534,7 +26534,7 @@ a.ui-datepicker-prev.ui-corner-all {
   max-width: 460px;
 }
 #olly-pbc #MainContent .page-width #og-send-update-email button {
-  background-color: #af1685;
+  background-color: #c9137eff;
   border: none;
   border-radius: 18px;
   color: #fff;
@@ -26551,7 +26551,7 @@ a.ui-datepicker-prev.ui-corner-all {
   letter-spacing: 0.1em;
 }
 #olly-pbc #MainContent .page-width #og-send-update-email button:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 #olly-pbc #MainContent .page-width #og-vaulting iframe {
   border-top: 50px #f4f6f8 solid !important;
@@ -26652,7 +26652,7 @@ a.ui-datepicker-prev.ui-corner-all {
   width: 17.8vw;
   height: 17.8vw;
   border-radius: 17.8vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   line-height: 17.8vw;
   position: absolute;
   top: -90vw;
@@ -26713,16 +26713,16 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .ultrastrength-lp-wrapper .lp-image-with-text .shg-rich-text .shop-btn:hover {
   background-color: #fff;
-  color: #af1685 !important;
+  color: #c9137eff !important;
   border-color: #fff;
 }
 .ultrastrength-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
 }
 .ultrastrength-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff !important;
 }
 .ultrastrength-lp-wrapper .lp-image-with-text.sleep {
@@ -26845,12 +26845,12 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .ultrastrength-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white {
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     border-color: #fff !important;
   }
   .ultrastrength-lp-wrapper .lp-image-with-text.image-left .shg-box-content .shg-rich-text .shop-btn.white:hover {
     background-color: #fff;
-    color: #af1685 !important;
+    color: #c9137eff !important;
   }
   .ultrastrength-lp-wrapper .lp-image-with-text.image-right {
     margin-bottom: 4.86vw;
@@ -26926,13 +26926,13 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.keep-it-lit .lp-image-with-text .color-block .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 8vw;
 }
 .lp-wrapper.keep-it-lit .lp-image-with-text .color-block .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.keep-it-lit .lp-image-with-text.first {
@@ -27113,7 +27113,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: 0.25s background-color linear;
 }
 .lp-wrapper.subscribe-save .lp-image-with-text .shg-rich-text .shop-btn span {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.subscribe-save .lp-image-with-text .shg-rich-text .shop-btn:hover {
   background-color: rgba(255, 255, 255, 0.5);
@@ -27127,12 +27127,12 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.subscribe-save .lp-image-with-text .color-block .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
 }
 .lp-wrapper.subscribe-save .lp-image-with-text .color-block .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.subscribe-save .lp-image-with-text.first {
@@ -27435,7 +27435,7 @@ a.ui-datepicker-prev.ui-corner-all {
   color: #800A5F !important;
 }
 .lp-wrapper.womens-wellness-2024 .shg-rich-text h2 {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   font-size: 7.692307692vw;
   font-weight: 800;
   line-height: 1.2;
@@ -27481,7 +27481,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.womens-wellness-2024 .shg-rich-text p.arrow-btn a {
   width: 100%;
-  background-color: #af1685;
+  background-color: #c9137eff;
   font-size: 3.58974359vw;
   font-weight: 700;
   text-transform: uppercase;
@@ -27492,7 +27492,7 @@ a.ui-datepicker-prev.ui-corner-all {
   border: none;
 }
 .lp-wrapper.womens-wellness-2024 .shg-rich-text p.arrow-btn a:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.womens-wellness-2024 .shg-rich-text p.arrow-btn a:after {
   content: "";
@@ -27537,7 +27537,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transform: scale(1.05);
 }
 .lp-wrapper.womens-wellness-2024 .lp-product-card:hover .shg-rich-text p.arrow-btn a {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.womens-wellness-2024 .lp-product-single {
   padding: 3.846153846vw 5.128205128vw;
@@ -27780,7 +27780,7 @@ a.ui-datepicker-prev.ui-corner-all {
   background-repeat: no-repeat;
 }
 .lp-wrapper.seasonal-flavors .shg-rich-text h2 {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   font-size: 7.692307692vw;
   font-weight: 800;
   line-height: 1.2;
@@ -27824,13 +27824,13 @@ a.ui-datepicker-prev.ui-corner-all {
   text-decoration: underline;
   text-decoration-thickness: 1px;
   text-underline-offset: 0.15em;
-  color: #af1685;
+  color: #c9137eff;
   transition: color 0.25s linear;
   outline: none;
   border: none;
 }
 .lp-wrapper.seasonal-flavors .shg-rich-text .underline-btn:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .lp-wrapper.seasonal-flavors .shg-rich-text .underline-btn:after {
   content: "";
@@ -27849,7 +27849,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.seasonal-flavors .shg-rich-text .shop-btn {
   margin-top: 6.692307692vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 13.58974359vw;
   width: 48.46153846vw;
@@ -27860,7 +27860,7 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 1.538461538vw;
 }
 .lp-wrapper.seasonal-flavors .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-color: #fff;
   color: #fff !important;
 }
@@ -27869,14 +27869,14 @@ a.ui-datepicker-prev.ui-corner-all {
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 0 3.58974359vw;
   height: 5.897435897vw;
   line-height: 5.897435897vw;
   transition: background-color 0.25s linear;
 }
 .lp-wrapper.seasonal-flavors .shg-rich-text .coming-soon-tag:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.seasonal-flavors .desktop {
   display: none;
@@ -28514,7 +28514,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.shine-bright .lp-image-with-text .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   border: none;
   height: 9.75vw;
   line-height: 9.75vw;
@@ -28570,7 +28570,7 @@ a.ui-datepicker-prev.ui-corner-all {
     line-height: 4.13vw;
     font-size: 1.41vw;
     background-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
   }
   .lp-wrapper.shine-bright .lp-image-with-text .shg-rich-text .shop-btn:hover {
     background-color: rgba(255, 255, 255, 0.5);
@@ -28587,7 +28587,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
 }
 .lp-wrapper.social-mission .highlight {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 500 !important;
   vertical-align: top;
 }
@@ -28668,7 +28668,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin: 0 auto;
 }
 .lp-wrapper.social-mission .lp-our-mission .shg-rich-text h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 1.375rem;
   margin-bottom: 0.75em;
 }
@@ -28701,7 +28701,7 @@ a.ui-datepicker-prev.ui-corner-all {
   background-color: #030303;
 }
 .lp-wrapper.social-mission .lp-mission-grid .slick-dots li.slick-active button {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .lp-wrapper.social-mission .lp-mission-grid .slick-slide {
   margin-right: 12px;
@@ -28853,7 +28853,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-top: 1.5em;
   font-size: 14px;
   letter-spacing: 0.05em;
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 700;
 }
 .lp-wrapper.social-mission .lp-happy-inside-out {
@@ -28898,7 +28898,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.social-mission .lp-mental-health-resources .shg-c-lg-6 p a {
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
   text-decoration: underline;
   display: inline;
   vertical-align: top;
@@ -28931,10 +28931,10 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.social-mission .lp-mental-health-resources .shg-c-lg-6:first-child h2 {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.social-mission .lp-mental-health-resources .shg-c-lg-6:last-child {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.social-mission .lp-mental-health-resources .shg-c-lg-6:last-child a {
@@ -29201,7 +29201,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.immune-supporters .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -29209,8 +29209,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 3.2vw;
 }
 .lp-wrapper.immune-supporters .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.immune-supporters .lp-image-with-text .shg-rich-text p:last-child {
@@ -29386,7 +29386,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.love-yourself .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -29394,8 +29394,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 3.2vw;
 }
 .lp-wrapper.love-yourself .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.love-yourself .lp-image-with-text .shg-rich-text p:last-child {
@@ -29620,7 +29620,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.gummy-greatest .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -29628,8 +29628,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 3.2vw;
 }
 .lp-wrapper.gummy-greatest .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.gummy-greatest .lp-image-with-text .shg-rich-text p:last-child {
@@ -29909,7 +29909,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.daylight-savings .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -29917,8 +29917,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 3.2vw;
 }
 .lp-wrapper.daylight-savings .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.daylight-savings .lp-image-with-text .shg-rich-text p:last-child {
@@ -30206,7 +30206,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.energize .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 43.2vw;
@@ -30215,8 +30215,8 @@ a.ui-datepicker-prev.ui-corner-all {
   padding: 0;
 }
 .lp-wrapper.energize .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.energize .lp-image-with-text.first {
@@ -30366,9 +30366,9 @@ a.ui-datepicker-prev.ui-corner-all {
   }
 }
 .lp-wrapper.bve .shop-btn.white {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
   min-width: 40vw;
   line-height: 8.6vw;
   height: 9.7vw;
@@ -30404,13 +30404,13 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.bve .lp-hero-image.product .shg-rich-text .shop-btn.white {
   background-color: #fff;
-  color: #af1685 !important;
+  color: #c9137eff !important;
   border-color: #fff !important;
 }
 .lp-wrapper.bve .lp-hero-image.product .shg-rich-text .shop-btn.white:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff !important;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
 }
 .lp-wrapper.bve .lp-hero-image.product .shg-c:last-child {
   top: 55.4vw;
@@ -30467,13 +30467,13 @@ a.ui-datepicker-prev.ui-corner-all {
   position: relative;
   z-index: 1;
   background-color: #fff !important;
-  color: #af1685 !important;
+  color: #c9137eff !important;
   border-color: #fff !important;
 }
 .lp-wrapper.bve .lp-review-single .shg-rich-text .shop-btn.white:hover, .lp-wrapper.bve .lp-review-duo .shg-rich-text .shop-btn.white:hover {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
-  border-color: #af1685 !important;
+  border-color: #c9137eff !important;
 }
 .lp-wrapper.bve .lp-review-single {
   padding: 8.59vw 5vw 8.13vw;
@@ -30606,7 +30606,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.bve .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -30614,8 +30614,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-size: 3.2vw;
 }
 .lp-wrapper.bve .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.bve .lp-image-with-text .shg-rich-text p:last-child {
@@ -31180,7 +31180,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.ultra-strength-newness .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 43.2vw;
@@ -31189,8 +31189,8 @@ a.ui-datepicker-prev.ui-corner-all {
   padding: 0;
 }
 .lp-wrapper.ultra-strength-newness .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.ultra-strength-newness .lp-image-with-text.first {
@@ -31263,7 +31263,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.ultra-strength-newness .lp-product-grid .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   border-radius: 9.8vw;
   line-height: 9.8vw;
@@ -31273,8 +31273,8 @@ a.ui-datepicker-prev.ui-corner-all {
   padding: 0;
 }
 .lp-wrapper.ultra-strength-newness .lp-product-grid .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 
@@ -31539,7 +31539,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
 }*/
 .lp-wrapper.mental-health p a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.mental-health .lp-hero {
   padding: 8vw 6.9vw;
@@ -31572,7 +31572,7 @@ a.ui-datepicker-prev.ui-corner-all {
   justify-content: space-between;
 }
 .lp-wrapper.mental-health .lp-stats .stat-grid .stat-grid-item {
-  background-color: #af1685;
+  background-color: #c9137eff;
   padding: 10.3vw 0 6.46vw 0;
   width: 41vw;
   margin-bottom: 1.3vw;
@@ -31656,13 +31656,13 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.mental-health .lp-image-with-text .shg-rich-text p a:not(.shop-btn) {
-  color: #af1685 !important;
+  color: #c9137eff !important;
   text-decoration: underline;
   text-underline-position: under;
   transition: color 0.25s linear;
 }
 .lp-wrapper.mental-health .lp-image-with-text .shg-rich-text p a:hover:not(.shop-btn) {
-  color: #7a2363 !important;
+  color: #2d2d2dff !important;
 }
 .lp-wrapper.mental-health .lp-image-with-text .shg-rich-text .shop-btn {
   color: #fff;
@@ -31917,7 +31917,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s linear;
 }
 .lp-wrapper.mental-health2 .shg-rich-text p a:hover, .lp-wrapper.mental-health2 .slide p a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.mental-health2 .shg-rich-text p strong, .lp-wrapper.mental-health2 .slide p strong {
   font-weight: 800;
@@ -31956,7 +31956,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.mental-health2 .lp-text-duo {
   background-color: #fff;
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
   border-radius: 2.564102564vw;
   margin: 0 5.897435897vw;
   padding: 4.966666667vw 7.461538462vw 42.8974359vw;
@@ -32006,7 +32006,7 @@ a.ui-datepicker-prev.ui-corner-all {
   width: 88.20512821vw;
   padding: 5.692307692vw 4.241025641vw 7.692307692vw 5.923076923vw;
   background-color: #fff;
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
   border-radius: 2.564102564vw;
   margin-right: 3.846153846vw;
   height: 102.5641026vw;
@@ -32064,11 +32064,11 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 12px;
 }
 .lp-wrapper.mental-health2 .lp-carousel .slick-dots li.slick-active button {
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .lp-wrapper.mental-health2 .lp-text-grid {
   background-color: #fff;
-  border: 1px solid #af1685;
+  border: 1px solid #c9137eff;
   border-radius: 2.564102564vw;
   margin: 0 5.897435897vw;
   padding: 6.666666667vw 8.461538462vw 9vw;
@@ -32552,7 +32552,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.go-getters .product-columns .shg-rich-text .shop-btn,
 .lp-wrapper.parents .product-columns .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -32562,8 +32562,8 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.college .product-columns .shg-rich-text .shop-btn:hover,
 .lp-wrapper.go-getters .product-columns .shg-rich-text .shop-btn:hover,
 .lp-wrapper.parents .product-columns .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 
@@ -32724,7 +32724,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.fast-dissolves .lp-product-grid .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 9.8vw;
@@ -32734,8 +32734,8 @@ a.ui-datepicker-prev.ui-corner-all {
   white-space: nowrap;
 }
 .lp-wrapper.fast-dissolves .lp-product-grid .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.fast-dissolves .lp-product-grid .product:hover .shogun-image-container img {
@@ -32993,7 +32993,7 @@ a.ui-datepicker-prev.ui-corner-all {
   top: 3vw;
   left: 2vw;
   z-index: 1;
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-radius: 12.1vw;
   width: 12.1vw;
   height: 12.1vw;
@@ -33022,7 +33022,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.gut-health .lp-product-grid .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 9.8vw;
@@ -33032,8 +33032,8 @@ a.ui-datepicker-prev.ui-corner-all {
   white-space: nowrap;
 }
 .lp-wrapper.gut-health .lp-product-grid .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.gut-health .lp-product-grid .product:hover .shogun-image-container img {
@@ -33417,7 +33417,7 @@ a.ui-datepicker-prev.ui-corner-all {
   top: 3vw;
   left: 2vw;
   z-index: 1;
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-radius: 12.1vw;
   width: 12.1vw;
   height: 12.1vw;
@@ -33449,7 +33449,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.power-up .lp-product-grid .product .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -33459,8 +33459,8 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 9.8vw;
 }
 .lp-wrapper.power-up .lp-product-grid .product .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.power-up .lp-product-grid .product:hover .shogun-image-container img {
@@ -33736,7 +33736,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.real-life .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 9.8vw;
   width: 39.2vw;
@@ -33747,8 +33747,8 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-top: 4.4vw;
 }
 .lp-wrapper.real-life .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.real-life .lp-text-statement .shg-rich-text {
@@ -34030,7 +34030,7 @@ a.ui-datepicker-prev.ui-corner-all {
   display: none;
 }
 .lp-wrapper.real-life2 .lp-product .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 9.8vw;
@@ -34042,8 +34042,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-weight: 700;
 }
 .lp-wrapper.real-life2 .lp-product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.real-life2 .lp-ingredients {
@@ -34115,7 +34115,7 @@ a.ui-datepicker-prev.ui-corner-all {
   display: none;
 }
 .lp-wrapper.real-life2 .lp-product-grid-row .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 9.8vw;
@@ -34127,8 +34127,8 @@ a.ui-datepicker-prev.ui-corner-all {
   font-weight: 700;
 }
 .lp-wrapper.real-life2 .lp-product-grid-row .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.real-life2.finals-crushing .lp-product.focus .shogun-image-container.shape {
@@ -34818,7 +34818,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Fitness .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 13.58vw;
   width: 48.4vw;
@@ -34828,8 +34828,8 @@ a.ui-datepicker-prev.ui-corner-all {
   letter-spacing: 0.04em;
 }
 .lp-wrapper.Fitness .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.Fitness .lp-image-with-text .shg-rich-text p:last-child {
@@ -34892,8 +34892,8 @@ a.ui-datepicker-prev.ui-corner-all {
   display: none;
 }
 .lp-wrapper.Fitness .lp-product-grid-row .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
   border: none;
   line-height: 13.58vw;
@@ -34904,9 +34904,9 @@ a.ui-datepicker-prev.ui-corner-all {
   letter-spacing: 0.04em;
 }
 .lp-wrapper.Fitness .lp-product-grid-row .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
   color: #fff !important;
-  border-color: #7a2363;
+  border-color: #2d2d2dff;
 }
 
 @media (min-width: 768px) {
@@ -35248,8 +35248,8 @@ a.ui-datepicker-prev.ui-corner-all {
   display: none;
 }
 .lp-wrapper.hny .lp-product-grid-row .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
   border: none;
   line-height: 13.58vw;
@@ -35260,9 +35260,9 @@ a.ui-datepicker-prev.ui-corner-all {
   letter-spacing: 0.04em;
 }
 .lp-wrapper.hny .lp-product-grid-row .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
   color: #fff !important;
-  border-color: #7a2363;
+  border-color: #2d2d2dff;
 }
 
 .lp-wrapper.hny.adult .lp-hero-image .shg-box-content > .shg-c:first-child .shg-rich-text h1 {
@@ -35496,7 +35496,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.v-day .shg-rich-text .shop-btn {
   margin-top: 6.692307692vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 15.12820513vw;
@@ -35508,8 +35508,8 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 1.538461538vw;
 }
 .lp-wrapper.v-day .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.v-day .shogun-heading-component {
@@ -35688,10 +35688,10 @@ a.ui-datepicker-prev.ui-corner-all {
   white-space: nowrap;
   border-radius: 1.538461538vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.v-day .lp-image-with-text-promo > .shg-box-content .shg-c:last-child .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 
@@ -35704,7 +35704,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .lp-wrapper.v-day .shg-rich-text .shop-btn {
     margin-top: 2.777777778vw;
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
     border: none;
     line-height: 4.097222222vw;
@@ -35863,7 +35863,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .lp-wrapper.v-day .shg-rich-text .shop-btn {
     margin-top: 30px;
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
     border: none;
     line-height: 59px;
@@ -36024,7 +36024,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Sleep .shg-rich-text .shop-btn {
   margin-top: 6.692307692vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 13.58974359vw;
@@ -36036,8 +36036,8 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 1.538461538vw;
 }
 .lp-wrapper.Sleep .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.Sleep .shogun-heading-component {
@@ -36093,7 +36093,7 @@ a.ui-datepicker-prev.ui-corner-all {
   vertical-align: top;
 }
 .lp-wrapper.Sleep .lp-text-statement .shg-c p a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.Sleep .lp-carousel-wrapper {
   padding-top: 7.82051282vw;
@@ -36306,10 +36306,10 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Sleep .lp-promo-banner .shg-rich-text .shop-btn {
   background-color: #fff !important;
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.Sleep .lp-promo-banner .shg-rich-text .shop-btn:hover {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
 }
 
@@ -36405,7 +36405,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s linear;
 }
 .lp-wrapper.Sleep01 .lp-collection-grid .shg-rich-text h3 a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 
 .lp-wrapper.Sleep01.alt .lp-text-statement .shg-rich-text {
@@ -36440,10 +36440,10 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Sleep01.alt .image-with-text.adaptogens .shg-rich-text .shop-btn {
   background-color: #fff !important;
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.Sleep01.alt .image-with-text.adaptogens .shg-rich-text .shop-btn:hover {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
 }
 .lp-wrapper.Sleep01.alt .lp-product-grid .shg-row {
@@ -36461,11 +36461,11 @@ a.ui-datepicker-prev.ui-corner-all {
   border-bottom: 1px solid #DBA3E9;
 }
 .lp-wrapper.Sleep01.alt.two .lp-hero-image .shg-rich-text .shop-btn {
-  color: #af1685;
+  color: #c9137eff;
   background-color: #fff;
 }
 .lp-wrapper.Sleep01.alt.two .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.Sleep01.alt.two .lp-carousel-wrapper .lp-carousel .product {
@@ -36807,11 +36807,11 @@ a.ui-datepicker-prev.ui-corner-all {
 
 .lp-wrapper.Sleep05 .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.Sleep05 .lp-hero-image .shg-rich-text .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .lp-wrapper.Sleep05 .lp-product-grid {
   background: linear-gradient(91.24deg, rgba(181, 113, 205, 0.25) 0%, rgba(225, 153, 213, 0.25) 33.5%, rgba(241, 176, 199, 0.25) 68%, rgba(237, 161, 174, 0.25) 100%);
@@ -36892,11 +36892,11 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Sleep06 .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.Sleep06 .lp-hero-image .shg-rich-text .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .lp-wrapper.Sleep06 .lp-text-statement {
   background: linear-gradient(180.24deg, rgba(208, 97, 217, 0.15) 9.03%, rgba(176, 86, 231, 0.15) 54.65%, rgba(99, 95, 252, 0.15) 103.89%);
@@ -37049,7 +37049,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.Sleep07 .lp-hero-image .shg-rich-text .shop-btn:hover {
   color: #fff;
-  background-color: #af1685;
+  background-color: #c9137eff;
 }
 .lp-wrapper.Sleep07 .lp-text-statement {
   background: linear-gradient(180.24deg, rgba(208, 97, 217, 0.15) 9.03%, rgba(176, 86, 231, 0.15) 54.65%, rgba(99, 95, 252, 0.15) 103.89%);
@@ -37356,7 +37356,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transform: scale(1.05);
 }
 .lp-wrapper.Sleep07 .lp-product-card:hover .shg-rich-text p.arrow-btn a {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.Sleep07 .lp-product-card.new .shg-image-content-wrapper {
   position: relative;
@@ -37457,7 +37457,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .lp-wrapper.Sleep .shg-rich-text .shop-btn {
     margin-top: 2.777777778vw;
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
     border: none;
     line-height: 4.097222222vw;
@@ -38146,7 +38146,7 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .lp-wrapper.Sleep .shg-rich-text .shop-btn {
     margin-top: 30px;
-    background-color: #af1685;
+    background-color: #c9137eff;
     color: #fff;
     border: none;
     line-height: 59px;
@@ -38516,7 +38516,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.adaptogens .shg-rich-text .shop-btn {
   margin-top: 5.392307692vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 13.58974359vw;
   width: 48.46153846vw;
@@ -38527,8 +38527,8 @@ a.ui-datepicker-prev.ui-corner-all {
   border-radius: 1.538461538vw;
 }
 .lp-wrapper.adaptogens .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.adaptogens .lp-hero-image .shg-c:last-child {
@@ -39172,7 +39172,7 @@ a.ui-datepicker-prev.ui-corner-all {
   line-height: 1.266;
 }
 .rewards-page .events-title, .rewards-page .redemption-title h2 {
-  color: #af1685;
+  color: #c9137eff;
   font-weight: 400;
   text-align: center;
   font-size: 32px;
@@ -39203,10 +39203,10 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .rewards-page .redemption-title p.points {
   display: inline-block;
-  color: #af1685;
+  color: #c9137eff;
   padding: 0.5em 1em;
-  border-top: 2px solid #af1685;
-  border-bottom: 2px solid #af1685;
+  border-top: 2px solid #c9137eff;
+  border-bottom: 2px solid #c9137eff;
 }
 .rewards-page .redemption-methods {
   text-align: center;
@@ -39226,7 +39226,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin: 24px 0;
 }
 .rewards-page .redemption-methods .redemptions-list .redemption-item h3 {
-  color: #af1685;
+  color: #c9137eff;
   font-size: 24px;
   font-weight: 400;
   font-style: normal;
@@ -39368,7 +39368,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.BTS23 .shg-rich-text .shop-btn {
   margin-top: 10.25641026vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 13.58974359vw;
@@ -39382,8 +39382,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.BTS23 .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.BTS23 .lp-hero-image .shg-align-container .shg-c:last-child {
@@ -39403,11 +39403,11 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.BTS23 .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.BTS23 .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.BTS23 .lp-image-with-text {
@@ -39582,19 +39582,19 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s linear;
 }
 .lp-wrapper.BTS23 .lp-page-links .shg-c-lg-4 .shg-rich-text p a:hover {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.BTS23 .lp-page-links .shg-c-lg-4 .shg-rich-text p a:hover span {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.BTS23 .lp-page-links .shg-c-lg-4 .shg-rich-text p a span {
   transition: color 0.25s linear;
 }
 .lp-wrapper.BTS23 .lp-page-links .shg-c-lg-4:hover .shg-rich-text p a {
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.BTS23 .lp-page-links .shg-c-lg-4:hover .shg-rich-text p a span {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.BTS23 .lp-banner .shg-box-content > .shg-c:last-child {
   position: absolute;
@@ -39625,11 +39625,11 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-top: 5.128205128vw;
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.BTS23 .lp-banner .shg-box-content > .shg-c:last-child .shg-rich-text p .shop-btn:hover {
-  background-color: #af1685 !important;
-  border-color: #af1685 !important;
+  background-color: #c9137eff !important;
+  border-color: #c9137eff !important;
   color: #fff !important;
 }
 
@@ -40099,11 +40099,11 @@ a.ui-datepicker-prev.ui-corner-all {
   }
   .lp-wrapper.BTS23.lp-wrapper.BTS23.Parents2 .lp-banner .shg-box-content > .shg-c:last-child .shg-rich-text p .shop-btn {
     color: #fff;
-    background-color: #af1685;
-    border-color: #af1685;
+    background-color: #c9137eff;
+    border-color: #c9137eff;
   }
   .lp-wrapper.BTS23.lp-wrapper.BTS23.Parents2 .lp-banner .shg-box-content > .shg-c:last-child .shg-rich-text p .shop-btn:hover {
-    color: #af1685 !important;
+    color: #c9137eff !important;
     background-color: #fff !important;
     border-color: #fff !important;
   }
@@ -40302,8 +40302,8 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: none;
 }
 .lp-wrapper.bts-2024 .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.bts-2024 .lp-hero {
@@ -40413,13 +40413,13 @@ a.ui-datepicker-prev.ui-corner-all {
   color: #03B5CD !important;
 }
 .lp-wrapper.bts-2024 .lp-product-slider .product .shg-rich-text p a:hover span {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.bts-2024 .lp-product-slider .product:hover .shg-image-content-wrapper img {
   top: -1vw;
 }
 .lp-wrapper.bts-2024 .lp-product-slider .product:hover .shg-rich-text p a span {
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.bts-2024 .lp-product-slider.slider1 {
   background-image: url("../../../files/bg-my-top-friends5950.svg?v=1721211848");
@@ -40620,7 +40620,7 @@ a.ui-datepicker-prev.ui-corner-all {
   width: 11.79487179vw;
   height: 11.79487179vw;
   top: 55vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   border-radius: 12vw;
   transition: none;
 }
@@ -41282,7 +41282,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.sexual-health .shg-rich-text .shop-btn {
   margin-top: 7.692307692vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 13.58974359vw;
@@ -41296,8 +41296,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.sexual-health .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.sexual-health .lp-hero-image .shg-box-content .shogun-image-container.mobile {
@@ -41344,14 +41344,14 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   margin-top: 6.666666667vw;
   margin-left: auto;
   margin-right: auto;
 }
 .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text:before {
@@ -41444,11 +41444,11 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.sexual-health .lp-content-wrapper .lp-image-with-text .shg-rich-text .shop-btn {
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.sexual-health .lp-content-wrapper .lp-image-with-text .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.sexual-health .lp-trust {
@@ -41552,14 +41552,14 @@ a.ui-datepicker-prev.ui-corner-all {
   .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text .shop-btn {
     background-color: #fff;
     border-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     margin-top: 2.361111111vw;
     margin-left: auto;
     margin-right: auto;
   }
   .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text .shop-btn:hover {
-    background-color: #af1685;
-    border-color: #af1685;
+    background-color: #c9137eff;
+    border-color: #c9137eff;
     color: #fff;
   }
   .lp-wrapper.sexual-health .lp-hero-image .shg-rich-text:before {
@@ -41759,7 +41759,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.mowo2023 .shg-rich-text .shop-btn {
   margin-top: 4.102564103vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 13.58974359vw;
   width: 48.46153846vw;
@@ -41772,8 +41772,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.mowo2023 .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.mowo2023 .shg-rich-text img {
@@ -41831,15 +41831,15 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.mowo2023 .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   margin-top: 6.666666667vw;
   margin-bottom: 7.179487179vw;
   margin-left: auto;
   margin-right: auto;
 }
 .lp-wrapper.mowo2023 .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.mowo2023 .lp-image-with-text {
@@ -41909,7 +41909,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.mowo2023 .lp-product-grid .shg-rich-text .shop-btn {
   margin-top: 4.102564103vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 13.58974359vw;
@@ -41923,8 +41923,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.mowo2023 .lp-product-grid .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.mowo2023 .lp-product-grid .lp-product .shogun-image-container {
@@ -42298,7 +42298,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.hny2023 .shg-rich-text .shop-btn {
   margin-top: 7.692307692vw;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 13.58974359vw;
@@ -42312,8 +42312,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.hny2023 .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.hny2023 .lp-hero-image .shg-c:last-child {
@@ -42352,14 +42352,14 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.hny2023 .lp-hero-image .shg-rich-text .shop-btn {
   background-color: #fff;
   border-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   margin-top: 6.666666667vw;
   margin-left: auto;
   margin-right: auto;
 }
 .lp-wrapper.hny2023 .lp-hero-image .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff;
 }
 .lp-wrapper.hny2023 .lp-product-grid {
@@ -42401,7 +42401,7 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-bottom: 0;
 }
 .lp-wrapper.hny2023 .lp-product-grid .product .shg-rich-text .shop-btn {
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   border: none;
   line-height: 6.666666667vw;
@@ -42412,8 +42412,8 @@ a.ui-datepicker-prev.ui-corner-all {
   margin-top: 0;
 }
 .lp-wrapper.hny2023 .lp-product-grid .product .shg-rich-text .shop-btn:hover {
-  background-color: #7a2363;
-  border-color: #7a2363;
+  background-color: #2d2d2dff;
+  border-color: #2d2d2dff;
   color: #fff !important;
 }
 .lp-wrapper.hny2023 .lp-sleep-promo {
@@ -42564,14 +42564,14 @@ a.ui-datepicker-prev.ui-corner-all {
   .lp-wrapper.hny2023 .lp-hero-image .shg-rich-text .shop-btn {
     background-color: #fff;
     border-color: #fff;
-    color: #af1685;
+    color: #c9137eff;
     margin-top: 2.361111111vw;
     margin-left: 0;
     margin-right: 0;
   }
   .lp-wrapper.hny2023 .lp-hero-image .shg-rich-text .shop-btn:hover {
-    background-color: #af1685;
-    border-color: #af1685;
+    background-color: #c9137eff;
+    border-color: #c9137eff;
     color: #fff;
   }
   .lp-wrapper.hny2023 .lp-product-grid {
@@ -42805,7 +42805,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.brainy-chews .shg-rich-text .shop-btn {
   margin-top: 7.692307692vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 11.53846154vw;
   width: 44.61538462vw;
@@ -42818,8 +42818,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.brainy-chews .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.brainy-chews .link-below {
@@ -43498,7 +43498,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.lollypops .shg-rich-text .shop-btn {
   margin-top: 7.692307692vw;
   background-color: #fff;
-  color: #af1685;
+  color: #c9137eff;
   border: none;
   line-height: 11.53846154vw;
   width: 44.61538462vw;
@@ -43511,8 +43511,8 @@ a.ui-datepicker-prev.ui-corner-all {
   text-transform: uppercase;
 }
 .lp-wrapper.lollypops .shg-rich-text .shop-btn:hover {
-  background-color: #af1685;
-  border-color: #af1685;
+  background-color: #c9137eff;
+  border-color: #c9137eff;
   color: #fff !important;
 }
 .lp-wrapper.lollypops .link-below {
@@ -43938,10 +43938,10 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.lollypops .lp-promo-banner .shg-rich-text .shop-btn {
   background-color: #fff !important;
-  color: #af1685 !important;
+  color: #c9137eff !important;
 }
 .lp-wrapper.lollypops .lp-promo-banner .shg-rich-text .shop-btn:hover {
-  background-color: #af1685 !important;
+  background-color: #c9137eff !important;
   color: #fff !important;
 }
 
@@ -44318,12 +44318,12 @@ a.ui-datepicker-prev.ui-corner-all {
   margin: 0 auto 30px;
   padding: 20px 10px;
   background: #FFF8F3;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
   border-radius: 10px;
 }
 .template-adult-health #MainContent .adult-health-hero h1 {
   font-size: 30px;
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 5px;
   font-weight: 800;
   line-height: 1.2;
@@ -44331,7 +44331,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .template-adult-health #MainContent .adult-health-hero .rte p {
   font-size: 18px;
   font-weight: 500;
-  color: #af1685;
+  color: #c9137eff;
 }
 .template-adult-health .adult-health-hero {
   text-align: center;
@@ -44350,7 +44350,7 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .template-adult-health .adult-health-menu ul li a {
   border-radius: 10px;
-  background-color: #af1685;
+  background-color: #c9137eff;
   color: #fff;
   font-weight: 800;
   font-size: 21px;
@@ -44359,14 +44359,14 @@ a.ui-datepicker-prev.ui-corner-all {
   width: 100%;
   display: block;
   transition: background-color 0.25s linear, color 0.25s linear;
-  border: 2px solid #af1685;
+  border: 2px solid #c9137eff;
 }
 .template-adult-health .adult-health-menu ul li a br {
   display: none;
 }
 .template-adult-health .adult-health-menu ul li a:hover {
   background-color: #FFF8F3;
-  color: #af1685;
+  color: #c9137eff;
 }
 .template-adult-health .adult-health-menu ul li:last-child {
   margin-bottom: 0;
@@ -44485,7 +44485,7 @@ a.ui-datepicker-prev.ui-corner-all {
 .lp-wrapper.hny-2025 .shg-rich-text p.arrow-btn a {
   display: block;
   width: 100%;
-  background-color: #af1685;
+  background-color: #c9137eff;
   font-size: 3.58974359vw;
   font-weight: 700;
   text-transform: uppercase;
@@ -44496,7 +44496,7 @@ a.ui-datepicker-prev.ui-corner-all {
   border: none;
 }
 .lp-wrapper.hny-2025 .shg-rich-text p.arrow-btn a:hover {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.hny-2025 .shg-rich-text p.arrow-btn a:after {
   content: "";
@@ -44553,7 +44553,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transform: scale(1.05);
 }
 .lp-wrapper.hny-2025 .lp-product-card:hover .shg-rich-text p.arrow-btn a {
-  background-color: #7a2363;
+  background-color: #2d2d2dff;
 }
 .lp-wrapper.hny-2025 .lp-product-single {
   padding: 3.846153846vw 5.128205128vw;
@@ -44650,12 +44650,12 @@ a.ui-datepicker-prev.ui-corner-all {
 }
 .lp-wrapper.hny-2025 .lp-three-icons .shg-rich-text h2 {
   font-size: 7.692307692vw;
-  color: #af1685;
+  color: #c9137eff;
   margin-bottom: 7.692307692vw;
 }
 .lp-wrapper.hny-2025 .lp-three-icons .shg-rich-text p {
   font-size: 4.615384615vw;
-  color: #af1685;
+  color: #c9137eff;
 }
 .lp-wrapper.hny-2025 .lp-three-icons .shg-rich-text p:first-child {
   margin-bottom: 3.58974359vw;
@@ -44707,7 +44707,7 @@ a.ui-datepicker-prev.ui-corner-all {
   transition: color 0.25s linear;
 }
 .lp-wrapper.hny-2025 .lp-three-promos .shg-rich-text h3 a:hover {
-  color: #7a2363;
+  color: #2d2d2dff;
 }
 .lp-wrapper.hny-2025 .lp-three-promos .shg-rich-text p {
   font-size: 4.102564103vw;
