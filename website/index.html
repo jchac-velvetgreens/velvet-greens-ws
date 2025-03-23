@@ -8283,23 +8283,6 @@ Zinc</span></a>
   
 
   <div class="slideshow fader">
-      
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
 <div class="FeaturedProduct slide fader relaxing-magnesium  product-">
   <div class="inner">
     <a class="image-holder" href="products/relaxing-magnesium.html">
@@ -8718,39 +8701,49 @@ Zinc</span></a>
   <div class="primary">
     <div class="inner">
       
-      <div class="newsletter half">
-        <div class="holder form-holder"><form method="post" action="https://website/contact#ContactFooter" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form"><input type="hidden" name="form_type" value="customer" /><input type="hidden" name="utf8" value="✓" /><input type="hidden" name="contact[tags]" value="newsletter">
-  <div class="newsletter-form__field-wrapper">
-    <div class="field">
-      <label class="field__label" for="NewsletterForm--footer">
-        Regístrate para recibir promociones, obsequios y noticias sobre nuestros productos
-      </label>
-      <div class="klaviyo_field_group">
-        <input
-          id="NewsletterForm--footer"
-          type="email"
-          name="contact[email]"
-          class="field__input"
-          value=""
-          aria-required="true"
-          autocorrect="off"
-          autocapitalize="off"
-          autocomplete="email"
-          
-          placeholder="Correo-e"
-          required
-        >
-        <button
-          type="submit"
-          class="newsletter-form__button field__button klaviyo_submit_button btn"
-          name="commit"
-          id="Subscribe"
-          aria-label="Submit"
-        >
-        </button>
+    <div class="newsletter half">
+      <div class="holder form-holder">
+        <form method="post" action="https://script.google.com/macros/s/AKfycbyyYz_DRoydvzZSXON8U1IfsUZb31NZ97Q-3C0mQDWRJaVOh3CnG8bpIoq3LAms0igzvg/exec" id="ContactFooter" accept-charset="UTF-8" class="footer__newsletter newsletter-form">
+          <div class="newsletter-form__field-wrapper">
+            <div class="field">
+              <label class="field__label" for="NewsletterForm--footer">
+                Regístrate para recibir promociones, obsequios y noticias sobre nuestros productos
+              </label>
+              <div class="klaviyo_field_group">
+                <input type="email" name="email" required placeholder="Enter your email" />
+                <button
+                  type="submit"
+                  class="newsletter-form__button field__button klaviyo_submit_button btn"
+                  name="commit"
+                  id="Subscribe"
+                  aria-label="Submit"
+                >
+                </button>
+              </div>
+            </div>
+          </div>
+          <!-- Optional JavaScript to show success message without reloading -->
+          <script>
+            const form = document.getElementById("ContactFooter");
+            form.addEventListener("submit", function (e) {
+              e.preventDefault();
+              const formData = new FormData(form);
+              fetch(form.action, {
+                method: "POST",
+                body: formData
+              }).then(response => response.text())
+                .then(result => {
+                  alert("✅ ¡Suscrito con éxito!");
+                  form.reset();
+                })
+                .catch(error => {
+                  alert("❌ Hubo un error. Intenta nuevamente");
+                });
+            });
+          </script>
+        </form>
       </div>
-    </div></div></form></div>
-      </div>
+    </div>
       <div class="menu half">
         <nav class="footer-menu" role="navigation">
             <ul id="menu-footer-menu" class="menu">
@@ -8759,7 +8752,7 @@ Zinc</span></a>
               
                 <li><a href="pages/refer.html">Refiere y gana un 15% Off</a></li>
               
-                <li><a href="https://olly.tyb.xyz/">Conviértete en Embajador Velvet</a></li>
+                <!--<li><a href="https://olly.tyb.xyz/">Conviértete en Embajador Velvet</a></li>-->
               
                 <li><a href="pages/rewards.html">Puntos Velvet</a></li>
               
@@ -8779,7 +8772,7 @@ Zinc</span></a>
         <nav class="social-menu">
           <ul class="menu">
             <li class="instagram menu-item">
-              <a href="https://www.instagram.com/ollywellness/" target="_blank" rel="noopener" aria-label="Instagram - new-window">
+              <a href="https://www.instagram.com/velvet.greens/" target="_blank" rel="noopener" aria-label="Instagram - new-window">
                 <span style="display: none;">"Instagram<span class="hide"> – Opens in new window</span></span>
                 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
                    viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
