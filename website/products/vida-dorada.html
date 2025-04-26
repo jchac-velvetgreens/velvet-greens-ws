@@ -1,10 +1,7 @@
 
 <!doctype html>
-  <!--[if IE 9]> <html class="ie9 no-js supports-no-cookies" lang="en"> <![endif]-->
-  <!--[if (gt IE 9)|!(IE)]><!-->
-    <html class="no-js supports-no-cookies" lang="en"> <!--<![endif]-->
+    <html class="no-js supports-no-cookies" lang="en"> 
     
-<!-- Mirrored from www.olly.com/products/delightful-iron by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 17 Mar 2025 19:25:54 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
 <head>
       <script>const CONVERT_PROJECT_ID = '1002950_10024145'</script>
@@ -1222,7 +1219,7 @@ text-align: center;
 
 <div id="content" role="main" class="delightful-iron">
 
-<a class="fixed-add-to-cart-btn">Add to Cart – <span class="price"></span></a>
+  <a class="fixed-add-to-cart-btn" href="https://api.whatsapp.com/send?phone=573208466568&text=Quiero%20Vida%20Dorada">Comprar ahora!</a>
 
 <div id="shopify-section-product-promo-bar" class="shopify-section">
 <section class="PromoBar">
@@ -1306,7 +1303,7 @@ text-align: center;
 </h1>
 <meta itemprop="image" content="files/curcuma-empaque.png"/>
 <div class="price-reviews">
-  <span class="price">TBD
+  <span class="price">Fuera de cosecha
   </span>
   <div data-bv-show="rating_summary" data-bv-productId="7293833674827">
 
@@ -1326,27 +1323,25 @@ text-align: center;
 
 </p>
 </div>
-<form method="post" action="https://api.whatsapp.com/send?phone=573208466568&text=Quiero%20Curcuma%20en%20Polvo" id="product_form_7293833674827" accept-charset="UTF-8" class="shopify-product-form" enctype="multipart/form-data" data-product-id="7293833674827" data-product-form="" data-product-handle="delightful-iron" data-enable-history-state="true">
-<input type="hidden" name="form_type" value="product" /><input type="hidden" name="utf8" value="✓" />
 
-
-
-
-
-<script>
-var productIds = [];
-
-window.order_line_items = productIds;
-</script>   
-<span id="og-selling-plan-map-41280214499403-3_3" selling-plan-id="610074699" style="display:none !important;"></span>
-<span id="og-selling-plan-map-41280214499403-1_3" selling-plan-id="715751499" style="display:none !important;"></span>
-<span id="og-selling-plan-map-41280214499403-2_3" selling-plan-id="715784267" style="display:none !important;"></span>
-
-<!--      
-<og-offer product="41280214499403" location="pdp" os-version="1" style="display:none;"></og-offer>
--->  
-
-
+<form method="GET" action="https://api.whatsapp.com/send?">
+  <input type="hidden" name="phone" value="573208466568">
+  <input type="hidden" name="text" value="Quiero%20Vida%20Dorada">
+  
+  <script>
+  var productIds = [];
+  
+  window.order_line_items = productIds;
+  </script>   
+  <span id="og-selling-plan-map-41280214499403-3_3" selling-plan-id="610074699" style="display:none !important;"></span>
+  <span id="og-selling-plan-map-41280214499403-1_3" selling-plan-id="715751499" style="display:none !important;"></span>
+  <span id="og-selling-plan-map-41280214499403-2_3" selling-plan-id="715784267" style="display:none !important;"></span>
+  
+  <!--      
+  <og-offer product="41280214499403" location="pdp" os-version="1" style="display:none;"></og-offer>
+  -->  
+  
+  
   <div class="price-block">
     <span class="item-quantity">
       <div class="select-holder">
@@ -1359,17 +1354,14 @@ window.order_line_items = productIds;
         </select>
       </div>
     </span>
-
-    <button id="add-to-cart" name="add" class="btn shop-btn" data-ecommerce-id="7293833674827" data-title="Vida Dorada" data-image-url="" data-price="" data-quarterly-price="">
+  
+    <button name="add" class="btn shop-btn" data-ecommerce-id="7293833674827" data-title="Mucuna Pruriens" data-image-url="" data-price="" data-quarterly-price="">
       Comprar ahora
     </button>
-    <div class="oos-message variant  ">
-      <p class="message-discontinued">Fuera de cosecha</p>
-    </div>
   </div>
-
-<input type="hidden" name="product-id" value="7293833674827" />
-<input type="hidden" name="section-id" value="product-info" />
+  
+  <input type="hidden" name="product-id" value="7293833674827">
+  <input type="hidden" name="section-id" value="product-info">
 </form>
 
 <div class="dk-flat-static"></div>
@@ -3497,7 +3489,32 @@ document.addEventListener("rebuy:smarcart.show", () => {
   window.rebuyAppEmbedEnabled = true;
 </script>
 <script async src="../../cdn.rebuyengine.com/onsite/js/rebuy31b5.js?shop=ollypbc.myshopify.com"></script>
-</div></body>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tabs li');
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', function(e) {
+        e.preventDefault(); // prevent the default link behavior
+
+        // Remove "current" from all tabs
+        tabs.forEach(t => t.classList.remove('current'));
+
+        // Add "current" to the clicked tab
+        this.classList.add('current');
+
+        // OPTIONAL: Show/hide the tab content
+        const rel = this.querySelector('a').getAttribute('rel');
+        const contents = document.querySelectorAll('.tab-content-wrap .text-info');
+        
+        contents.forEach(c => c.style.display = 'none'); // hide all
+        document.querySelector('.' + rel).style.display = 'block'; // show the selected
+      });
+    });
+  });
+</script>
+
+</body>
 
 </html>
-  
