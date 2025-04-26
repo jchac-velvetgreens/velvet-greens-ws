@@ -3487,7 +3487,33 @@ document.addEventListener("rebuy:smarcart.show", () => {
   window.rebuyAppEmbedEnabled = true;
 </script>
 <script async src="../../cdn.rebuyengine.com/onsite/js/rebuy31b5.js?shop=ollypbc.myshopify.com"></script>
-</div></body>
+</div>
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const tabs = document.querySelectorAll('.tabs li');
+
+    tabs.forEach(tab => {
+      tab.addEventListener('click', function(e) {
+        e.preventDefault(); // prevent the default link behavior
+
+        // Remove "current" from all tabs
+        tabs.forEach(t => t.classList.remove('current'));
+
+        // Add "current" to the clicked tab
+        this.classList.add('current');
+
+        // OPTIONAL: Show/hide the tab content
+        const rel = this.querySelector('a').getAttribute('rel');
+        const contents = document.querySelectorAll('.tab-content-wrap .text-info');
+        
+        contents.forEach(c => c.style.display = 'none'); // hide all
+        document.querySelector('.' + rel).style.display = 'block'; // show the selected
+      });
+    });
+  });
+</script>
+
+</body>
 
 </html>
   
